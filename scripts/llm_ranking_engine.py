@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rank LLM-positive EURLEX57K candidates at selected probing prefixes."""
+"""Rank LLM-positive candidates at selected probing prefixes."""
 
 from __future__ import annotations
 
@@ -19,10 +19,7 @@ except ImportError as exc:  # pragma: no cover
 
 
 ROOT = Path(__file__).resolve().parent
-DEFAULT_SOURCE_DIR = ROOT / (
-    "outputs_eurlex57k_round_robin_dim4v2_dim3_anchor_openaiformat_"
-    "batch10_unit1_update2_targetdecided45000"
-)
+DEFAULT_SOURCE_DIR = ROOT / "runs/dataset/probe"
 DEFAULT_PREFIXES = [2_500, 6_250, 10_000, 12_500, 13_750]
 
 SYSTEM_PROMPT = (

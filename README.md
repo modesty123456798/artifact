@@ -1,6 +1,6 @@
-# Full Isolation Join reproduction
+# Isolation Join reproduction
 
-This directory reproduces the paper's Full Isolation Join method:
+This directory reproduces our Isolation Join method:
 
 `Ours: {sim(summary(r), s), sim(t-summary(r), s)}`.
 
@@ -48,11 +48,11 @@ redistributing the included validation snapshots.
 
 | Dataset | Full Isolation Join dimensions | Batch size | Batches / probe unit | Round-robin update | Default probe target |
 | --- | --- | ---: | ---: | ---: | ---: |
-| BioDEX | `score_dim8`, `score_dim6` | 10 | 1 | 2 | 22,540 |
-| EURLEX57K | `score_dim4_version2_article_end`, `score_dim3` | 10 | 1 | 2 | 45,000 |
-| Amazon-531 | `score_dim4`, `score_dim7` | 4 | 2 | 2 | 12,000 |
-| DBpedia-298 | `score_dim4`, `score_dim3` | 4 | 2 | 2 | 22,000 |
-| ABT | `score_dim3`, `score_dim4` | 4 | 1 | 2 | 12,000 |
+| BioDEX | `score_summary`, `score_target_aware` | 10 | 1 | 2 | 22,540 |
+| EURLEX57K | `score_summary`, `score_target_aware` | 10 | 1 | 2 | 45,000 |
+| Amazon-531 | `score_summary`, `score_target_aware` | 4 | 2 | 2 | 12,000 |
+| DBpedia-298 | `score_summary`, `score_target_aware` | 4 | 2 | 2 | 22,000 |
+| ABT | `score_summary`, `score_target_aware` | 4 | 1 | 2 | 12,000 |
 
 The prompt files, map models, mapping temperatures, source data paths, and
 ground-truth keys are all pinned in `datasets.py`. The self-contained
@@ -119,7 +119,9 @@ The output score file is:
 `<run-root>/dimensions/pairs_indexed_scored_full_isolation_join.csv`
 
 It has the original `label`, pair IDs, direct score, no-context score, and
-target-aware score. Each existing dataset scorer is invoked with
+target-aware score. The canonical columns are `score_direct` for `sim(r, s)`,
+`score_summary` for `sim(summary(r), s)`, and `score_target_aware` for
+`sim(t-summary(r), s)`. Each existing dataset scorer is invoked with
 `text-embedding-3-small`, an 8,191-token input limit, L2-normalized embeddings,
 cosine/dot-product scoring, independent min-max score normalization, and
 embedding caching. The scorer metadata records token counts, input truncation,
@@ -154,7 +156,7 @@ prefix, records prompt/token usage, and writes one subdirectory per prefix.
 The ABT ranking system message is a canonical artifact prompt for new runs;
 the ABT historical ranking system message was not persisted. This provenance
 distinction is recorded in `artifact/specs/abt/README.md` and
-`artifact/specs/abt/experiment_spec.json`.
+the ABT prompt files in that directory.
 
 ## Stochasticity
 

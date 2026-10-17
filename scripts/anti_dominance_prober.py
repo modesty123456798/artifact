@@ -1296,19 +1296,13 @@ def main() -> None:
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path(
-            "./outputs_biodex_round_robin_dim46_"
-            "batch1_unit10_anchor_openaiformat_update2_targetdecided5000"
-        ),
+        default=Path("runs/dataset/probe"),
         help="Directory to store all generated outputs (CSV, JSONL, metrics, snapshots).",
     )
     parser.add_argument(
         "--blocking-path",
         type=Path,
-        default=Path(
-            "biodex/combined_data/"
-            "pairs_indexed_scored_dim1_dim2_dim3_dim4_dim5_dim6_dim7_normalized.csv"
-        ),
+        default=Path("runs/dataset/dimensions/pairs_indexed_scored_full_isolation_join.csv"),
         help="Path to the candidate pair CSV.",
     )
     parser.add_argument(
@@ -1461,7 +1455,7 @@ def main() -> None:
     parser.add_argument(
         "--dimension-columns",
         nargs="*",
-        default=["score_dim4", "score_dim6"],
+        default=["score_summary", "score_target_aware"],
         help="Score columns used to compute skybands. Leave empty to process all candidates without skyband filtering.",
     )
     parser.add_argument(

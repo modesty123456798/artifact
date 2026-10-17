@@ -424,7 +424,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--no-context-text-key", required=True)
     parser.add_argument("--target-aware-left-json", type=Path, required=True)
     parser.add_argument("--target-aware-text-key", required=True)
-    parser.add_argument("--direct-score-column", default="score_dim1")
+    parser.add_argument("--direct-score-column", default="score_direct")
     parser.add_argument("--no-context-score-column", required=True)
     parser.add_argument("--target-aware-score-column", required=True)
     parser.add_argument("--output", type=Path, required=True)
