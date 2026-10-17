@@ -16,16 +16,10 @@ The bundled evaluation inputs are under `data/`. See
 
 ## Run
 
-Inspect the resolved commands without making API calls:
-
-```bash
-python run_pipeline.py --dataset biodex --stage all --print-commands
-```
-
 Run the three stages separately:
 
 ```bash
-# Generate mapped representations and embedding similarities.
+# Generate the two mapped representations and their embedding similarities.
 python run_pipeline.py --dataset biodex --stage dimensions
 
 # Run anti-dominance LLM probing.
@@ -42,15 +36,14 @@ an output directory.
 
 ## Pipeline
 
-1. `dimensions`: map left records, then compute normalized embedding scores.
+1. `dimensions`: map left records and generate the two normalized embedding
+   similarity dimensions.
 2. `probe`: apply two-dimensional anti-dominance, round-robin LLM probing.
 3. `rank` and `metrics`: rank LLM-positive candidates at selected prefixes and
    compute ranking precision.
 
-The three score columns are `score_direct = sim(r, s)`,
-`score_summary = sim(summary(r), s)`, and
-`score_target_aware = sim(t-summary(r), s)`. Reported Isolation Join runs use
-the latter two columns. Dataset prompts and settings are declared in
+The two score columns are `score_summary = sim(summary(r), s)` and
+`score_target_aware = sim(t-summary(r), s)`. Dataset prompts and settings are declared in
 `datasets.py`; prompt files are in `artifact/specs/<dataset>/`.
 
 ## External baselines

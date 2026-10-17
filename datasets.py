@@ -47,7 +47,6 @@ DATASETS: dict[str, dict[str, Any]] = {
         },
         "similarity_script": "scripts/embedding_similarity.py",
         "similarity_args": {
-            "direct_score_column": "score_direct",
             "no_context_score_column": "score_summary",
             "target_aware_score_column": "score_target_aware",
         },
@@ -95,7 +94,6 @@ DATASETS: dict[str, dict[str, Any]] = {
         },
         "similarity_script": "scripts/embedding_similarity.py",
         "similarity_args": {
-            "direct_score_column": "score_direct",
             "no_context_score_column": "score_summary",
             "target_aware_score_column": "score_target_aware",
         },
@@ -141,7 +139,6 @@ DATASETS: dict[str, dict[str, Any]] = {
         },
         "similarity_script": "scripts/embedding_similarity.py",
         "similarity_args": {
-            "direct_score_column": "score_direct",
             "no_context_score_column": "score_summary",
             "target_aware_score_column": "score_target_aware",
         },
@@ -187,7 +184,6 @@ DATASETS: dict[str, dict[str, Any]] = {
         },
         "similarity_script": "scripts/embedding_similarity.py",
         "similarity_args": {
-            "direct_score_column": "score_direct",
             "no_context_score_column": "score_summary",
             "target_aware_score_column": "score_target_aware",
         },
@@ -234,7 +230,6 @@ DATASETS: dict[str, dict[str, Any]] = {
         },
         "similarity_script": "scripts/embedding_similarity.py",
         "similarity_args": {
-            "direct_score_column": "score_direct",
             "no_context_score_column": "score_summary",
             "target_aware_score_column": "score_target_aware",
         },

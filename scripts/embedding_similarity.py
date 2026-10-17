@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compute three normalized all-pairs embedding similarities for any dataset."""
+"""Compute two normalized all-pairs embedding similarities for any dataset."""
 
 from __future__ import annotations
 
@@ -418,13 +418,10 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--pairs", type=Path, required=True)
     parser.add_argument("--right-json", type=Path, required=True)
     parser.add_argument("--right-text-key", required=True)
-    parser.add_argument("--direct-left-json", type=Path, required=True)
-    parser.add_argument("--direct-text-key", required=True)
     parser.add_argument("--no-context-left-json", type=Path, required=True)
     parser.add_argument("--no-context-text-key", required=True)
     parser.add_argument("--target-aware-left-json", type=Path, required=True)
     parser.add_argument("--target-aware-text-key", required=True)
-    parser.add_argument("--direct-score-column", default="score_direct")
     parser.add_argument("--no-context-score-column", required=True)
     parser.add_argument("--target-aware-score-column", required=True)
     parser.add_argument("--output", type=Path, required=True)
@@ -489,10 +486,6 @@ def main() -> None:
 
     right_texts = load_texts(args.right_json, args.right_text_key)
     source_options = {
-        "direct": (
-            load_texts(args.direct_left_json, args.direct_text_key),
-            args.direct_score_column,
-        ),
         "no_context": (
             load_texts(args.no_context_left_json, args.no_context_text_key),
             args.no_context_score_column,
@@ -579,10 +572,8 @@ def main() -> None:
         "requested_dimensions": args.openai_dimensions,
         "pairs": str(args.pairs.resolve()),
         "right_json": str(args.right_json.resolve()),
-        "direct_left_json": str(args.direct_left_json.resolve()),
         "no_context_left_json": str(args.no_context_left_json.resolve()),
         "target_aware_left_json": str(args.target_aware_left_json.resolve()),
-        "direct_score_column": args.direct_score_column,
         "no_context_score_column": args.no_context_score_column,
         "target_aware_score_column": args.target_aware_score_column,
         "output": str(args.output.resolve()),

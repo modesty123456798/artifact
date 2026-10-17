@@ -11,9 +11,8 @@ dataset-specific prompt text and settings while preserving these semantic roles:
 | `prompts/join_judgment_*` | System and user prompts for anti-dominance LLM probing. |
 | `prompts/ranking_*` | System and user prompts for ranking LLM-positive candidates. |
 
-`score_direct = sim(r, s)` uses the original left and right text and therefore
-has no mapping prompt. Historical target guides are optional inputs for
-`--guide-source saved`; normal artifact runs use `--guide-source regenerate`.
+Historical target guides are optional inputs for `--guide-source saved`; normal
+artifact runs use `--guide-source regenerate`.
 
 Historical dimension identifiers from the development experiments are kept only
 in the external provenance archive, not in this runtime interface.
