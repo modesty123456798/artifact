@@ -36,8 +36,7 @@ an output directory.
 
 ## Pipeline
 
-1. `dimensions`: map left records and generate the two normalized embedding
-   similarity dimensions.
+1. `dimensions`: generate embedding similarity dimensions.
 2. `probe`: apply two-dimensional anti-dominance, round-robin LLM probing.
 3. `rank` and `metrics`: rank LLM-positive candidates at selected prefixes and
    compute ranking precision.
