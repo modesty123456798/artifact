@@ -41,10 +41,6 @@ an output directory.
 3. `rank` and `metrics`: rank LLM-positive candidates at selected prefixes and
    compute ranking precision.
 
-The two score columns are `score_summary = sim(summary(r), s)` and
-`score_target_aware = sim(t-summary(r), s)`. Dataset prompts and settings are declared in
-`datasets.py`; prompt files are in `artifact/specs/<dataset>/`.
-
 ## External baselines
 
 - [DocETL](https://github.com/ucbepic/docetl)
