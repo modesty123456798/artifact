@@ -2,8 +2,6 @@
 
 This directory reproduces our Isolation Join method:
 
-`Ours: {sim(summary(r), s), sim(t-summary(r), s)}`.
-
 ## External baselines
 
 The paper compares Full Isolation Join with three external systems. They are
