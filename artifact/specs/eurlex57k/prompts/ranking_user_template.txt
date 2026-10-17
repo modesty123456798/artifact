@@ -1,0 +1,9 @@
+Given the following {left_label}, rank the Candidate {right_label}s by the likelihood that each concept is described in the {left_label}, ordered from most likely to least likely.
+
+{left_label}:
+«{left_text}»
+
+Candidate {right_label}s:
+{candidate_list}
+
+Return JSON with a single field ranked_list containing only Candidate IDs, ordered from most likely to least likely. Return exactly {expected_count} IDs. Use only the provided Candidate IDs and do not repeat or invent IDs.

@@ -1,0 +1,1595 @@
+[
+  {
+    "product_type": "grocery_gourmet_food"
+  },
+  {
+    "product_type": "meat_poultry"
+  },
+  {
+    "product_type": "jerky"
+  },
+  {
+    "product_type": "toys_games"
+  },
+  {
+    "product_type": "games"
+  },
+  {
+    "product_type": "puzzles"
+  },
+  {
+    "product_type": "jigsaw_puzzles"
+  },
+  {
+    "product_type": "board_games"
+  },
+  {
+    "product_type": "beverages"
+  },
+  {
+    "product_type": "juices"
+  },
+  {
+    "product_type": "beauty"
+  },
+  {
+    "product_type": "makeup"
+  },
+  {
+    "product_type": "nails"
+  },
+  {
+    "product_type": "arts_crafts"
+  },
+  {
+    "product_type": "drawing_painting_supplies"
+  },
+  {
+    "product_type": "action_toy_figures"
+  },
+  {
+    "product_type": "figures"
+  },
+  {
+    "product_type": "dolls_accessories"
+  },
+  {
+    "product_type": "dolls"
+  },
+  {
+    "product_type": "card_games"
+  },
+  {
+    "product_type": "drawing_sketching_tablets"
+  },
+  {
+    "product_type": "baby_toddler_toys"
+  },
+  {
+    "product_type": "shape_sorters"
+  },
+  {
+    "product_type": "health_personal_care"
+  },
+  {
+    "product_type": "personal_care"
+  },
+  {
+    "product_type": "deodorants_antiperspirants"
+  },
+  {
+    "product_type": "nutrition_wellness"
+  },
+  {
+    "product_type": "nutrition_bars_drinks"
+  },
+  {
+    "product_type": "learning_education"
+  },
+  {
+    "product_type": "habitats"
+  },
+  {
+    "product_type": "electronics_for_kids"
+  },
+  {
+    "product_type": "household_supplies"
+  },
+  {
+    "product_type": "household_batteries"
+  },
+  {
+    "product_type": "push_pull_toys"
+  },
+  {
+    "product_type": "stuffed_animals_plush"
+  },
+  {
+    "product_type": "tricycles"
+  },
+  {
+    "product_type": "scooters_wagons"
+  },
+  {
+    "product_type": "clay_dough"
+  },
+  {
+    "product_type": "health_care"
+  },
+  {
+    "product_type": "allergy"
+  },
+  {
+    "product_type": "baby_products"
+  },
+  {
+    "product_type": "gear"
+  },
+  {
+    "product_type": "baby_gyms_playmats"
+  },
+  {
+    "product_type": "shaving_hair_removal"
+  },
+  {
+    "product_type": "skin_care"
+  },
+  {
+    "product_type": "face"
+  },
+  {
+    "product_type": "animals_figures"
+  },
+  {
+    "product_type": "feminine_care"
+  },
+  {
+    "product_type": "music_sound"
+  },
+  {
+    "product_type": "oral_hygiene"
+  },
+  {
+    "product_type": "grown_up_toys"
+  },
+  {
+    "product_type": "dress_up_pretend_play"
+  },
+  {
+    "product_type": "pretend_play"
+  },
+  {
+    "product_type": "novelty_gag_toys"
+  },
+  {
+    "product_type": "bath_body"
+  },
+  {
+    "product_type": "cleansers"
+  },
+  {
+    "product_type": "playsets"
+  },
+  {
+    "product_type": "d_puzzles"
+  },
+  {
+    "product_type": "dollhouses"
+  },
+  {
+    "product_type": "lip_care_products"
+  },
+  {
+    "product_type": "tools_accessories"
+  },
+  {
+    "product_type": "nail_tools"
+  },
+  {
+    "product_type": "eye_care"
+  },
+  {
+    "product_type": "pill_cases_splitters"
+  },
+  {
+    "product_type": "hair_care"
+  },
+  {
+    "product_type": "styling_products"
+  },
+  {
+    "product_type": "electronic_toys"
+  },
+  {
+    "product_type": "body"
+  },
+  {
+    "product_type": "toy_balls"
+  },
+  {
+    "product_type": "eyes"
+  },
+  {
+    "product_type": "trading_card_games"
+  },
+  {
+    "product_type": "foot_care"
+  },
+  {
+    "product_type": "hands_nails"
+  },
+  {
+    "product_type": "sun"
+  },
+  {
+    "product_type": "medical_supplies_equipment"
+  },
+  {
+    "product_type": "daily_living_aids"
+  },
+  {
+    "product_type": "baby_child_care"
+  },
+  {
+    "product_type": "paper_plastic"
+  },
+  {
+    "product_type": "incontinence"
+  },
+  {
+    "product_type": "shampoos"
+  },
+  {
+    "product_type": "conditioners"
+  },
+  {
+    "product_type": "music_players_karaoke"
+  },
+  {
+    "product_type": "cough_cold"
+  },
+  {
+    "product_type": "bath"
+  },
+  {
+    "product_type": "tests"
+  },
+  {
+    "product_type": "building_toys"
+  },
+  {
+    "product_type": "building_sets"
+  },
+  {
+    "product_type": "stress_reduction"
+  },
+  {
+    "product_type": "family_planning_contraceptives"
+  },
+  {
+    "product_type": "vitamins_supplements"
+  },
+  {
+    "product_type": "hair_color"
+  },
+  {
+    "product_type": "pain_relievers"
+  },
+  {
+    "product_type": "cotton_swabs"
+  },
+  {
+    "product_type": "styling_tools"
+  },
+  {
+    "product_type": "first_aid"
+  },
+  {
+    "product_type": "scrubs_body_treatments"
+  },
+  {
+    "product_type": "cleaning_tools"
+  },
+  {
+    "product_type": "pegged_puzzles"
+  },
+  {
+    "product_type": "diabetes"
+  },
+  {
+    "product_type": "magic_kits_accessories"
+  },
+  {
+    "product_type": "gifts"
+  },
+  {
+    "product_type": "albums"
+  },
+  {
+    "product_type": "crib_toys_attachments"
+  },
+  {
+    "product_type": "digestion_nausea"
+  },
+  {
+    "product_type": "electronic_pets"
+  },
+  {
+    "product_type": "sexual_wellness"
+  },
+  {
+    "product_type": "safer_sex"
+  },
+  {
+    "product_type": "thermometers"
+  },
+  {
+    "product_type": "stacking_nesting_toys"
+  },
+  {
+    "product_type": "makeup_remover"
+  },
+  {
+    "product_type": "temporary_tattoos"
+  },
+  {
+    "product_type": "sports_outdoor_play"
+  },
+  {
+    "product_type": "play_tents_tunnels"
+  },
+  {
+    "product_type": "science"
+  },
+  {
+    "product_type": "sports"
+  },
+  {
+    "product_type": "bath_toys"
+  },
+  {
+    "product_type": "puppets"
+  },
+  {
+    "product_type": "systems_accessories"
+  },
+  {
+    "product_type": "health_monitors"
+  },
+  {
+    "product_type": "inflatable_bouncers"
+  },
+  {
+    "product_type": "hobbies"
+  },
+  {
+    "product_type": "model_building_kits_tools"
+  },
+  {
+    "product_type": "blackboards_whiteboards"
+  },
+  {
+    "product_type": "pools_water_fun"
+  },
+  {
+    "product_type": "rattles"
+  },
+  {
+    "product_type": "sandboxes_accessories"
+  },
+  {
+    "product_type": "activity_play_centers"
+  },
+  {
+    "product_type": "car_seat_stroller_toys"
+  },
+  {
+    "product_type": "feeding"
+  },
+  {
+    "product_type": "bottle_feeding"
+  },
+  {
+    "product_type": "breastfeeding"
+  },
+  {
+    "product_type": "diapering"
+  },
+  {
+    "product_type": "diaper_changing_kits"
+  },
+  {
+    "product_type": "puzzle_accessories"
+  },
+  {
+    "product_type": "diaper_pails_refills"
+  },
+  {
+    "product_type": "safety"
+  },
+  {
+    "product_type": "bathroom_safety"
+  },
+  {
+    "product_type": "massage_relaxation"
+  },
+  {
+    "product_type": "gates_doorways"
+  },
+  {
+    "product_type": "nursery"
+  },
+  {
+    "product_type": "furniture"
+  },
+  {
+    "product_type": "monitors"
+  },
+  {
+    "product_type": "cloth_diapers"
+  },
+  {
+    "product_type": "plush_backpacks_purses"
+  },
+  {
+    "product_type": "statues"
+  },
+  {
+    "product_type": "bathing_skin_care"
+  },
+  {
+    "product_type": "bathing_tubs_seats"
+  },
+  {
+    "product_type": "vehicles_remote_control"
+  },
+  {
+    "product_type": "play_vehicles"
+  },
+  {
+    "product_type": "backpacks_carriers"
+  },
+  {
+    "product_type": "craft_kits"
+  },
+  {
+    "product_type": "car_seats_accessories"
+  },
+  {
+    "product_type": "car_seats"
+  },
+  {
+    "product_type": "nursery_d_cor"
+  },
+  {
+    "product_type": "hammering_pounding_toys"
+  },
+  {
+    "product_type": "bedding"
+  },
+  {
+    "product_type": "play_trains_railway_sets"
+  },
+  {
+    "product_type": "rockets"
+  },
+  {
+    "product_type": "stacking_blocks"
+  },
+  {
+    "product_type": "diaper_bags"
+  },
+  {
+    "product_type": "strollers"
+  },
+  {
+    "product_type": "gym_sets_swings"
+  },
+  {
+    "product_type": "pregnancy_maternity"
+  },
+  {
+    "product_type": "maternity_pillows"
+  },
+  {
+    "product_type": "rocking_spring_ride_ons"
+  },
+  {
+    "product_type": "braces"
+  },
+  {
+    "product_type": "accessories"
+  },
+  {
+    "product_type": "vehicle_playsets"
+  },
+  {
+    "product_type": "doll_accessories"
+  },
+  {
+    "product_type": "pet_supplies"
+  },
+  {
+    "product_type": "cats"
+  },
+  {
+    "product_type": "litter_housebreaking"
+  },
+  {
+    "product_type": "spinning_tops"
+  },
+  {
+    "product_type": "sets"
+  },
+  {
+    "product_type": "travel_games"
+  },
+  {
+    "product_type": "pillows_stools"
+  },
+  {
+    "product_type": "battling_tops"
+  },
+  {
+    "product_type": "cameras_camcorders"
+  },
+  {
+    "product_type": "dance_mats"
+  },
+  {
+    "product_type": "food"
+  },
+  {
+    "product_type": "radio_control"
+  },
+  {
+    "product_type": "grooming_healthcare_kits"
+  },
+  {
+    "product_type": "balls"
+  },
+  {
+    "product_type": "tile_games"
+  },
+  {
+    "product_type": "potty_training"
+  },
+  {
+    "product_type": "potties_seats"
+  },
+  {
+    "product_type": "highchairs_booster_seats"
+  },
+  {
+    "product_type": "stuffed_animals_toys"
+  },
+  {
+    "product_type": "dvd_games"
+  },
+  {
+    "product_type": "edge_corner_guards"
+  },
+  {
+    "product_type": "basic_life_skills_toys"
+  },
+  {
+    "product_type": "activity_centers_entertainers"
+  },
+  {
+    "product_type": "thermometer_accessories"
+  },
+  {
+    "product_type": "wipes_holders"
+  },
+  {
+    "product_type": "gift_sets"
+  },
+  {
+    "product_type": "solid_feeding"
+  },
+  {
+    "product_type": "joggers"
+  },
+  {
+    "product_type": "facial_steamers"
+  },
+  {
+    "product_type": "kites_wind_spinners"
+  },
+  {
+    "product_type": "dogs"
+  },
+  {
+    "product_type": "toys"
+  },
+  {
+    "product_type": "walkers"
+  },
+  {
+    "product_type": "slumber_bags"
+  },
+  {
+    "product_type": "die_cast_vehicles"
+  },
+  {
+    "product_type": "easels"
+  },
+  {
+    "product_type": "lips"
+  },
+  {
+    "product_type": "tea"
+  },
+  {
+    "product_type": "reading_writing"
+  },
+  {
+    "product_type": "gourmet_gifts"
+  },
+  {
+    "product_type": "snack_gifts"
+  },
+  {
+    "product_type": "stacking_games"
+  },
+  {
+    "product_type": "sauces_dips"
+  },
+  {
+    "product_type": "sauces"
+  },
+  {
+    "product_type": "breakfast_foods"
+  },
+  {
+    "product_type": "cereals"
+  },
+  {
+    "product_type": "shopping_cart_covers"
+  },
+  {
+    "product_type": "pantry_staples"
+  },
+  {
+    "product_type": "scaled_model_vehicles"
+  },
+  {
+    "product_type": "cooking_baking_supplies"
+  },
+  {
+    "product_type": "personal_video_players_accessories"
+  },
+  {
+    "product_type": "fragrance"
+  },
+  {
+    "product_type": "women_s"
+  },
+  {
+    "product_type": "keepsakes"
+  },
+  {
+    "product_type": "treats"
+  },
+  {
+    "product_type": "swings"
+  },
+  {
+    "product_type": "trains_accessories"
+  },
+  {
+    "product_type": "disposable_diapers"
+  },
+  {
+    "product_type": "plug_play_video_games"
+  },
+  {
+    "product_type": "floor_puzzles"
+  },
+  {
+    "product_type": "fresh_flowers_live_indoor_plants"
+  },
+  {
+    "product_type": "live_indoor_plants"
+  },
+  {
+    "product_type": "weight_loss_products"
+  },
+  {
+    "product_type": "smoking_cessation"
+  },
+  {
+    "product_type": "beauty_fashion"
+  },
+  {
+    "product_type": "mirrors"
+  },
+  {
+    "product_type": "coffee"
+  },
+  {
+    "product_type": "cabinet_locks_straps"
+  },
+  {
+    "product_type": "plush_pillows"
+  },
+  {
+    "product_type": "floor_games"
+  },
+  {
+    "product_type": "makeup_brushes_tools"
+  },
+  {
+    "product_type": "alternative_medicine"
+  },
+  {
+    "product_type": "changing_table_pads_covers"
+  },
+  {
+    "product_type": "men_s"
+  },
+  {
+    "product_type": "step_stools"
+  },
+  {
+    "product_type": "rails_rail_guards"
+  },
+  {
+    "product_type": "laundry"
+  },
+  {
+    "product_type": "women_s_health"
+  },
+  {
+    "product_type": "standard"
+  },
+  {
+    "product_type": "beds_furniture"
+  },
+  {
+    "product_type": "herbs"
+  },
+  {
+    "product_type": "sleep_positioners"
+  },
+  {
+    "product_type": "health_supplies"
+  },
+  {
+    "product_type": "breakfast_cereal_bars"
+  },
+  {
+    "product_type": "body_art"
+  },
+  {
+    "product_type": "condiments"
+  },
+  {
+    "product_type": "breads_bakery"
+  },
+  {
+    "product_type": "cakes"
+  },
+  {
+    "product_type": "dried_beans"
+  },
+  {
+    "product_type": "household_cleaning"
+  },
+  {
+    "product_type": "collars"
+  },
+  {
+    "product_type": "educational_repellents"
+  },
+  {
+    "product_type": "dessert_gifts"
+  },
+  {
+    "product_type": "adult_toys_games"
+  },
+  {
+    "product_type": "teddy_bears"
+  },
+  {
+    "product_type": "therapeutic_skin_care"
+  },
+  {
+    "product_type": "candy_chocolate"
+  },
+  {
+    "product_type": "chocolate_assortments"
+  },
+  {
+    "product_type": "sand_water_tables"
+  },
+  {
+    "product_type": "slot_cars"
+  },
+  {
+    "product_type": "chocolate"
+  },
+  {
+    "product_type": "soft_drinks"
+  },
+  {
+    "product_type": "snack_food"
+  },
+  {
+    "product_type": "chips_crisps"
+  },
+  {
+    "product_type": "licorice"
+  },
+  {
+    "product_type": "feeding_watering_supplies"
+  },
+  {
+    "product_type": "blasters_foam_play"
+  },
+  {
+    "product_type": "chocolate_bars"
+  },
+  {
+    "product_type": "meat_seafood"
+  },
+  {
+    "product_type": "wild_game_fowl"
+  },
+  {
+    "product_type": "spices_seasonings"
+  },
+  {
+    "product_type": "cookies"
+  },
+  {
+    "product_type": "training_behavior_aids"
+  },
+  {
+    "product_type": "gardening_tools"
+  },
+  {
+    "product_type": "bathroom_aids_safety"
+  },
+  {
+    "product_type": "pogo_sticks_hoppers"
+  },
+  {
+    "product_type": "powdered_drink_mixes"
+  },
+  {
+    "product_type": "playards"
+  },
+  {
+    "product_type": "gag_toys_practical_jokes"
+  },
+  {
+    "product_type": "baby_food"
+  },
+  {
+    "product_type": "baby_formula"
+  },
+  {
+    "product_type": "lighters"
+  },
+  {
+    "product_type": "dried_fruit_raisins"
+  },
+  {
+    "product_type": "money_banks"
+  },
+  {
+    "product_type": "marble_runs"
+  },
+  {
+    "product_type": "game_collections"
+  },
+  {
+    "product_type": "kitchen_safety"
+  },
+  {
+    "product_type": "fish_aquatic_pets"
+  },
+  {
+    "product_type": "gum"
+  },
+  {
+    "product_type": "outdoor_safety"
+  },
+  {
+    "product_type": "hair_nails"
+  },
+  {
+    "product_type": "aquarium_lights"
+  },
+  {
+    "product_type": "blocks"
+  },
+  {
+    "product_type": "tandem"
+  },
+  {
+    "product_type": "occupational_physical_therapy_aids"
+  },
+  {
+    "product_type": "packaged_meals_side_dishes"
+  },
+  {
+    "product_type": "indoor_climbers_play_structures"
+  },
+  {
+    "product_type": "pumps_filters"
+  },
+  {
+    "product_type": "beds_accessories"
+  },
+  {
+    "product_type": "energy_drinks"
+  },
+  {
+    "product_type": "sleep_snoring"
+  },
+  {
+    "product_type": "geography"
+  },
+  {
+    "product_type": "small_animals"
+  },
+  {
+    "product_type": "houses_habitats"
+  },
+  {
+    "product_type": "dairy_eggs"
+  },
+  {
+    "product_type": "cheese"
+  },
+  {
+    "product_type": "travel_systems"
+  },
+  {
+    "product_type": "walkie_talkies"
+  },
+  {
+    "product_type": "mobility_aids_equipment"
+  },
+  {
+    "product_type": "sexual_enhancers"
+  },
+  {
+    "product_type": "dips"
+  },
+  {
+    "product_type": "dollhouse_accessories"
+  },
+  {
+    "product_type": "party_mix"
+  },
+  {
+    "product_type": "bathing_accessories"
+  },
+  {
+    "product_type": "grooming"
+  },
+  {
+    "product_type": "baby_seats"
+  },
+  {
+    "product_type": "wind_up_toys"
+  },
+  {
+    "product_type": "sensual_delights"
+  },
+  {
+    "product_type": "hot_cocoa"
+  },
+  {
+    "product_type": "dishwashing"
+  },
+  {
+    "product_type": "carriers_strollers"
+  },
+  {
+    "product_type": "flash_cards"
+  },
+  {
+    "product_type": "brain_teasers"
+  },
+  {
+    "product_type": "nesting_dolls"
+  },
+  {
+    "product_type": "test_kits"
+  },
+  {
+    "product_type": "lightweight"
+  },
+  {
+    "product_type": "hair_loss_products"
+  },
+  {
+    "product_type": "water_treatments"
+  },
+  {
+    "product_type": "birds"
+  },
+  {
+    "product_type": "hair_scalp_treatments"
+  },
+  {
+    "product_type": "cages_accessories"
+  },
+  {
+    "product_type": "gummy_candies"
+  },
+  {
+    "product_type": "gummy_candy"
+  },
+  {
+    "product_type": "jerky_dried_meats"
+  },
+  {
+    "product_type": "houses"
+  },
+  {
+    "product_type": "chocolate_truffles"
+  },
+  {
+    "product_type": "ear_care"
+  },
+  {
+    "product_type": "milk"
+  },
+  {
+    "product_type": "pizza_crusts"
+  },
+  {
+    "product_type": "fresh_baked_cookies"
+  },
+  {
+    "product_type": "hard_candies"
+  },
+  {
+    "product_type": "sports_supplements"
+  },
+  {
+    "product_type": "baking_mixes"
+  },
+  {
+    "product_type": "crackers"
+  },
+  {
+    "product_type": "pork_rinds"
+  },
+  {
+    "product_type": "pasta_noodles"
+  },
+  {
+    "product_type": "trail_mix"
+  },
+  {
+    "product_type": "carriers_travel_products"
+  },
+  {
+    "product_type": "produce"
+  },
+  {
+    "product_type": "fresh_fruits"
+  },
+  {
+    "product_type": "toaster_pastries"
+  },
+  {
+    "product_type": "rice_cakes"
+  },
+  {
+    "product_type": "chips"
+  },
+  {
+    "product_type": "puffed_snacks"
+  },
+  {
+    "product_type": "pretzels"
+  },
+  {
+    "product_type": "mathematics_counting"
+  },
+  {
+    "product_type": "suckers_lollipops"
+  },
+  {
+    "product_type": "popcorn"
+  },
+  {
+    "product_type": "toy_banks"
+  },
+  {
+    "product_type": "training_pants"
+  },
+  {
+    "product_type": "tea_gifts"
+  },
+  {
+    "product_type": "oils"
+  },
+  {
+    "product_type": "aquarium_hoods"
+  },
+  {
+    "product_type": "tortillas"
+  },
+  {
+    "product_type": "cheese_gifts"
+  },
+  {
+    "product_type": "doors"
+  },
+  {
+    "product_type": "standard_playing_card_decks"
+  },
+  {
+    "product_type": "fudge"
+  },
+  {
+    "product_type": "syrups"
+  },
+  {
+    "product_type": "printing_stamping"
+  },
+  {
+    "product_type": "toy_gift_sets"
+  },
+  {
+    "product_type": "canned_jarred_food"
+  },
+  {
+    "product_type": "fresh_vegetables"
+  },
+  {
+    "product_type": "apparel_accessories"
+  },
+  {
+    "product_type": "candy_gifts"
+  },
+  {
+    "product_type": "chewing_gum"
+  },
+  {
+    "product_type": "puzzle_play_mats"
+  },
+  {
+    "product_type": "electrical_safety"
+  },
+  {
+    "product_type": "sugars_sweeteners"
+  },
+  {
+    "product_type": "marble_games"
+  },
+  {
+    "product_type": "miniatures"
+  },
+  {
+    "product_type": "finger_boards_finger_bikes"
+  },
+  {
+    "product_type": "coconut_water"
+  },
+  {
+    "product_type": "handheld_games"
+  },
+  {
+    "product_type": "slime_putty_toys"
+  },
+  {
+    "product_type": "pastries"
+  },
+  {
+    "product_type": "health_baby_care"
+  },
+  {
+    "product_type": "teethers"
+  },
+  {
+    "product_type": "butter"
+  },
+  {
+    "product_type": "fruits"
+  },
+  {
+    "product_type": "chocolate_pretzels"
+  },
+  {
+    "product_type": "breakfast_bakery"
+  },
+  {
+    "product_type": "stickers"
+  },
+  {
+    "product_type": "soaps_cleansers"
+  },
+  {
+    "product_type": "sauces_gifts"
+  },
+  {
+    "product_type": "fitness_equipment"
+  },
+  {
+    "product_type": "water"
+  },
+  {
+    "product_type": "portable_changing_pads"
+  },
+  {
+    "product_type": "dice_gaming_dice"
+  },
+  {
+    "product_type": "pacifiers_accessories"
+  },
+  {
+    "product_type": "bars"
+  },
+  {
+    "product_type": "cocktail_mixers"
+  },
+  {
+    "product_type": "aquariums"
+  },
+  {
+    "product_type": "ball_pits_accessories"
+  },
+  {
+    "product_type": "seafood"
+  },
+  {
+    "product_type": "bags_cases"
+  },
+  {
+    "product_type": "jelly_beans"
+  },
+  {
+    "product_type": "novelty_spinning_tops"
+  },
+  {
+    "product_type": "automatic_feeders"
+  },
+  {
+    "product_type": "mints"
+  },
+  {
+    "product_type": "makeup_sets"
+  },
+  {
+    "product_type": "cleaners"
+  },
+  {
+    "product_type": "fresh_cut_flowers"
+  },
+  {
+    "product_type": "jams"
+  },
+  {
+    "product_type": "prams"
+  },
+  {
+    "product_type": "nuts_seeds"
+  },
+  {
+    "product_type": "taffy"
+  },
+  {
+    "product_type": "bunny_rabbit_central"
+  },
+  {
+    "product_type": "rabbit_hutches"
+  },
+  {
+    "product_type": "aquarium_d_cor"
+  },
+  {
+    "product_type": "granola_bars"
+  },
+  {
+    "product_type": "viewfinders"
+  },
+  {
+    "product_type": "harnesses_leashes"
+  },
+  {
+    "product_type": "foie_gras_p_t_s"
+  },
+  {
+    "product_type": "game_accessories"
+  },
+  {
+    "product_type": "p_t_s"
+  },
+  {
+    "product_type": "game_room_games"
+  },
+  {
+    "product_type": "cages"
+  },
+  {
+    "product_type": "non_slip_bath_mats"
+  },
+  {
+    "product_type": "halva"
+  },
+  {
+    "product_type": "seafood_gifts"
+  },
+  {
+    "product_type": "stimulants"
+  },
+  {
+    "product_type": "beanbags_foot_bags"
+  },
+  {
+    "product_type": "shampoo_conditioner_sets"
+  },
+  {
+    "product_type": "nut_clusters"
+  },
+  {
+    "product_type": "raisins"
+  },
+  {
+    "product_type": "breadcrumbs"
+  },
+  {
+    "product_type": "extracts_flavoring"
+  },
+  {
+    "product_type": "plush_puppets"
+  },
+  {
+    "product_type": "shampoo_plus_conditioner"
+  },
+  {
+    "product_type": "salsas"
+  },
+  {
+    "product_type": "memorials"
+  },
+  {
+    "product_type": "die_cast_toy_vehicles"
+  },
+  {
+    "product_type": "aquarium_starter_kits"
+  },
+  {
+    "product_type": "coffee_gifts"
+  },
+  {
+    "product_type": "air_fresheners"
+  },
+  {
+    "product_type": "fruit_leather"
+  },
+  {
+    "product_type": "granola_trail_mix_bars"
+  },
+  {
+    "product_type": "sugar_substitutes"
+  },
+  {
+    "product_type": "bacon"
+  },
+  {
+    "product_type": "cat_flaps"
+  },
+  {
+    "product_type": "aquarium_heaters"
+  },
+  {
+    "product_type": "hair_relaxers"
+  },
+  {
+    "product_type": "breads"
+  },
+  {
+    "product_type": "packaged_breads"
+  },
+  {
+    "product_type": "sausages"
+  },
+  {
+    "product_type": "dessert_toppings"
+  },
+  {
+    "product_type": "diaper_stackers_caddies"
+  },
+  {
+    "product_type": "prisms_kaleidoscopes"
+  },
+  {
+    "product_type": "maternity"
+  },
+  {
+    "product_type": "crackers_biscuits"
+  },
+  {
+    "product_type": "coin_collecting"
+  },
+  {
+    "product_type": "chocolate_gifts"
+  },
+  {
+    "product_type": "kickball_playground_balls"
+  },
+  {
+    "product_type": "hair_perms_texturizers"
+  },
+  {
+    "product_type": "yo_yos"
+  },
+  {
+    "product_type": "flours_meals"
+  },
+  {
+    "product_type": "beef"
+  },
+  {
+    "product_type": "molding_sculpting_sticks"
+  },
+  {
+    "product_type": "washcloths_towels"
+  },
+  {
+    "product_type": "fruit_gifts"
+  },
+  {
+    "product_type": "stuffing"
+  },
+  {
+    "product_type": "baking_powder"
+  },
+  {
+    "product_type": "cereal"
+  },
+  {
+    "product_type": "exotic_meats"
+  },
+  {
+    "product_type": "breadsticks"
+  },
+  {
+    "product_type": "eggs"
+  },
+  {
+    "product_type": "cloth_diaper_accessories"
+  },
+  {
+    "product_type": "carriers"
+  },
+  {
+    "product_type": "toffee"
+  },
+  {
+    "product_type": "hair_coloring_tools"
+  },
+  {
+    "product_type": "chocolate_covered_fruit"
+  },
+  {
+    "product_type": "caramels"
+  },
+  {
+    "product_type": "assortments"
+  },
+  {
+    "product_type": "aromatherapy"
+  },
+  {
+    "product_type": "seat_covers"
+  },
+  {
+    "product_type": "bondage_gear_accessories"
+  },
+  {
+    "product_type": "sun_protection"
+  },
+  {
+    "product_type": "dinners"
+  },
+  {
+    "product_type": "fruit"
+  },
+  {
+    "product_type": "aquarium_stands"
+  },
+  {
+    "product_type": "teaching_clocks"
+  },
+  {
+    "product_type": "milk_substitutes"
+  },
+  {
+    "product_type": "bubble_bath"
+  },
+  {
+    "product_type": "novelties"
+  },
+  {
+    "product_type": "jams_preserves_gifts"
+  },
+  {
+    "product_type": "meat_gifts"
+  },
+  {
+    "product_type": "beads"
+  },
+  {
+    "product_type": "fish_bowls"
+  },
+  {
+    "product_type": "odor_stain_removers"
+  },
+  {
+    "product_type": "food_coloring"
+  },
+  {
+    "product_type": "children_s"
+  },
+  {
+    "product_type": "ice_cream_frozen_desserts"
+  },
+  {
+    "product_type": "pastry_decorations"
+  },
+  {
+    "product_type": "chicken"
+  },
+  {
+    "product_type": "sports_drinks"
+  },
+  {
+    "product_type": "marshmallows"
+  },
+  {
+    "product_type": "pudding"
+  },
+  {
+    "product_type": "aprons_smocks"
+  },
+  {
+    "product_type": "electronics"
+  },
+  {
+    "product_type": "sex_furniture"
+  },
+  {
+    "product_type": "pork"
+  },
+  {
+    "product_type": "spices_gifts"
+  },
+  {
+    "product_type": "dried_fruit"
+  },
+  {
+    "product_type": "flying_toys"
+  },
+  {
+    "product_type": "shampoo"
+  },
+  {
+    "product_type": "coatings_batters"
+  },
+  {
+    "product_type": "hydrometers"
+  },
+  {
+    "product_type": "lamb"
+  },
+  {
+    "product_type": "exercise_wheels"
+  },
+  {
+    "product_type": "chocolate_covered_nuts"
+  },
+  {
+    "product_type": "breeding_tanks"
+  }
+]

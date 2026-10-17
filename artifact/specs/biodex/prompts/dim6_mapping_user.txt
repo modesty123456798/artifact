@@ -1,0 +1,12 @@
+You are mapping a medical article into the adverse reaction terminology represented by the target vocabulary guide below.
+
+TARGET VOCABULARY GUIDE:
+{cluster_example_summary}
+
+--- MEDICAL ARTICLE START ---
+{product_text}
+--- MEDICAL ARTICLE END ---
+
+INSTRUCTIONS:
+• Identify only adverse reactions that are stated or strongly supported as affecting the patient in this article.
+• Return plain text only.

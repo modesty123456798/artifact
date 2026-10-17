@@ -1,0 +1,2475 @@
+[
+  {
+    "id": 0,
+    "ground_truth_eurovoc_concepts": [
+      "European official",
+      "third country",
+      "pay rise",
+      "pay",
+      "regulations for civil servants",
+      "exchange rate"
+    ]
+  },
+  {
+    "id": 1,
+    "ground_truth_eurovoc_concepts": [
+      "fruit",
+      "vegetable",
+      "common organisation of markets",
+      "import price",
+      "import (EU)"
+    ]
+  },
+  {
+    "id": 2,
+    "ground_truth_eurovoc_concepts": [
+      "developing countries",
+      "development aid",
+      "decentralisation",
+      "cooperation policy"
+    ]
+  },
+  {
+    "id": 3,
+    "ground_truth_eurovoc_concepts": [
+      "processed foodstuff",
+      "agricultural product",
+      "primary product",
+      "export refund",
+      "rice",
+      "cereals"
+    ]
+  },
+  {
+    "id": 4,
+    "ground_truth_eurovoc_concepts": [
+      "marketing",
+      "import",
+      "health control",
+      "mollusc",
+      "third country",
+      "Vietnam"
+    ]
+  },
+  {
+    "id": 5,
+    "ground_truth_eurovoc_concepts": [
+      "Netherlands",
+      "European Committee of the Regions",
+      "appointment of members"
+    ]
+  },
+  {
+    "id": 6,
+    "ground_truth_eurovoc_concepts": [
+      "forest",
+      "marketing",
+      "plant propagation",
+      "document",
+      "exchange of information"
+    ]
+  },
+  {
+    "id": 7,
+    "ground_truth_eurovoc_concepts": [
+      "food inspection",
+      "rice",
+      "market approval",
+      "genetically modified organism",
+      "surveillance concerning imports",
+      "food safety",
+      "United States"
+    ]
+  },
+  {
+    "id": 8,
+    "ground_truth_eurovoc_concepts": [
+      "marketing",
+      "milk",
+      "health control",
+      "milk product"
+    ]
+  },
+  {
+    "id": 9,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 10,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "perennial vegetable",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 11,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "minimum price",
+      "intervention agency",
+      "beef",
+      "boned meat",
+      "export"
+    ]
+  },
+  {
+    "id": 12,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "veterinary inspection",
+      "third country",
+      "animal product",
+      "customs regulations"
+    ]
+  },
+  {
+    "id": 13,
+    "ground_truth_eurovoc_concepts": [
+      "French overseas department and region",
+      "supply",
+      "EU production",
+      "cereals",
+      "EU aid"
+    ]
+  },
+  {
+    "id": 14,
+    "ground_truth_eurovoc_concepts": [
+      "import licence",
+      "health control",
+      "quantitative restriction",
+      "beef",
+      "boned meat",
+      "ACP countries"
+    ]
+  },
+  {
+    "id": 15,
+    "ground_truth_eurovoc_concepts": [
+      "floriculture",
+      "Morocco",
+      "import price",
+      "producer price",
+      "Middle East",
+      "originating product",
+      "Cyprus"
+    ]
+  },
+  {
+    "id": 16,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "intervention price",
+      "selling price",
+      "minimum price",
+      "butter"
+    ]
+  },
+  {
+    "id": 17,
+    "ground_truth_eurovoc_concepts": [
+      "Netherlands",
+      "sea fishing",
+      "sea fish"
+    ]
+  },
+  {
+    "id": 18,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "guaranteed minimum price",
+      "dried product",
+      "production aid"
+    ]
+  },
+  {
+    "id": 19,
+    "ground_truth_eurovoc_concepts": [
+      "contract",
+      "flax",
+      "storage premium",
+      "private stock",
+      "hemp"
+    ]
+  },
+  {
+    "id": 20,
+    "ground_truth_eurovoc_concepts": [
+      "Afghanistan",
+      "international sanctions",
+      "trade restriction",
+      "economic sanctions",
+      "terrorism",
+      "air transport",
+      "foreign capital",
+      "common foreign and security policy"
+    ]
+  },
+  {
+    "id": 21,
+    "ground_truth_eurovoc_concepts": [
+      "animal nutrition",
+      "market approval",
+      "food additive"
+    ]
+  },
+  {
+    "id": 22,
+    "ground_truth_eurovoc_concepts": [
+      "humanisation of work",
+      "postal service",
+      "economic development",
+      "opinion",
+      "joint committee on EU matters",
+      "living conditions"
+    ]
+  },
+  {
+    "id": 23,
+    "ground_truth_eurovoc_concepts": [
+      "EU financing",
+      "veterinary inspection",
+      "shareholding",
+      "information network",
+      "information technology applications",
+      "exchange of information"
+    ]
+  },
+  {
+    "id": 24,
+    "ground_truth_eurovoc_concepts": [
+      "olive oil",
+      "import licence",
+      "award of contract",
+      "agricultural levy"
+    ]
+  },
+  {
+    "id": 25,
+    "ground_truth_eurovoc_concepts": [
+      "export licence",
+      "import licence",
+      "third country",
+      "export refund",
+      "wine",
+      "viticulture",
+      "quality control of agricultural products",
+      "extra-EU trade"
+    ]
+  },
+  {
+    "id": 26,
+    "ground_truth_eurovoc_concepts": [
+      "North Sea",
+      "ship's flag",
+      "sea fishing",
+      "sea fish",
+      "catch quota",
+      "United Kingdom",
+      "fishing area",
+      "catch by species",
+      "fishing rights",
+      "EU waters"
+    ]
+  },
+  {
+    "id": 27,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "concentrated product",
+      "farm price support",
+      "butter"
+    ]
+  },
+  {
+    "id": 28,
+    "ground_truth_eurovoc_concepts": [
+      "fight against crime",
+      "natural person",
+      "economic sanctions",
+      "Yugoslavia",
+      "international criminal law",
+      "International Criminal Tribunal"
+    ]
+  },
+  {
+    "id": 29,
+    "ground_truth_eurovoc_concepts": [
+      "product quality",
+      "oil seed rape"
+    ]
+  },
+  {
+    "id": 30,
+    "ground_truth_eurovoc_concepts": [
+      "appointment of staff",
+      "European Committee of the Regions",
+      "Slovakia"
+    ]
+  },
+  {
+    "id": 31,
+    "ground_truth_eurovoc_concepts": [
+      "floriculture",
+      "import",
+      "Morocco",
+      "Middle East",
+      "tariff preference",
+      "Cyprus"
+    ]
+  },
+  {
+    "id": 32,
+    "ground_truth_eurovoc_concepts": [
+      "export refund",
+      "wine",
+      "viticulture"
+    ]
+  },
+  {
+    "id": 33,
+    "ground_truth_eurovoc_concepts": [
+      "France",
+      "location of production",
+      "potato",
+      "designation of origin",
+      "product designation",
+      "mode of production",
+      "preparation for market",
+      "labelling"
+    ]
+  },
+  {
+    "id": 34,
+    "ground_truth_eurovoc_concepts": [
+      "stone fruit",
+      "pip fruit",
+      "fruit vegetable",
+      "import price",
+      "grape",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 35,
+    "ground_truth_eurovoc_concepts": [
+      "intervention stock",
+      "sale",
+      "butter"
+    ]
+  },
+  {
+    "id": 36,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "maize",
+      "tariff reduction",
+      "CCT duties",
+      "Spain"
+    ]
+  },
+  {
+    "id": 37,
+    "ground_truth_eurovoc_concepts": [
+      "ship's flag",
+      "sea fish",
+      "catch quota",
+      "catch area",
+      "fishing rights",
+      "Spain"
+    ]
+  },
+  {
+    "id": 38,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "swine",
+      "meat product",
+      "quantitative restriction",
+      "pigmeat",
+      "Spain"
+    ]
+  },
+  {
+    "id": 39,
+    "ground_truth_eurovoc_concepts": [
+      "agreement (EU)",
+      "administrative cooperation",
+      "protocol to an agreement",
+      "Austria"
+    ]
+  },
+  {
+    "id": 40,
+    "ground_truth_eurovoc_concepts": [
+      "energy policy",
+      "appointment of staff",
+      "advisory committee (EU)"
+    ]
+  },
+  {
+    "id": 41,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "beef",
+      "intervention buying"
+    ]
+  },
+  {
+    "id": 42,
+    "ground_truth_eurovoc_concepts": [
+      "organisation of teaching",
+      "education policy",
+      "ACP-EU Convention",
+      "European Community",
+      "EAEC",
+      "European school"
+    ]
+  },
+  {
+    "id": 43,
+    "ground_truth_eurovoc_concepts": [
+      "credit guarantee",
+      "transport infrastructure",
+      "financial loss",
+      "EIB loan",
+      "European Investment Bank",
+      "Central and Eastern Europe"
+    ]
+  },
+  {
+    "id": 44,
+    "ground_truth_eurovoc_concepts": [
+      "ship's flag",
+      "sea fish",
+      "Portugal",
+      "catch quota",
+      "fishing area",
+      "fishing regulations",
+      "fishing rights"
+    ]
+  },
+  {
+    "id": 45,
+    "ground_truth_eurovoc_concepts": [
+      "vegetable oil",
+      "food contamination",
+      "foodstuff",
+      "toxic substance",
+      "organic acid",
+      "food safety"
+    ]
+  },
+  {
+    "id": 46,
+    "ground_truth_eurovoc_concepts": [
+      "appointment of staff",
+      "European Committee of the Regions",
+      "Czech Republic"
+    ]
+  },
+  {
+    "id": 47,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "rice",
+      "CCT duties"
+    ]
+  },
+  {
+    "id": 48,
+    "ground_truth_eurovoc_concepts": [
+      "marketing standard",
+      "sea fish",
+      "guide price",
+      "fishery product",
+      "product quality",
+      "crustacean"
+    ]
+  },
+  {
+    "id": 49,
+    "ground_truth_eurovoc_concepts": [
+      "inland waterway fleet",
+      "inland waterway shipping",
+      "European social policy",
+      "carriage of goods",
+      "waterway transport",
+      "State aid"
+    ]
+  },
+  {
+    "id": 50,
+    "ground_truth_eurovoc_concepts": [
+      "cotton",
+      "world market price"
+    ]
+  },
+  {
+    "id": 51,
+    "ground_truth_eurovoc_concepts": [
+      "export refund",
+      "white sugar",
+      "raw sugar"
+    ]
+  },
+  {
+    "id": 52,
+    "ground_truth_eurovoc_concepts": [
+      "originating product",
+      "skimmed milk powder",
+      "intervention buying"
+    ]
+  },
+  {
+    "id": 53,
+    "ground_truth_eurovoc_concepts": [
+      "fight against crime",
+      "natural person",
+      "economic sanctions",
+      "penalty",
+      "international criminal law",
+      "International Criminal Tribunal"
+    ]
+  },
+  {
+    "id": 54,
+    "ground_truth_eurovoc_concepts": [
+      "set-aside",
+      "leguminous vegetable",
+      "oleaginous plant",
+      "cereals",
+      "aid per hectare",
+      "regional aid"
+    ]
+  },
+  {
+    "id": 55,
+    "ground_truth_eurovoc_concepts": [
+      "coal industry",
+      "economic support",
+      "State aid"
+    ]
+  },
+  {
+    "id": 56,
+    "ground_truth_eurovoc_concepts": [
+      "plant health legislation",
+      "plant health control",
+      "marketing standard",
+      "pesticide",
+      "pharmaceutical product",
+      "plant health product"
+    ]
+  },
+  {
+    "id": 57,
+    "ground_truth_eurovoc_concepts": [
+      "marketing",
+      "plant health control",
+      "chemical product",
+      "plant health product",
+      "toxic substance",
+      "administrative formalities"
+    ]
+  },
+  {
+    "id": 58,
+    "ground_truth_eurovoc_concepts": [
+      "international sanctions",
+      "restriction of liberty",
+      "political figure",
+      "freedom of movement",
+      "Moldova"
+    ]
+  },
+  {
+    "id": 59,
+    "ground_truth_eurovoc_concepts": [
+      "fixing of prices",
+      "cotton",
+      "norm price",
+      "marketing year"
+    ]
+  },
+  {
+    "id": 60,
+    "ground_truth_eurovoc_concepts": [
+      "Atlantic Ocean",
+      "environmental protection",
+      "international convention",
+      "marine environment",
+      "the EU's international role"
+    ]
+  },
+  {
+    "id": 61,
+    "ground_truth_eurovoc_concepts": [
+      "butter",
+      "intervention buying",
+      "EU Member State"
+    ]
+  },
+  {
+    "id": 62,
+    "ground_truth_eurovoc_concepts": [
+      "Asia",
+      "rabies",
+      "expenditure",
+      "conference proceedings",
+      "World Organisation for Animal Health",
+      "Europe",
+      "financial aid"
+    ]
+  },
+  {
+    "id": 63,
+    "ground_truth_eurovoc_concepts": [
+      "Madeira",
+      "supply",
+      "EU production",
+      "Azores",
+      "cereals",
+      "EU aid"
+    ]
+  },
+  {
+    "id": 64,
+    "ground_truth_eurovoc_concepts": [
+      "suspension of customs duties",
+      "common customs tariff"
+    ]
+  },
+  {
+    "id": 65,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "grape",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 66,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "butter",
+      "intervention buying",
+      "EU Member State"
+    ]
+  },
+  {
+    "id": 67,
+    "ground_truth_eurovoc_concepts": [
+      "tariff quota",
+      "import licence",
+      "Namibia",
+      "originating product",
+      "goatmeat",
+      "sheepmeat"
+    ]
+  },
+  {
+    "id": 68,
+    "ground_truth_eurovoc_concepts": [
+      "Ireland",
+      "fishing port",
+      "industrial equipment"
+    ]
+  },
+  {
+    "id": 69,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "perennial vegetable",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 70,
+    "ground_truth_eurovoc_concepts": [
+      "food inspection",
+      "research body",
+      "poultrymeat",
+      "EU Member State"
+    ]
+  },
+  {
+    "id": 71,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "health control",
+      "republic",
+      "fresh meat",
+      "Yugoslavia",
+      "health certificate"
+    ]
+  },
+  {
+    "id": 72,
+    "ground_truth_eurovoc_concepts": [
+      "Indonesia",
+      "textile product",
+      "quantitative restriction"
+    ]
+  },
+  {
+    "id": 73,
+    "ground_truth_eurovoc_concepts": [
+      "industrial development",
+      "research and development",
+      "comitology",
+      "advisory committee (EU)"
+    ]
+  },
+  {
+    "id": 74,
+    "ground_truth_eurovoc_concepts": [
+      "veterinary inspection",
+      "import licence",
+      "import (EU)",
+      "Switzerland",
+      "beef",
+      "fresh meat",
+      "pigmeat"
+    ]
+  },
+  {
+    "id": 75,
+    "ground_truth_eurovoc_concepts": [
+      "stone fruit",
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 76,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "egg",
+      "egg product",
+      "representative price",
+      "poultrymeat"
+    ]
+  },
+  {
+    "id": 77,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "textile product",
+      "quantitative restriction",
+      "Thailand"
+    ]
+  },
+  {
+    "id": 78,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "representative price",
+      "sugar product",
+      "CCT duties",
+      "syrup",
+      "white sugar",
+      "raw sugar"
+    ]
+  },
+  {
+    "id": 79,
+    "ground_truth_eurovoc_concepts": [
+      "export licence",
+      "pigmeat"
+    ]
+  },
+  {
+    "id": 80,
+    "ground_truth_eurovoc_concepts": [
+      "airport",
+      "transport planning",
+      "common transport policy",
+      "air transport",
+      "transport capacity"
+    ]
+  },
+  {
+    "id": 81,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "perennial vegetable",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 82,
+    "ground_truth_eurovoc_concepts": [
+      "EU financing",
+      "Madeira",
+      "plant disease",
+      "plant health treatment",
+      "fight against insects",
+      "EU aid"
+    ]
+  },
+  {
+    "id": 83,
+    "ground_truth_eurovoc_concepts": [
+      "import (EU)",
+      "goatmeat",
+      "sheepmeat",
+      "carcase"
+    ]
+  },
+  {
+    "id": 84,
+    "ground_truth_eurovoc_concepts": [
+      "export refund",
+      "CCT duties",
+      "poultrymeat"
+    ]
+  },
+  {
+    "id": 85,
+    "ground_truth_eurovoc_concepts": [
+      "France",
+      "restriction on competition",
+      "town and country planning",
+      "regional aid"
+    ]
+  },
+  {
+    "id": 86,
+    "ground_truth_eurovoc_concepts": [
+      "plant health control",
+      "apiculture",
+      "water pollution",
+      "health risk",
+      "insecticide",
+      "market approval"
+    ]
+  },
+  {
+    "id": 87,
+    "ground_truth_eurovoc_concepts": [
+      "Finland",
+      "administrative cooperation",
+      "originating product",
+      "customs valuation",
+      "joint committee (EU)"
+    ]
+  },
+  {
+    "id": 88,
+    "ground_truth_eurovoc_concepts": [
+      "intervention price",
+      "white sugar",
+      "raw sugar",
+      "sugar beet"
+    ]
+  },
+  {
+    "id": 89,
+    "ground_truth_eurovoc_concepts": [
+      "fishing fleet",
+      "conservation of fish stocks",
+      "Italy",
+      "common fisheries policy",
+      "fishing vessel",
+      "production capacity"
+    ]
+  },
+  {
+    "id": 90,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "export refund",
+      "butter"
+    ]
+  },
+  {
+    "id": 91,
+    "ground_truth_eurovoc_concepts": [
+      "textile product",
+      "Turkey",
+      "clothing",
+      "official document",
+      "export"
+    ]
+  },
+  {
+    "id": 92,
+    "ground_truth_eurovoc_concepts": [
+      "exemption from customs duties",
+      "electrical engineering",
+      "road building",
+      "scientific apparatus",
+      "common customs tariff"
+    ]
+  },
+  {
+    "id": 93,
+    "ground_truth_eurovoc_concepts": [
+      "Northern Ireland",
+      "worker consultation",
+      "United Kingdom",
+      "national implementing measure",
+      "works council",
+      "European undertaking"
+    ]
+  },
+  {
+    "id": 94,
+    "ground_truth_eurovoc_concepts": [
+      "stone fruit",
+      "pip fruit",
+      "fruit vegetable",
+      "import price",
+      "grape",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 95,
+    "ground_truth_eurovoc_concepts": [
+      "electronics industry",
+      "information technology industry",
+      "peripheral",
+      "EU Member State"
+    ]
+  },
+  {
+    "id": 96,
+    "ground_truth_eurovoc_concepts": [
+      "common commercial policy",
+      "export policy",
+      "import policy",
+      "Taiwan",
+      "reduction of gas emissions"
+    ]
+  },
+  {
+    "id": 97,
+    "ground_truth_eurovoc_concepts": [
+      "chemical industry",
+      "production refund",
+      "white sugar"
+    ]
+  },
+  {
+    "id": 98,
+    "ground_truth_eurovoc_concepts": [
+      "export refund",
+      "sunflower",
+      "oil seed rape"
+    ]
+  },
+  {
+    "id": 99,
+    "ground_truth_eurovoc_concepts": [
+      "Guinea",
+      "military equipment",
+      "international sanctions",
+      "export restriction",
+      "economic sanctions"
+    ]
+  },
+  {
+    "id": 100,
+    "ground_truth_eurovoc_concepts": [
+      "slaughter of animals",
+      "United Kingdom",
+      "vaccination",
+      "cattle",
+      "disclosure of information",
+      "exchange of information",
+      "foot-and-mouth disease"
+    ]
+  },
+  {
+    "id": 101,
+    "ground_truth_eurovoc_concepts": [
+      "milk",
+      "Portugal",
+      "milk product",
+      "discount sale",
+      "aid to disadvantaged groups",
+      "educational institution"
+    ]
+  },
+  {
+    "id": 102,
+    "ground_truth_eurovoc_concepts": [
+      "aquaculture",
+      "common fisheries policy",
+      "appointment of staff",
+      "advisory committee (EU)"
+    ]
+  },
+  {
+    "id": 103,
+    "ground_truth_eurovoc_concepts": [
+      "import policy",
+      "customs regulations",
+      "customs union",
+      "customs debt"
+    ]
+  },
+  {
+    "id": 104,
+    "ground_truth_eurovoc_concepts": [
+      "Switzerland",
+      "Union transit",
+      "European Community",
+      "mixed agreement"
+    ]
+  },
+  {
+    "id": 105,
+    "ground_truth_eurovoc_concepts": [
+      "import (EU)",
+      "rice",
+      "CCT duties"
+    ]
+  },
+  {
+    "id": 106,
+    "ground_truth_eurovoc_concepts": [
+      "board of directors",
+      "Netherlands",
+      "appointment of staff",
+      "Cedefop"
+    ]
+  },
+  {
+    "id": 107,
+    "ground_truth_eurovoc_concepts": [
+      "veterinary inspection",
+      "Northern Ireland",
+      "swine",
+      "cattle",
+      "brucellosis",
+      "intra-EU trade"
+    ]
+  },
+  {
+    "id": 108,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "perennial vegetable",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 109,
+    "ground_truth_eurovoc_concepts": [
+      "human nutrition",
+      "food inspection",
+      "foodstuff",
+      "approximation of laws",
+      "preservative"
+    ]
+  },
+  {
+    "id": 110,
+    "ground_truth_eurovoc_concepts": [
+      "export licence",
+      "cereal product"
+    ]
+  },
+  {
+    "id": 111,
+    "ground_truth_eurovoc_concepts": [
+      "chemical industry",
+      "production refund",
+      "white sugar"
+    ]
+  },
+  {
+    "id": 112,
+    "ground_truth_eurovoc_concepts": [
+      "marketing standard",
+      "plant health product",
+      "market approval"
+    ]
+  },
+  {
+    "id": 113,
+    "ground_truth_eurovoc_concepts": [
+      "agricultural policy",
+      "environmental policy",
+      "cattle",
+      "intensive livestock farming"
+    ]
+  },
+  {
+    "id": 114,
+    "ground_truth_eurovoc_concepts": [
+      "stone fruit",
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "grape",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 115,
+    "ground_truth_eurovoc_concepts": [
+      "manufactured feedingstuffs",
+      "health policy",
+      "chemical product",
+      "material of animal origin",
+      "veterinary drug"
+    ]
+  },
+  {
+    "id": 116,
+    "ground_truth_eurovoc_concepts": [
+      "olive oil",
+      "marketing",
+      "regulation of agricultural production",
+      "production aid"
+    ]
+  },
+  {
+    "id": 117,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "concentrated product",
+      "aid system",
+      "butter"
+    ]
+  },
+  {
+    "id": 118,
+    "ground_truth_eurovoc_concepts": [
+      "powdered milk",
+      "award of contract",
+      "selling price",
+      "minimum price"
+    ]
+  },
+  {
+    "id": 119,
+    "ground_truth_eurovoc_concepts": [
+      "monetary compensatory amount",
+      "milk product",
+      "Spain"
+    ]
+  },
+  {
+    "id": 120,
+    "ground_truth_eurovoc_concepts": [
+      "appointment of staff",
+      "Euratom Supply Agency",
+      "advisory committee (EU)"
+    ]
+  },
+  {
+    "id": 121,
+    "ground_truth_eurovoc_concepts": [
+      "EU financing",
+      "vocational training",
+      "Italy",
+      "agricultural advisory services",
+      "EAGGF Guidance Section"
+    ]
+  },
+  {
+    "id": 122,
+    "ground_truth_eurovoc_concepts": [
+      "agreement (EU)",
+      "Spain",
+      "export"
+    ]
+  },
+  {
+    "id": 123,
+    "ground_truth_eurovoc_concepts": [
+      "skimmed milk",
+      "agricultural market",
+      "award of contract",
+      "common organisation of markets",
+      "milk product",
+      "export restriction"
+    ]
+  },
+  {
+    "id": 124,
+    "ground_truth_eurovoc_concepts": [
+      "threshold price"
+    ]
+  },
+  {
+    "id": 125,
+    "ground_truth_eurovoc_concepts": [
+      "Mexico",
+      "textile product",
+      "restoration of customs duties",
+      "man-made fibre",
+      "tariff preference"
+    ]
+  },
+  {
+    "id": 126,
+    "ground_truth_eurovoc_concepts": [
+      "agreement (EU)",
+      "fight against crime",
+      "protection of privacy",
+      "ratification of an agreement",
+      "Canada",
+      "data protection",
+      "disclosure of information",
+      "air safety",
+      "traveller"
+    ]
+  },
+  {
+    "id": 127,
+    "ground_truth_eurovoc_concepts": [
+      "import licence",
+      "maize",
+      "award of contract",
+      "third country",
+      "originating product",
+      "tariff reduction",
+      "Spain"
+    ]
+  },
+  {
+    "id": 128,
+    "ground_truth_eurovoc_concepts": [
+      "form",
+      "management accounting",
+      "advance payment",
+      "distribution of EU funding",
+      "EAGGF Guarantee Section"
+    ]
+  },
+  {
+    "id": 129,
+    "ground_truth_eurovoc_concepts": [
+      "ratification of an agreement",
+      "multilateral agreement",
+      "trade agreement (EU)",
+      "tropical wood"
+    ]
+  },
+  {
+    "id": 130,
+    "ground_truth_eurovoc_concepts": [
+      "olive oil",
+      "German Democratic Republic",
+      "oleaginous plant",
+      "export refund"
+    ]
+  },
+  {
+    "id": 131,
+    "ground_truth_eurovoc_concepts": [
+      "interest",
+      "contract",
+      "swap arrangement",
+      "European accounting system",
+      "data transmission"
+    ]
+  },
+  {
+    "id": 132,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "export refund",
+      "butter"
+    ]
+  },
+  {
+    "id": 133,
+    "ground_truth_eurovoc_concepts": [
+      "restriction on competition",
+      "man-made fibre",
+      "Bavaria",
+      "aid to undertakings",
+      "State aid"
+    ]
+  },
+  {
+    "id": 134,
+    "ground_truth_eurovoc_concepts": [
+      "production refund",
+      "cereals"
+    ]
+  },
+  {
+    "id": 135,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "third country",
+      "export refund",
+      "rice",
+      "export"
+    ]
+  },
+  {
+    "id": 136,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 137,
+    "ground_truth_eurovoc_concepts": [
+      "stone fruit",
+      "pip fruit",
+      "fruit vegetable",
+      "common organisation of markets",
+      "import price",
+      "grape",
+      "import (EU)",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 138,
+    "ground_truth_eurovoc_concepts": [
+      "appointment of staff",
+      "European Committee of the Regions",
+      "Spain"
+    ]
+  },
+  {
+    "id": 139,
+    "ground_truth_eurovoc_concepts": [
+      "baby food",
+      "prepared foodstuff",
+      "food inspection",
+      "foodstuffs legislation",
+      "early childhood"
+    ]
+  },
+  {
+    "id": 140,
+    "ground_truth_eurovoc_concepts": [
+      "Council of the European Union",
+      "allowances and expenses",
+      "military personnel"
+    ]
+  },
+  {
+    "id": 141,
+    "ground_truth_eurovoc_concepts": [
+      "agreement (EU)",
+      "fishing agreement",
+      "fishing licence",
+      "Comoros",
+      "financial compensation of an agreement",
+      "territorial waters"
+    ]
+  },
+  {
+    "id": 142,
+    "ground_truth_eurovoc_concepts": [
+      "import licence",
+      "maize",
+      "award of contract",
+      "third country",
+      "import levy",
+      "Spain"
+    ]
+  },
+  {
+    "id": 143,
+    "ground_truth_eurovoc_concepts": [
+      "ozone",
+      "chemical product",
+      "dangerous substance",
+      "Combined Nomenclature",
+      "stratospheric pollutant"
+    ]
+  },
+  {
+    "id": 144,
+    "ground_truth_eurovoc_concepts": [
+      "plant health control",
+      "pesticide",
+      "market approval"
+    ]
+  },
+  {
+    "id": 145,
+    "ground_truth_eurovoc_concepts": [
+      "cream",
+      "farm price support",
+      "butter"
+    ]
+  },
+  {
+    "id": 146,
+    "ground_truth_eurovoc_concepts": [
+      "cereal product",
+      "ratio",
+      "export refund",
+      "quantitative restriction",
+      "alcoholic beverage"
+    ]
+  },
+  {
+    "id": 147,
+    "ground_truth_eurovoc_concepts": [
+      "export licence",
+      "tariff negotiations",
+      "export refund",
+      "cereals"
+    ]
+  },
+  {
+    "id": 148,
+    "ground_truth_eurovoc_concepts": [
+      "veterinary inspection",
+      "regions of the United Kingdom",
+      "poultry",
+      "avian influenza"
+    ]
+  },
+  {
+    "id": 149,
+    "ground_truth_eurovoc_concepts": [
+      "plant health control",
+      "marketing standard",
+      "environmental impact",
+      "health risk",
+      "insecticide",
+      "market approval"
+    ]
+  },
+  {
+    "id": 150,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "health legislation",
+      "animal product",
+      "medical device",
+      "by-product",
+      "Union transit",
+      "medical diagnosis"
+    ]
+  },
+  {
+    "id": 151,
+    "ground_truth_eurovoc_concepts": [
+      "marketing",
+      "fishing industry",
+      "Ireland",
+      "food processing",
+      "Structural Funds"
+    ]
+  },
+  {
+    "id": 152,
+    "ground_truth_eurovoc_concepts": [
+      "Greece",
+      "transport infrastructure",
+      "road network"
+    ]
+  },
+  {
+    "id": 153,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "originating product",
+      "sugar",
+      "white sugar",
+      "raw sugar",
+      "anti-dumping duty"
+    ]
+  },
+  {
+    "id": 154,
+    "ground_truth_eurovoc_concepts": [
+      "regions of Italy",
+      "Sardinia",
+      "integrated development programme",
+      "Integrated Mediterranean Programmes"
+    ]
+  },
+  {
+    "id": 155,
+    "ground_truth_eurovoc_concepts": [
+      "marketing",
+      "reference price",
+      "marketing year",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 156,
+    "ground_truth_eurovoc_concepts": [
+      "human nutrition",
+      "foodstuffs legislation",
+      "approximation of laws",
+      "food additive"
+    ]
+  },
+  {
+    "id": 157,
+    "ground_truth_eurovoc_concepts": [
+      "maize",
+      "common organisation of markets",
+      "import (EU)",
+      "rye",
+      "CCT duties",
+      "sorghum",
+      "durum wheat",
+      "common wheat"
+    ]
+  },
+  {
+    "id": 158,
+    "ground_truth_eurovoc_concepts": [
+      "agricultural guidance",
+      "sheep",
+      "less-favoured agricultural area",
+      "goat",
+      "livestock farming"
+    ]
+  },
+  {
+    "id": 159,
+    "ground_truth_eurovoc_concepts": [
+      "animal nutrition",
+      "maize",
+      "cereal product",
+      "export refund"
+    ]
+  },
+  {
+    "id": 160,
+    "ground_truth_eurovoc_concepts": [
+      "Algeria",
+      "olive oil",
+      "import levy"
+    ]
+  },
+  {
+    "id": 161,
+    "ground_truth_eurovoc_concepts": [
+      "tropical fruit",
+      "Italy",
+      "free circulation",
+      "import policy"
+    ]
+  },
+  {
+    "id": 162,
+    "ground_truth_eurovoc_concepts": [
+      "tariff ceiling",
+      "republic",
+      "restoration of customs duties",
+      "chemical compound",
+      "tube",
+      "Yugoslavia"
+    ]
+  },
+  {
+    "id": 163,
+    "ground_truth_eurovoc_concepts": [
+      "animal feedingstuffs",
+      "swine",
+      "market approval",
+      "food additive",
+      "zootechnics"
+    ]
+  },
+  {
+    "id": 164,
+    "ground_truth_eurovoc_concepts": [
+      "supply",
+      "cereal product",
+      "Aegean Islands",
+      "fodder",
+      "supply balance sheet",
+      "cereals"
+    ]
+  },
+  {
+    "id": 165,
+    "ground_truth_eurovoc_concepts": [
+      "fresh fruit",
+      "fresh vegetable",
+      "customs valuation"
+    ]
+  },
+  {
+    "id": 166,
+    "ground_truth_eurovoc_concepts": [
+      "olive oil",
+      "monetary compensatory amount"
+    ]
+  },
+  {
+    "id": 167,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "third country",
+      "market protection",
+      "quantitative restriction"
+    ]
+  },
+  {
+    "id": 168,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 169,
+    "ground_truth_eurovoc_concepts": [
+      "milk product",
+      "Denmark",
+      "food processing"
+    ]
+  },
+  {
+    "id": 170,
+    "ground_truth_eurovoc_concepts": [
+      "food additive"
+    ]
+  },
+  {
+    "id": 171,
+    "ground_truth_eurovoc_concepts": [
+      "stone fruit",
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "grape",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 172,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "fruit vegetable",
+      "agri-monetary policy",
+      "import price",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 173,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "fruit vegetable",
+      "common organisation of markets",
+      "import price",
+      "import (EU)",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 174,
+    "ground_truth_eurovoc_concepts": [
+      "animal feedingstuffs",
+      "skimmed milk",
+      "award of contract",
+      "skimmed milk powder",
+      "aid system",
+      "sale"
+    ]
+  },
+  {
+    "id": 175,
+    "ground_truth_eurovoc_concepts": [
+      "Iceland",
+      "administrative cooperation",
+      "manufactured goods",
+      "originating product",
+      "protocol to an agreement"
+    ]
+  },
+  {
+    "id": 176,
+    "ground_truth_eurovoc_concepts": [
+      "industrial property",
+      "United Kingdom OCT",
+      "electronic component",
+      "United States"
+    ]
+  },
+  {
+    "id": 177,
+    "ground_truth_eurovoc_concepts": [
+      "France",
+      "ship's flag",
+      "sea fish",
+      "catch quota",
+      "fishing area",
+      "fishing regulations",
+      "fishing rights",
+      "EU waters"
+    ]
+  },
+  {
+    "id": 178,
+    "ground_truth_eurovoc_concepts": [
+      "intervention agency",
+      "non-profit organisation",
+      "intervention stock",
+      "donation",
+      "durum wheat",
+      "Spain"
+    ]
+  },
+  {
+    "id": 179,
+    "ground_truth_eurovoc_concepts": [
+      "rules of procedure",
+      "European Commission",
+      "access to information",
+      "dissemination of EU information"
+    ]
+  },
+  {
+    "id": 180,
+    "ground_truth_eurovoc_concepts": [
+      "fresh fruit",
+      "fresh vegetable",
+      "customs valuation"
+    ]
+  },
+  {
+    "id": 181,
+    "ground_truth_eurovoc_concepts": [
+      "fruit",
+      "vegetable",
+      "customs regulations",
+      "perishable goods",
+      "customs valuation"
+    ]
+  },
+  {
+    "id": 182,
+    "ground_truth_eurovoc_concepts": [
+      "product quality",
+      "approximation of laws",
+      "chemical compound",
+      "analytical chemistry",
+      "technological change",
+      "textile fibre"
+    ]
+  },
+  {
+    "id": 183,
+    "ground_truth_eurovoc_concepts": [
+      "egg",
+      "Portugal",
+      "supplementary trade mechanism",
+      "meat"
+    ]
+  },
+  {
+    "id": 184,
+    "ground_truth_eurovoc_concepts": [
+      "foodstuff",
+      "intervention stock",
+      "food aid",
+      "aid to disadvantaged groups",
+      "EU aid"
+    ]
+  },
+  {
+    "id": 185,
+    "ground_truth_eurovoc_concepts": [
+      "market intervention",
+      "storage cost",
+      "sugar refining",
+      "aid to industry",
+      "white sugar"
+    ]
+  },
+  {
+    "id": 186,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "export refund",
+      "white sugar"
+    ]
+  },
+  {
+    "id": 187,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "concentrated product",
+      "farm price support",
+      "butter"
+    ]
+  },
+  {
+    "id": 188,
+    "ground_truth_eurovoc_concepts": [
+      "restoration of customs duties",
+      "Sri Lanka",
+      "tariff preference"
+    ]
+  },
+  {
+    "id": 189,
+    "ground_truth_eurovoc_concepts": [
+      "animal nutrition",
+      "skimmed milk",
+      "skimmed milk powder",
+      "aid system",
+      "quantitative restriction",
+      "derogation from EU law"
+    ]
+  },
+  {
+    "id": 190,
+    "ground_truth_eurovoc_concepts": [
+      "health control",
+      "toxic substance",
+      "health risk",
+      "carcinogenic substance",
+      "market approval",
+      "reproductive health"
+    ]
+  },
+  {
+    "id": 191,
+    "ground_truth_eurovoc_concepts": [
+      "veterinary legislation",
+      "animal plague",
+      "animal fats",
+      "market support",
+      "pigmeat",
+      "Spain"
+    ]
+  },
+  {
+    "id": 192,
+    "ground_truth_eurovoc_concepts": [
+      "common transport policy",
+      "transport document",
+      "bus",
+      "carriage of passengers",
+      "international transport"
+    ]
+  },
+  {
+    "id": 193,
+    "ground_truth_eurovoc_concepts": [
+      "export licence",
+      "import licence",
+      "cassava",
+      "Thailand"
+    ]
+  },
+  {
+    "id": 194,
+    "ground_truth_eurovoc_concepts": [
+      "fruit product",
+      "supplementary trade mechanism",
+      "wine"
+    ]
+  },
+  {
+    "id": 195,
+    "ground_truth_eurovoc_concepts": [
+      "fishery management",
+      "conservation of fish stocks",
+      "EU control",
+      "fishing regulations",
+      "EU Member State",
+      "co-financing"
+    ]
+  },
+  {
+    "id": 196,
+    "ground_truth_eurovoc_concepts": [
+      "malt",
+      "export refund"
+    ]
+  },
+  {
+    "id": 197,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "molasses",
+      "representative price",
+      "CCT duties"
+    ]
+  },
+  {
+    "id": 198,
+    "ground_truth_eurovoc_concepts": [
+      "monetary compensatory amount",
+      "agri-monetary policy",
+      "exchange rate",
+      "representative rate",
+      "euro"
+    ]
+  },
+  {
+    "id": 199,
+    "ground_truth_eurovoc_concepts": [
+      "fire protection",
+      "building materials",
+      "technical specification",
+      "product safety",
+      "classification"
+    ]
+  },
+  {
+    "id": 200,
+    "ground_truth_eurovoc_concepts": [
+      "tariff quota",
+      "import policy",
+      "agricultural product",
+      "originating product",
+      "customs duties",
+      "trade agreement (EU)",
+      "Czech Republic",
+      "agricultural trade"
+    ]
+  },
+  {
+    "id": 201,
+    "ground_truth_eurovoc_concepts": [
+      "energy consumption",
+      "energy production",
+      "environmental impact",
+      "household electrical appliance",
+      "electricity supply",
+      "energy saving"
+    ]
+  },
+  {
+    "id": 202,
+    "ground_truth_eurovoc_concepts": [
+      "pip fruit",
+      "offer price",
+      "Spain"
+    ]
+  },
+  {
+    "id": 203,
+    "ground_truth_eurovoc_concepts": [
+      "olive oil",
+      "marketing",
+      "radioactive pollution",
+      "intervention agency"
+    ]
+  },
+  {
+    "id": 204,
+    "ground_truth_eurovoc_concepts": [
+      "vocational training",
+      "appointment of staff",
+      "doctor",
+      "alternate",
+      "advisory committee (EU)"
+    ]
+  },
+  {
+    "id": 205,
+    "ground_truth_eurovoc_concepts": [
+      "product quality",
+      "soya bean",
+      "sampling",
+      "production aid"
+    ]
+  },
+  {
+    "id": 206,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "veterinary inspection",
+      "health control",
+      "third country",
+      "animal product",
+      "simplification of formalities"
+    ]
+  },
+  {
+    "id": 207,
+    "ground_truth_eurovoc_concepts": [
+      "floriculture",
+      "Jordan",
+      "import price",
+      "producer price",
+      "originating product"
+    ]
+  },
+  {
+    "id": 208,
+    "ground_truth_eurovoc_concepts": [
+      "military regime",
+      "international sanctions",
+      "common position",
+      "Burma/Myanmar",
+      "human rights",
+      "the EU's international role"
+    ]
+  },
+  {
+    "id": 209,
+    "ground_truth_eurovoc_concepts": [
+      "inland waterway fleet",
+      "inland waterway shipping",
+      "transport policy",
+      "industrial restructuring",
+      "carrying capacity",
+      "transport capacity"
+    ]
+  },
+  {
+    "id": 210,
+    "ground_truth_eurovoc_concepts": [
+      "bulb vegetable",
+      "leaf vegetable",
+      "marketing standard",
+      "quality standard"
+    ]
+  },
+  {
+    "id": 211,
+    "ground_truth_eurovoc_concepts": [
+      "smallholding",
+      "cotton",
+      "aid system",
+      "marketing year",
+      "aid per hectare"
+    ]
+  },
+  {
+    "id": 212,
+    "ground_truth_eurovoc_concepts": [
+      "tariff quota",
+      "import licence",
+      "import (EU)",
+      "poultrymeat",
+      "poultry"
+    ]
+  },
+  {
+    "id": 213,
+    "ground_truth_eurovoc_concepts": [
+      "land transport",
+      "motor vehicle",
+      "hiring"
+    ]
+  },
+  {
+    "id": 214,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "third country",
+      "export restriction",
+      "rice"
+    ]
+  },
+  {
+    "id": 215,
+    "ground_truth_eurovoc_concepts": [
+      "marketing",
+      "marketing standard",
+      "poultry"
+    ]
+  },
+  {
+    "id": 216,
+    "ground_truth_eurovoc_concepts": [
+      "tax system",
+      "tax evasion",
+      "tax harmonisation",
+      "direct tax",
+      "VAT",
+      "mutual recognition principle"
+    ]
+  },
+  {
+    "id": 217,
+    "ground_truth_eurovoc_concepts": [
+      "plant health control",
+      "OECD",
+      "third country",
+      "seed",
+      "agricultural land",
+      "mutual recognition principle",
+      "labelling"
+    ]
+  },
+  {
+    "id": 218,
+    "ground_truth_eurovoc_concepts": [
+      "peacekeeping",
+      "international relations",
+      "international affairs",
+      "official visit",
+      "freedom of movement",
+      "Bosnia and Herzegovina"
+    ]
+  },
+  {
+    "id": 219,
+    "ground_truth_eurovoc_concepts": [
+      "Madeira",
+      "breeding animal",
+      "sheep",
+      "supply",
+      "Azores",
+      "goat"
+    ]
+  },
+  {
+    "id": 220,
+    "ground_truth_eurovoc_concepts": [
+      "diplomatic representation",
+      "Bosnia and Herzegovina",
+      "rule of law",
+      "appointment of members"
+    ]
+  },
+  {
+    "id": 221,
+    "ground_truth_eurovoc_concepts": [
+      "France",
+      "Germany",
+      "Baltic Sea",
+      "ship's flag",
+      "sea fish",
+      "Poland",
+      "catch quota",
+      "United Kingdom",
+      "catch by species",
+      "fishing rights",
+      "Spain"
+    ]
+  },
+  {
+    "id": 222,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "chemical product",
+      "South-East Asia",
+      "anti-dumping duty",
+      "tariff exemption",
+      "Far East"
+    ]
+  },
+  {
+    "id": 223,
+    "ground_truth_eurovoc_concepts": [
+      "Guinea-Bissau",
+      "agreement (EU)",
+      "sea fishing",
+      "fishing agreement",
+      "protocol to an agreement",
+      "signature of an agreement",
+      "fishing area",
+      "interim agreement (EU)",
+      "fishing rights",
+      "financial compensation of an agreement"
+    ]
+  },
+  {
+    "id": 224,
+    "ground_truth_eurovoc_concepts": [
+      "exemption from customs duties",
+      "recording equipment",
+      "scientific apparatus",
+      "medical device",
+      "common customs tariff"
+    ]
+  },
+  {
+    "id": 225,
+    "ground_truth_eurovoc_concepts": [
+      "EU financing",
+      "research project",
+      "fishing area",
+      "fishing vessel",
+      "fishing controls",
+      "EU Member State"
+    ]
+  },
+  {
+    "id": 226,
+    "ground_truth_eurovoc_concepts": [
+      "tobacco industry",
+      "advertising",
+      "approximation of laws",
+      "public health",
+      "tobacco",
+      "sponsorship"
+    ]
+  },
+  {
+    "id": 227,
+    "ground_truth_eurovoc_concepts": [
+      "stone fruit",
+      "pip fruit",
+      "fruit vegetable",
+      "import price",
+      "citrus fruit"
+    ]
+  },
+  {
+    "id": 228,
+    "ground_truth_eurovoc_concepts": [
+      "fishing industry",
+      "Mauritius",
+      "second Lomé Convention",
+      "originating product"
+    ]
+  },
+  {
+    "id": 229,
+    "ground_truth_eurovoc_concepts": [
+      "plant life",
+      "seed"
+    ]
+  },
+  {
+    "id": 230,
+    "ground_truth_eurovoc_concepts": [
+      "plantation",
+      "agricultural region",
+      "utilised agricultural area",
+      "Austria",
+      "vineyard",
+      "wine of superior quality",
+      "Burgenland",
+      "Styria"
+    ]
+  },
+  {
+    "id": 231,
+    "ground_truth_eurovoc_concepts": [
+      "iron and steel product",
+      "customs inspection",
+      "customs document",
+      "trade agreement (EU)",
+      "export monitoring",
+      "Kazakhstan"
+    ]
+  },
+  {
+    "id": 232,
+    "ground_truth_eurovoc_concepts": [
+      "veterinary inspection",
+      "import licence",
+      "Argentina",
+      "import (EU)",
+      "poultry",
+      "health certificate"
+    ]
+  },
+  {
+    "id": 233,
+    "ground_truth_eurovoc_concepts": [
+      "EU financing",
+      "fishing industry",
+      "production quota",
+      "production capacity",
+      "financial aid"
+    ]
+  },
+  {
+    "id": 234,
+    "ground_truth_eurovoc_concepts": [
+      "veterinary inspection",
+      "animal disease",
+      "disease prevention",
+      "health control",
+      "animal product",
+      "trade restriction",
+      "United Kingdom",
+      "poultry",
+      "sensitive area"
+    ]
+  },
+  {
+    "id": 235,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "representative price",
+      "sugar product",
+      "CCT duties",
+      "syrup",
+      "white sugar",
+      "raw sugar"
+    ]
+  },
+  {
+    "id": 236,
+    "ground_truth_eurovoc_concepts": [
+      "import",
+      "import policy",
+      "textile product",
+      "quantitative restriction",
+      "Montenegro",
+      "Serbia"
+    ]
+  },
+  {
+    "id": 237,
+    "ground_truth_eurovoc_concepts": [
+      "export refund",
+      "cereals"
+    ]
+  },
+  {
+    "id": 238,
+    "ground_truth_eurovoc_concepts": [
+      "Finland",
+      "Iceland",
+      "Norway",
+      "Denmark",
+      "Sweden",
+      "Schengen Agreement"
+    ]
+  },
+  {
+    "id": 239,
+    "ground_truth_eurovoc_concepts": [
+      "atmospheric pollution",
+      "EU Emissions Trading Scheme",
+      "EU emission allowance",
+      "air transport",
+      "Croatia"
+    ]
+  },
+  {
+    "id": 240,
+    "ground_truth_eurovoc_concepts": [
+      "human nutrition",
+      "food inspection",
+      "foodstuffs legislation",
+      "foodstuff",
+      "toxic substance"
+    ]
+  },
+  {
+    "id": 241,
+    "ground_truth_eurovoc_concepts": [
+      "milk",
+      "milk product",
+      "aid to agriculture",
+      "farm development plan",
+      "Belgium",
+      "agro-industry"
+    ]
+  },
+  {
+    "id": 242,
+    "ground_truth_eurovoc_concepts": [
+      "perishable goods",
+      "customs valuation"
+    ]
+  },
+  {
+    "id": 243,
+    "ground_truth_eurovoc_concepts": [
+      "marketing restriction",
+      "seed"
+    ]
+  },
+  {
+    "id": 244,
+    "ground_truth_eurovoc_concepts": [
+      "tax harmonisation",
+      "Italy",
+      "provision of services",
+      "basis of tax assessment",
+      "tax relief",
+      "VAT",
+      "distributive trades",
+      "tax exemption"
+    ]
+  },
+  {
+    "id": 245,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "third country",
+      "export refund",
+      "common wheat"
+    ]
+  },
+  {
+    "id": 246,
+    "ground_truth_eurovoc_concepts": [
+      "fruit",
+      "producer group",
+      "vegetable",
+      "import price",
+      "agro-industry",
+      "outsourcing"
+    ]
+  },
+  {
+    "id": 247,
+    "ground_truth_eurovoc_concepts": [
+      "award of contract",
+      "intervention agency",
+      "sugar",
+      "sale",
+      "EU Member State"
+    ]
+  },
+  {
+    "id": 248,
+    "ground_truth_eurovoc_concepts": [
+      "French overseas department and region",
+      "rabbit",
+      "breeding animal",
+      "egg",
+      "supply",
+      "aid system"
+    ]
+  },
+  {
+    "id": 249,
+    "ground_truth_eurovoc_concepts": [
+      "approval",
+      "marketing standard",
+      "two-wheeled vehicle",
+      "safety device",
+      "codification of EU law",
+      "vehicle parts"
+    ]
+  }
+]

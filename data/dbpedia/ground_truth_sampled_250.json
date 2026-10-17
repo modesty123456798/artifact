@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "0",
+    "ground_truth_article_categories": [
+      "place",
+      "sport_facility",
+      "stadium"
+    ]
+  },
+  {
+    "id": "1",
+    "ground_truth_article_categories": [
+      "agent",
+      "coach",
+      "college_coach"
+    ]
+  },
+  {
+    "id": "2",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "shopping_mall"
+    ]
+  },
+  {
+    "id": "3",
+    "ground_truth_article_categories": [
+      "agent",
+      "sports_team",
+      "hockey_team"
+    ]
+  },
+  {
+    "id": "4",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "darts_player"
+    ]
+  },
+  {
+    "id": "5",
+    "ground_truth_article_categories": [
+      "event",
+      "sports_event",
+      "wrestling_event"
+    ]
+  },
+  {
+    "id": "6",
+    "ground_truth_article_categories": [
+      "work",
+      "musical_work",
+      "single"
+    ]
+  },
+  {
+    "id": "7",
+    "ground_truth_article_categories": [
+      "place",
+      "infrastructure",
+      "airport"
+    ]
+  },
+  {
+    "id": "8",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "bird"
+    ]
+  },
+  {
+    "id": "9",
+    "ground_truth_article_categories": [
+      "species",
+      "horse",
+      "race_horse"
+    ]
+  },
+  {
+    "id": "10",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "museum"
+    ]
+  },
+  {
+    "id": "11",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "mollusca"
+    ]
+  },
+  {
+    "id": "12",
+    "ground_truth_article_categories": [
+      "agent",
+      "organisation",
+      "military_unit"
+    ]
+  },
+  {
+    "id": "13",
+    "ground_truth_article_categories": [
+      "unit_of_work",
+      "legal_case",
+      "supreme_court_of_the_united_states_case"
+    ]
+  },
+  {
+    "id": "14",
+    "ground_truth_article_categories": [
+      "place",
+      "infrastructure",
+      "airport"
+    ]
+  },
+  {
+    "id": "15",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "badminton_player"
+    ]
+  },
+  {
+    "id": "16",
+    "ground_truth_article_categories": [
+      "work",
+      "software",
+      "video_game"
+    ]
+  },
+  {
+    "id": "17",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "historic_building"
+    ]
+  },
+  {
+    "id": "18",
+    "ground_truth_article_categories": [
+      "event",
+      "race",
+      "horse_race"
+    ]
+  },
+  {
+    "id": "19",
+    "ground_truth_article_categories": [
+      "agent",
+      "coach",
+      "college_coach"
+    ]
+  },
+  {
+    "id": "20",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "historic_building"
+    ]
+  },
+  {
+    "id": "21",
+    "ground_truth_article_categories": [
+      "agent",
+      "winter_sport_player",
+      "skier"
+    ]
+  },
+  {
+    "id": "22",
+    "ground_truth_article_categories": [
+      "agent",
+      "gridiron_football_player",
+      "american_football_player"
+    ]
+  },
+  {
+    "id": "23",
+    "ground_truth_article_categories": [
+      "species",
+      "eukaryote",
+      "fungus"
+    ]
+  },
+  {
+    "id": "24",
+    "ground_truth_article_categories": [
+      "work",
+      "musical_work",
+      "artist_discography"
+    ]
+  },
+  {
+    "id": "25",
+    "ground_truth_article_categories": [
+      "place",
+      "sport_facility",
+      "stadium"
+    ]
+  },
+  {
+    "id": "26",
+    "ground_truth_article_categories": [
+      "work",
+      "periodical_literature",
+      "newspaper"
+    ]
+  },
+  {
+    "id": "27",
+    "ground_truth_article_categories": [
+      "agent",
+      "musical_artist",
+      "classical_music_artist"
+    ]
+  },
+  {
+    "id": "28",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "cricketer"
+    ]
+  },
+  {
+    "id": "29",
+    "ground_truth_article_categories": [
+      "place",
+      "route_of_transportation",
+      "railway_line"
+    ]
+  },
+  {
+    "id": "30",
+    "ground_truth_article_categories": [
+      "agent",
+      "person",
+      "beauty_queen"
+    ]
+  },
+  {
+    "id": "31",
+    "ground_truth_article_categories": [
+      "agent",
+      "politician",
+      "governor"
+    ]
+  },
+  {
+    "id": "32",
+    "ground_truth_article_categories": [
+      "work",
+      "periodical_literature",
+      "academic_journal"
+    ]
+  },
+  {
+    "id": "33",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "tennis_player"
+    ]
+  },
+  {
+    "id": "34",
+    "ground_truth_article_categories": [
+      "agent",
+      "broadcaster",
+      "radio_station"
+    ]
+  },
+  {
+    "id": "35",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "swimmer"
+    ]
+  },
+  {
+    "id": "36",
+    "ground_truth_article_categories": [
+      "agent",
+      "person",
+      "architect"
+    ]
+  },
+  {
+    "id": "37",
+    "ground_truth_article_categories": [
+      "agent",
+      "presenter",
+      "radio_host"
+    ]
+  },
+  {
+    "id": "38",
+    "ground_truth_article_categories": [
+      "place",
+      "celestial_body",
+      "galaxy"
+    ]
+  },
+  {
+    "id": "39",
+    "ground_truth_article_categories": [
+      "place",
+      "route_of_transportation",
+      "railway_line"
+    ]
+  },
+  {
+    "id": "40",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "hospital"
+    ]
+  },
+  {
+    "id": "41",
+    "ground_truth_article_categories": [
+      "agent",
+      "politician",
+      "president"
+    ]
+  },
+  {
+    "id": "42",
+    "ground_truth_article_categories": [
+      "agent",
+      "organisation",
+      "military_unit"
+    ]
+  },
+  {
+    "id": "43",
+    "ground_truth_article_categories": [
+      "sports_season",
+      "sports_team_season",
+      "n_c_a_a_team_season"
+    ]
+  },
+  {
+    "id": "44",
+    "ground_truth_article_categories": [
+      "work",
+      "periodical_literature",
+      "newspaper"
+    ]
+  },
+  {
+    "id": "45",
+    "ground_truth_article_categories": [
+      "agent",
+      "person",
+      "office_holder"
+    ]
+  },
+  {
+    "id": "46",
+    "ground_truth_article_categories": [
+      "place",
+      "celestial_body",
+      "planet"
+    ]
+  },
+  {
+    "id": "47",
+    "ground_truth_article_categories": [
+      "place",
+      "infrastructure",
+      "airport"
+    ]
+  },
+  {
+    "id": "48",
+    "ground_truth_article_categories": [
+      "sports_season",
+      "football_league_season",
+      "national_football_league_season"
+    ]
+  },
+  {
+    "id": "49",
+    "ground_truth_article_categories": [
+      "work",
+      "comic",
+      "manga"
+    ]
+  },
+  {
+    "id": "50",
+    "ground_truth_article_categories": [
+      "place",
+      "settlement",
+      "village"
+    ]
+  },
+  {
+    "id": "51",
+    "ground_truth_article_categories": [
+      "place",
+      "celestial_body",
+      "galaxy"
+    ]
+  },
+  {
+    "id": "52",
+    "ground_truth_article_categories": [
+      "work",
+      "periodical_literature",
+      "newspaper"
+    ]
+  },
+  {
+    "id": "53",
+    "ground_truth_article_categories": [
+      "agent",
+      "organisation",
+      "public_transit_system"
+    ]
+  },
+  {
+    "id": "54",
+    "ground_truth_article_categories": [
+      "agent",
+      "winter_sport_player",
+      "ice_hockey_player"
+    ]
+  },
+  {
+    "id": "55",
+    "ground_truth_article_categories": [
+      "place",
+      "route_of_transportation",
+      "railway_line"
+    ]
+  },
+  {
+    "id": "56",
+    "ground_truth_article_categories": [
+      "place",
+      "natural_place",
+      "mountain_pass"
+    ]
+  },
+  {
+    "id": "57",
+    "ground_truth_article_categories": [
+      "place",
+      "route_of_transportation",
+      "railway_line"
+    ]
+  },
+  {
+    "id": "58",
+    "ground_truth_article_categories": [
+      "agent",
+      "company",
+      "bank"
+    ]
+  },
+  {
+    "id": "59",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "baseball_player"
+    ]
+  },
+  {
+    "id": "60",
+    "ground_truth_article_categories": [
+      "work",
+      "periodical_literature",
+      "academic_journal"
+    ]
+  },
+  {
+    "id": "61",
+    "ground_truth_article_categories": [
+      "event",
+      "sports_event",
+      "wrestling_event"
+    ]
+  },
+  {
+    "id": "62",
+    "ground_truth_article_categories": [
+      "work",
+      "periodical_literature",
+      "newspaper"
+    ]
+  },
+  {
+    "id": "63",
+    "ground_truth_article_categories": [
+      "place",
+      "settlement",
+      "town"
+    ]
+  },
+  {
+    "id": "64",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "gymnast"
+    ]
+  },
+  {
+    "id": "65",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "rugby_player"
+    ]
+  },
+  {
+    "id": "66",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "gymnast"
+    ]
+  },
+  {
+    "id": "67",
+    "ground_truth_article_categories": [
+      "event",
+      "societal_event",
+      "convention"
+    ]
+  },
+  {
+    "id": "68",
+    "ground_truth_article_categories": [
+      "agent",
+      "person",
+      "judge"
+    ]
+  },
+  {
+    "id": "69",
+    "ground_truth_article_categories": [
+      "species",
+      "plant",
+      "cultivated_variety"
+    ]
+  },
+  {
+    "id": "70",
+    "ground_truth_article_categories": [
+      "work",
+      "musical_work",
+      "single"
+    ]
+  },
+  {
+    "id": "71",
+    "ground_truth_article_categories": [
+      "place",
+      "settlement",
+      "town"
+    ]
+  },
+  {
+    "id": "72",
+    "ground_truth_article_categories": [
+      "place",
+      "satellite",
+      "artificial_satellite"
+    ]
+  },
+  {
+    "id": "73",
+    "ground_truth_article_categories": [
+      "agent",
+      "company",
+      "bus_company"
+    ]
+  },
+  {
+    "id": "74",
+    "ground_truth_article_categories": [
+      "agent",
+      "cleric",
+      "saint"
+    ]
+  },
+  {
+    "id": "75",
+    "ground_truth_article_categories": [
+      "place",
+      "sport_facility",
+      "stadium"
+    ]
+  },
+  {
+    "id": "76",
+    "ground_truth_article_categories": [
+      "species",
+      "horse",
+      "race_horse"
+    ]
+  },
+  {
+    "id": "77",
+    "ground_truth_article_categories": [
+      "place",
+      "route_of_transportation",
+      "railway_line"
+    ]
+  },
+  {
+    "id": "78",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "horse_rider"
+    ]
+  },
+  {
+    "id": "79",
+    "ground_truth_article_categories": [
+      "event",
+      "societal_event",
+      "election"
+    ]
+  },
+  {
+    "id": "80",
+    "ground_truth_article_categories": [
+      "work",
+      "comic",
+      "manga"
+    ]
+  },
+  {
+    "id": "81",
+    "ground_truth_article_categories": [
+      "agent",
+      "broadcaster",
+      "television_station"
+    ]
+  },
+  {
+    "id": "82",
+    "ground_truth_article_categories": [
+      "sports_season",
+      "sports_team_season",
+      "soccer_club_season"
+    ]
+  },
+  {
+    "id": "83",
+    "ground_truth_article_categories": [
+      "agent",
+      "broadcaster",
+      "radio_station"
+    ]
+  },
+  {
+    "id": "84",
+    "ground_truth_article_categories": [
+      "place",
+      "body_of_water",
+      "lake"
+    ]
+  },
+  {
+    "id": "85",
+    "ground_truth_article_categories": [
+      "agent",
+      "racing_driver",
+      "formula_one_racer"
+    ]
+  },
+  {
+    "id": "86",
+    "ground_truth_article_categories": [
+      "place",
+      "route_of_transportation",
+      "road"
+    ]
+  },
+  {
+    "id": "87",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "tennis_player"
+    ]
+  },
+  {
+    "id": "88",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "shopping_mall"
+    ]
+  },
+  {
+    "id": "89",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "reptile"
+    ]
+  },
+  {
+    "id": "90",
+    "ground_truth_article_categories": [
+      "event",
+      "tournament",
+      "golf_tournament"
+    ]
+  },
+  {
+    "id": "91",
+    "ground_truth_article_categories": [
+      "work",
+      "musical_work",
+      "artist_discography"
+    ]
+  },
+  {
+    "id": "92",
+    "ground_truth_article_categories": [
+      "agent",
+      "organisation",
+      "public_transit_system"
+    ]
+  },
+  {
+    "id": "93",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "swimmer"
+    ]
+  },
+  {
+    "id": "94",
+    "ground_truth_article_categories": [
+      "place",
+      "natural_place",
+      "mountain_range"
+    ]
+  },
+  {
+    "id": "95",
+    "ground_truth_article_categories": [
+      "event",
+      "olympics",
+      "olympic_event"
+    ]
+  },
+  {
+    "id": "96",
+    "ground_truth_article_categories": [
+      "agent",
+      "winter_sport_player",
+      "ice_hockey_player"
+    ]
+  },
+  {
+    "id": "97",
+    "ground_truth_article_categories": [
+      "agent",
+      "writer",
+      "historian"
+    ]
+  },
+  {
+    "id": "98",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "restaurant"
+    ]
+  },
+  {
+    "id": "99",
+    "ground_truth_article_categories": [
+      "agent",
+      "winter_sport_player",
+      "figure_skater"
+    ]
+  },
+  {
+    "id": "100",
+    "ground_truth_article_categories": [
+      "agent",
+      "person",
+      "military_person"
+    ]
+  },
+  {
+    "id": "101",
+    "ground_truth_article_categories": [
+      "agent",
+      "person",
+      "beauty_queen"
+    ]
+  },
+  {
+    "id": "102",
+    "ground_truth_article_categories": [
+      "place",
+      "route_of_transportation",
+      "road"
+    ]
+  },
+  {
+    "id": "103",
+    "ground_truth_article_categories": [
+      "event",
+      "tournament",
+      "golf_tournament"
+    ]
+  },
+  {
+    "id": "104",
+    "ground_truth_article_categories": [
+      "agent",
+      "educational_institution",
+      "school"
+    ]
+  },
+  {
+    "id": "105",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "hospital"
+    ]
+  },
+  {
+    "id": "106",
+    "ground_truth_article_categories": [
+      "species",
+      "horse",
+      "race_horse"
+    ]
+  },
+  {
+    "id": "107",
+    "ground_truth_article_categories": [
+      "agent",
+      "sports_team",
+      "rugby_club"
+    ]
+  },
+  {
+    "id": "108",
+    "ground_truth_article_categories": [
+      "work",
+      "periodical_literature",
+      "magazine"
+    ]
+  },
+  {
+    "id": "109",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "basketball_player"
+    ]
+  },
+  {
+    "id": "110",
+    "ground_truth_article_categories": [
+      "agent",
+      "group",
+      "band"
+    ]
+  },
+  {
+    "id": "111",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "swimmer"
+    ]
+  },
+  {
+    "id": "112",
+    "ground_truth_article_categories": [
+      "agent",
+      "musical_artist",
+      "classical_music_artist"
+    ]
+  },
+  {
+    "id": "113",
+    "ground_truth_article_categories": [
+      "agent",
+      "sports_team",
+      "cycling_team"
+    ]
+  },
+  {
+    "id": "114",
+    "ground_truth_article_categories": [
+      "event",
+      "natural_event",
+      "solar_eclipse"
+    ]
+  },
+  {
+    "id": "115",
+    "ground_truth_article_categories": [
+      "agent",
+      "winter_sport_player",
+      "figure_skater"
+    ]
+  },
+  {
+    "id": "116",
+    "ground_truth_article_categories": [
+      "agent",
+      "broadcaster",
+      "television_station"
+    ]
+  },
+  {
+    "id": "117",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "arachnid"
+    ]
+  },
+  {
+    "id": "118",
+    "ground_truth_article_categories": [
+      "agent",
+      "politician",
+      "mayor"
+    ]
+  },
+  {
+    "id": "119",
+    "ground_truth_article_categories": [
+      "work",
+      "comic",
+      "comic_strip"
+    ]
+  },
+  {
+    "id": "120",
+    "ground_truth_article_categories": [
+      "agent",
+      "broadcaster",
+      "broadcast_network"
+    ]
+  },
+  {
+    "id": "121",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "golf_player"
+    ]
+  },
+  {
+    "id": "122",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "reptile"
+    ]
+  },
+  {
+    "id": "123",
+    "ground_truth_article_categories": [
+      "agent",
+      "organisation",
+      "legislature"
+    ]
+  },
+  {
+    "id": "124",
+    "ground_truth_article_categories": [
+      "agent",
+      "organisation",
+      "political_party"
+    ]
+  },
+  {
+    "id": "125",
+    "ground_truth_article_categories": [
+      "work",
+      "periodical_literature",
+      "magazine"
+    ]
+  },
+  {
+    "id": "126",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "castle"
+    ]
+  },
+  {
+    "id": "127",
+    "ground_truth_article_categories": [
+      "agent",
+      "organisation",
+      "military_unit"
+    ]
+  },
+  {
+    "id": "128",
+    "ground_truth_article_categories": [
+      "agent",
+      "person",
+      "philosopher"
+    ]
+  },
+  {
+    "id": "129",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "amphibian"
+    ]
+  },
+  {
+    "id": "130",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "martial_artist"
+    ]
+  },
+  {
+    "id": "131",
+    "ground_truth_article_categories": [
+      "place",
+      "infrastructure",
+      "airport"
+    ]
+  },
+  {
+    "id": "132",
+    "ground_truth_article_categories": [
+      "place",
+      "settlement",
+      "village"
+    ]
+  },
+  {
+    "id": "133",
+    "ground_truth_article_categories": [
+      "work",
+      "song",
+      "eurovision_song_contest_entry"
+    ]
+  },
+  {
+    "id": "134",
+    "ground_truth_article_categories": [
+      "place",
+      "tower",
+      "lighthouse"
+    ]
+  },
+  {
+    "id": "135",
+    "ground_truth_article_categories": [
+      "agent",
+      "artist",
+      "fashion_designer"
+    ]
+  },
+  {
+    "id": "136",
+    "ground_truth_article_categories": [
+      "agent",
+      "artist",
+      "comics_creator"
+    ]
+  },
+  {
+    "id": "137",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "bird"
+    ]
+  },
+  {
+    "id": "138",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "bird"
+    ]
+  },
+  {
+    "id": "139",
+    "ground_truth_article_categories": [
+      "agent",
+      "sports_team",
+      "basketball_team"
+    ]
+  },
+  {
+    "id": "140",
+    "ground_truth_article_categories": [
+      "agent",
+      "educational_institution",
+      "university"
+    ]
+  },
+  {
+    "id": "141",
+    "ground_truth_article_categories": [
+      "agent",
+      "educational_institution",
+      "school"
+    ]
+  },
+  {
+    "id": "142",
+    "ground_truth_article_categories": [
+      "unit_of_work",
+      "legal_case",
+      "supreme_court_of_the_united_states_case"
+    ]
+  },
+  {
+    "id": "143",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "fish"
+    ]
+  },
+  {
+    "id": "144",
+    "ground_truth_article_categories": [
+      "place",
+      "settlement",
+      "town"
+    ]
+  },
+  {
+    "id": "145",
+    "ground_truth_article_categories": [
+      "place",
+      "infrastructure",
+      "airport"
+    ]
+  },
+  {
+    "id": "146",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "darts_player"
+    ]
+  },
+  {
+    "id": "147",
+    "ground_truth_article_categories": [
+      "agent",
+      "person",
+      "philosopher"
+    ]
+  },
+  {
+    "id": "148",
+    "ground_truth_article_categories": [
+      "work",
+      "musical_work",
+      "single"
+    ]
+  },
+  {
+    "id": "149",
+    "ground_truth_article_categories": [
+      "place",
+      "body_of_water",
+      "lake"
+    ]
+  },
+  {
+    "id": "150",
+    "ground_truth_article_categories": [
+      "work",
+      "musical_work",
+      "artist_discography"
+    ]
+  },
+  {
+    "id": "151",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "basketball_player"
+    ]
+  },
+  {
+    "id": "152",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "insect"
+    ]
+  },
+  {
+    "id": "153",
+    "ground_truth_article_categories": [
+      "work",
+      "periodical_literature",
+      "magazine"
+    ]
+  },
+  {
+    "id": "154",
+    "ground_truth_article_categories": [
+      "agent",
+      "organisation",
+      "political_party"
+    ]
+  },
+  {
+    "id": "155",
+    "ground_truth_article_categories": [
+      "agent",
+      "gridiron_football_player",
+      "american_football_player"
+    ]
+  },
+  {
+    "id": "156",
+    "ground_truth_article_categories": [
+      "place",
+      "clerical_administrative_region",
+      "diocese"
+    ]
+  },
+  {
+    "id": "157",
+    "ground_truth_article_categories": [
+      "agent",
+      "scientist",
+      "medician"
+    ]
+  },
+  {
+    "id": "158",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "soccer_player"
+    ]
+  },
+  {
+    "id": "159",
+    "ground_truth_article_categories": [
+      "agent",
+      "sports_league",
+      "soccer_league"
+    ]
+  },
+  {
+    "id": "160",
+    "ground_truth_article_categories": [
+      "agent",
+      "politician",
+      "prime_minister"
+    ]
+  },
+  {
+    "id": "161",
+    "ground_truth_article_categories": [
+      "event",
+      "sports_event",
+      "mixed_martial_arts_event"
+    ]
+  },
+  {
+    "id": "162",
+    "ground_truth_article_categories": [
+      "agent",
+      "artist",
+      "fashion_designer"
+    ]
+  },
+  {
+    "id": "163",
+    "ground_truth_article_categories": [
+      "event",
+      "societal_event",
+      "convention"
+    ]
+  },
+  {
+    "id": "164",
+    "ground_truth_article_categories": [
+      "sports_season",
+      "sports_team_season",
+      "soccer_club_season"
+    ]
+  },
+  {
+    "id": "165",
+    "ground_truth_article_categories": [
+      "agent",
+      "sports_team",
+      "hockey_team"
+    ]
+  },
+  {
+    "id": "166",
+    "ground_truth_article_categories": [
+      "event",
+      "race",
+      "horse_race"
+    ]
+  },
+  {
+    "id": "167",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "gymnast"
+    ]
+  },
+  {
+    "id": "168",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "tennis_player"
+    ]
+  },
+  {
+    "id": "169",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "handball_player"
+    ]
+  },
+  {
+    "id": "170",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "australian_rules_football_player"
+    ]
+  },
+  {
+    "id": "171",
+    "ground_truth_article_categories": [
+      "place",
+      "satellite",
+      "artificial_satellite"
+    ]
+  },
+  {
+    "id": "172",
+    "ground_truth_article_categories": [
+      "place",
+      "route_of_transportation",
+      "railway_line"
+    ]
+  },
+  {
+    "id": "173",
+    "ground_truth_article_categories": [
+      "event",
+      "race",
+      "horse_race"
+    ]
+  },
+  {
+    "id": "174",
+    "ground_truth_article_categories": [
+      "place",
+      "natural_place",
+      "mountain"
+    ]
+  },
+  {
+    "id": "175",
+    "ground_truth_article_categories": [
+      "place",
+      "settlement",
+      "village"
+    ]
+  },
+  {
+    "id": "176",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "hospital"
+    ]
+  },
+  {
+    "id": "177",
+    "ground_truth_article_categories": [
+      "species",
+      "eukaryote",
+      "fungus"
+    ]
+  },
+  {
+    "id": "178",
+    "ground_truth_article_categories": [
+      "agent",
+      "sports_league",
+      "soccer_league"
+    ]
+  },
+  {
+    "id": "179",
+    "ground_truth_article_categories": [
+      "agent",
+      "broadcaster",
+      "television_station"
+    ]
+  },
+  {
+    "id": "180",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "jockey"
+    ]
+  },
+  {
+    "id": "181",
+    "ground_truth_article_categories": [
+      "place",
+      "sport_facility",
+      "stadium"
+    ]
+  },
+  {
+    "id": "182",
+    "ground_truth_article_categories": [
+      "event",
+      "societal_event",
+      "military_conflict"
+    ]
+  },
+  {
+    "id": "183",
+    "ground_truth_article_categories": [
+      "place",
+      "natural_place",
+      "mountain"
+    ]
+  },
+  {
+    "id": "184",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "soccer_player"
+    ]
+  },
+  {
+    "id": "185",
+    "ground_truth_article_categories": [
+      "place",
+      "route_of_transportation",
+      "railway_line"
+    ]
+  },
+  {
+    "id": "186",
+    "ground_truth_article_categories": [
+      "agent",
+      "company",
+      "winery"
+    ]
+  },
+  {
+    "id": "187",
+    "ground_truth_article_categories": [
+      "event",
+      "societal_event",
+      "convention"
+    ]
+  },
+  {
+    "id": "188",
+    "ground_truth_article_categories": [
+      "agent",
+      "company",
+      "airline"
+    ]
+  },
+  {
+    "id": "189",
+    "ground_truth_article_categories": [
+      "agent",
+      "organisation",
+      "military_unit"
+    ]
+  },
+  {
+    "id": "190",
+    "ground_truth_article_categories": [
+      "species",
+      "eukaryote",
+      "fungus"
+    ]
+  },
+  {
+    "id": "191",
+    "ground_truth_article_categories": [
+      "agent",
+      "presenter",
+      "radio_host"
+    ]
+  },
+  {
+    "id": "192",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "soccer_player"
+    ]
+  },
+  {
+    "id": "193",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "tennis_player"
+    ]
+  },
+  {
+    "id": "194",
+    "ground_truth_article_categories": [
+      "agent",
+      "coach",
+      "college_coach"
+    ]
+  },
+  {
+    "id": "195",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "bird"
+    ]
+  },
+  {
+    "id": "196",
+    "ground_truth_article_categories": [
+      "topical_concept",
+      "genre",
+      "music_genre"
+    ]
+  },
+  {
+    "id": "197",
+    "ground_truth_article_categories": [
+      "agent",
+      "cleric",
+      "christian_bishop"
+    ]
+  },
+  {
+    "id": "198",
+    "ground_truth_article_categories": [
+      "agent",
+      "person",
+      "noble"
+    ]
+  },
+  {
+    "id": "199",
+    "ground_truth_article_categories": [
+      "agent",
+      "educational_institution",
+      "university"
+    ]
+  },
+  {
+    "id": "200",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "basketball_player"
+    ]
+  },
+  {
+    "id": "201",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "swimmer"
+    ]
+  },
+  {
+    "id": "202",
+    "ground_truth_article_categories": [
+      "work",
+      "cartoon",
+      "anime"
+    ]
+  },
+  {
+    "id": "203",
+    "ground_truth_article_categories": [
+      "place",
+      "natural_place",
+      "mountain_range"
+    ]
+  },
+  {
+    "id": "204",
+    "ground_truth_article_categories": [
+      "agent",
+      "writer",
+      "historian"
+    ]
+  },
+  {
+    "id": "205",
+    "ground_truth_article_categories": [
+      "agent",
+      "broadcaster",
+      "radio_station"
+    ]
+  },
+  {
+    "id": "206",
+    "ground_truth_article_categories": [
+      "place",
+      "infrastructure",
+      "airport"
+    ]
+  },
+  {
+    "id": "207",
+    "ground_truth_article_categories": [
+      "agent",
+      "organisation",
+      "military_unit"
+    ]
+  },
+  {
+    "id": "208",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "tennis_player"
+    ]
+  },
+  {
+    "id": "209",
+    "ground_truth_article_categories": [
+      "agent",
+      "broadcaster",
+      "television_station"
+    ]
+  },
+  {
+    "id": "210",
+    "ground_truth_article_categories": [
+      "place",
+      "sport_facility",
+      "stadium"
+    ]
+  },
+  {
+    "id": "211",
+    "ground_truth_article_categories": [
+      "agent",
+      "artist",
+      "comics_creator"
+    ]
+  },
+  {
+    "id": "212",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "amphibian"
+    ]
+  },
+  {
+    "id": "213",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "museum"
+    ]
+  },
+  {
+    "id": "214",
+    "ground_truth_article_categories": [
+      "event",
+      "tournament",
+      "soccer_tournament"
+    ]
+  },
+  {
+    "id": "215",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "cyclist"
+    ]
+  },
+  {
+    "id": "216",
+    "ground_truth_article_categories": [
+      "work",
+      "periodical_literature",
+      "magazine"
+    ]
+  },
+  {
+    "id": "217",
+    "ground_truth_article_categories": [
+      "species",
+      "horse",
+      "race_horse"
+    ]
+  },
+  {
+    "id": "218",
+    "ground_truth_article_categories": [
+      "agent",
+      "politician",
+      "governor"
+    ]
+  },
+  {
+    "id": "219",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "jockey"
+    ]
+  },
+  {
+    "id": "220",
+    "ground_truth_article_categories": [
+      "agent",
+      "person",
+      "journalist"
+    ]
+  },
+  {
+    "id": "221",
+    "ground_truth_article_categories": [
+      "agent",
+      "sports_team",
+      "hockey_team"
+    ]
+  },
+  {
+    "id": "222",
+    "ground_truth_article_categories": [
+      "place",
+      "sport_facility",
+      "stadium"
+    ]
+  },
+  {
+    "id": "223",
+    "ground_truth_article_categories": [
+      "work",
+      "written_work",
+      "play"
+    ]
+  },
+  {
+    "id": "224",
+    "ground_truth_article_categories": [
+      "work",
+      "periodical_literature",
+      "newspaper"
+    ]
+  },
+  {
+    "id": "225",
+    "ground_truth_article_categories": [
+      "unit_of_work",
+      "legal_case",
+      "supreme_court_of_the_united_states_case"
+    ]
+  },
+  {
+    "id": "226",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "museum"
+    ]
+  },
+  {
+    "id": "227",
+    "ground_truth_article_categories": [
+      "species",
+      "animal",
+      "arachnid"
+    ]
+  },
+  {
+    "id": "228",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "hotel"
+    ]
+  },
+  {
+    "id": "229",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "museum"
+    ]
+  },
+  {
+    "id": "230",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "martial_artist"
+    ]
+  },
+  {
+    "id": "231",
+    "ground_truth_article_categories": [
+      "place",
+      "satellite",
+      "artificial_satellite"
+    ]
+  },
+  {
+    "id": "232",
+    "ground_truth_article_categories": [
+      "agent",
+      "artist",
+      "comics_creator"
+    ]
+  },
+  {
+    "id": "233",
+    "ground_truth_article_categories": [
+      "unit_of_work",
+      "legal_case",
+      "supreme_court_of_the_united_states_case"
+    ]
+  },
+  {
+    "id": "234",
+    "ground_truth_article_categories": [
+      "agent",
+      "artist",
+      "photographer"
+    ]
+  },
+  {
+    "id": "235",
+    "ground_truth_article_categories": [
+      "agent",
+      "organisation",
+      "public_transit_system"
+    ]
+  },
+  {
+    "id": "236",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "tennis_player"
+    ]
+  },
+  {
+    "id": "237",
+    "ground_truth_article_categories": [
+      "agent",
+      "writer",
+      "historian"
+    ]
+  },
+  {
+    "id": "238",
+    "ground_truth_article_categories": [
+      "agent",
+      "broadcaster",
+      "television_station"
+    ]
+  },
+  {
+    "id": "239",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "gaelic_games_player"
+    ]
+  },
+  {
+    "id": "240",
+    "ground_truth_article_categories": [
+      "agent",
+      "winter_sport_player",
+      "skier"
+    ]
+  },
+  {
+    "id": "241",
+    "ground_truth_article_categories": [
+      "agent",
+      "sports_team",
+      "rugby_club"
+    ]
+  },
+  {
+    "id": "242",
+    "ground_truth_article_categories": [
+      "work",
+      "software",
+      "video_game"
+    ]
+  },
+  {
+    "id": "243",
+    "ground_truth_article_categories": [
+      "agent",
+      "educational_institution",
+      "school"
+    ]
+  },
+  {
+    "id": "244",
+    "ground_truth_article_categories": [
+      "place",
+      "building",
+      "museum"
+    ]
+  },
+  {
+    "id": "245",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "basketball_player"
+    ]
+  },
+  {
+    "id": "246",
+    "ground_truth_article_categories": [
+      "work",
+      "written_work",
+      "play"
+    ]
+  },
+  {
+    "id": "247",
+    "ground_truth_article_categories": [
+      "agent",
+      "coach",
+      "college_coach"
+    ]
+  },
+  {
+    "id": "248",
+    "ground_truth_article_categories": [
+      "place",
+      "satellite",
+      "artificial_satellite"
+    ]
+  },
+  {
+    "id": "249",
+    "ground_truth_article_categories": [
+      "agent",
+      "athlete",
+      "handball_player"
+    ]
+  }
+]

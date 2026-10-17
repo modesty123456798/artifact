@@ -1,0 +1,14 @@
+You will read one European Union legal document and produce a concise, match-ready subject representation aligned with the EuroVoc labeling style.
+
+EUROVOC LABELING GUIDE:
+{cluster_example_summary}
+
+--- EU LEGAL DOCUMENT START ---
+{product_text}
+--- EU LEGAL DOCUMENT END ---
+
+INSTRUCTIONS:
+• Identify the document's substantive legal, policy, economic, social, sectoral, and geographic subjects.
+• Preserve important regulated products, activities, institutions, population groups, countries, regions, and policy actions when present.
+• Follow the lexical style, semantic granularity, and specificity described by the EuroVoc labeling guide.
+• Return plain text only.

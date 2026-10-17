@@ -1,0 +1,4 @@
+Extract the key concepts or relevant summaries from the legal document that are most pertinent to the assignment of EuroVoc concepts. Focus on the main themes, decisions, and implications that would help in determining the relevance of a EuroVoc concept to the legal document. Return a non-empty string that encapsulates these key points.
+
+Legal document:
+{product_text}

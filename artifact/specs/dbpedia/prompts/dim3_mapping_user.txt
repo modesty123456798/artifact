@@ -1,0 +1,11 @@
+You will read a Wikipedia Article and produce a summary focusing on the Article Categoriessummarized below.
+Article Categories summary:
+{cluster_example_summary}
+
+--- WIKIPEDIA ARTICLE START ---
+{product_text}
+--- WIKIPEDIA ARTICLE END ---
+
+INSTRUCTIONS:
+• Output a single summary focusing on the Article Categories as the Target Article Categories summary.
+• return plain text only.

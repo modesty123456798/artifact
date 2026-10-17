@@ -1,0 +1,24 @@
+**EUROVOC LABELING GUIDE**
+
+1. **Lexical Form and Writing Style:**
+   - The concept labels are primarily noun phrases, often consisting of two or more words.
+   - The writing style is formal and precise, reflecting the legal and institutional context of the European Union.
+   - Labels typically use standard terminology relevant to specific fields, such as law, economics, and social sciences.
+   - Capitalization is consistent, with each significant word starting with an uppercase letter.
+
+2. **Typical Semantic Granularity and Specificity:**
+   - The labels exhibit a range of semantic granularity, from broad categories (e.g., "EU policy," "economic development") to specific items (e.g., "whole milk," "cane sugar").
+   - Specificity varies, with some labels addressing particular products or sectors, while others encompass wider concepts or actions.
+   - The vocabulary allows for nuanced distinctions within categories, such as "pollution" versus "atmospheric pollutant."
+
+3. **Facets Represented in Legal Documents:**
+   - **Regulated Subjects:** Concepts related to legal frameworks and regulations (e.g., "legislation," "trade regulations").
+   - **Products:** Labels identifying specific goods or commodities (e.g., "motor fuel," "vegetable oil," "soft cheese").
+   - **Sectors:** Terms representing various economic or industrial sectors (e.g., "fishing industry," "food industry," "banking").
+   - **Activities:** Actions or processes that are subject to regulation (e.g., "dissemination of information," "scientific research").
+   - **Policy Actions:** Concepts related to policy-making and implementation (e.g., "common agricultural policy," "development aid").
+   - **Institutions:** References to organizations or bodies involved in governance (e.g., "European organisation," "Community body").
+   - **Population Groups:** Labels that refer to specific demographics or social groups (e.g., "migrant worker," "military personnel").
+   - **Geographic Entities:** Terms denoting regions, countries, or specific locations (e.g., "Northern Europe," "Zimbabwe," "Alsace").
+
+This guide serves as a framework for understanding the structure and content of the EuroVoc vocabulary as it pertains to European Union legal documents.

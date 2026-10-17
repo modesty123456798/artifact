@@ -1,0 +1,28 @@
+**PRODUCT-TYPE MAPPING GUIDE**
+
+1. **PRODUCT-TYPE SEMANTICS**:
+   - The target product types encompass a wide range of consumer goods, including food items (e.g., snacks, fruits, meats), health and personal care products (e.g., health care, beauty items), toys and games (e.g., dolls, electronic toys), household items (e.g., cleaning tools, furniture), and baby-related products (e.g., strollers, cloth diapers). 
+   - Distinctions are made based on usage (e.g., treats vs. health care), target demographic (e.g., children’s products), and product function (e.g., baking mixes vs. snack foods).
+
+2. **PRODUCT-TYPE HIERARCHY**:
+   - **Broad Product Families**:
+     - **Food & Beverages**: Includes subcategories like snack foods (e.g., crackers, candy), fresh produce (e.g., fruits), and meal components (e.g., sauces, baking mixes).
+     - **Health & Personal Care**: Encompasses health care products, beauty items (e.g., makeup remover), and wellness products (e.g., weight loss products).
+     - **Toys & Games**: Covers various types of toys (e.g., dolls, electronic toys) and games (e.g., card games, floor puzzles).
+     - **Baby & Parenting**: Includes products for infants and toddlers (e.g., strollers, cloth diapers, potty training).
+     - **Household Goods**: Comprises cleaning supplies, furniture, and household accessories (e.g., bags, cases).
+     - **Arts & Crafts**: Encompasses creative supplies and activities (e.g., arts, crafts).
+   
+   - **Intermediate Categories**:
+     - **Snacks**: Differentiates between types of snacks (e.g., gummy candy, dried fruit).
+     - **Safety Products**: Includes items focused on safety (e.g., bathroom safety, car seat toys).
+     - **Gardening & Outdoor**: Covers products related to plants and outdoor activities (e.g., fresh flowers, pools).
+
+   - **Fine-Grained Subtypes**:
+     - Specific types of snacks (e.g., taffy, chocolate), baby accessories (e.g., potties, carriers), and health-related items (e.g., conditioners, scrubs).
+     - Niche categories like breeding tanks for pets or hydrometers for specific hobbies.
+
+3. **PRODUCT-TYPE STYLE**:
+   - The product types are formatted in a consistent, underscore-separated style that emphasizes clarity and specificity. This style aids in identifying the primary function or target demographic of the product.
+   - The naming convention often combines descriptors that indicate both the product type and its intended use or audience, facilitating easier mapping from reviews to product types.
+   - The guide should remain flexible to accommodate new product types that may emerge, while adhering to the established semantic and hierarchical structures.

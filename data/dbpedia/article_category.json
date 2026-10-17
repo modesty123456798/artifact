@@ -1,0 +1,896 @@
+[
+  {
+    "article_category": "agent"
+  },
+  {
+    "article_category": "politician"
+  },
+  {
+    "article_category": "senator"
+  },
+  {
+    "article_category": "work"
+  },
+  {
+    "article_category": "musical_work"
+  },
+  {
+    "article_category": "album"
+  },
+  {
+    "article_category": "place"
+  },
+  {
+    "article_category": "natural_place"
+  },
+  {
+    "article_category": "mountain"
+  },
+  {
+    "article_category": "periodical_literature"
+  },
+  {
+    "article_category": "academic_journal"
+  },
+  {
+    "article_category": "building"
+  },
+  {
+    "article_category": "historic_building"
+  },
+  {
+    "article_category": "species"
+  },
+  {
+    "article_category": "animal"
+  },
+  {
+    "article_category": "reptile"
+  },
+  {
+    "article_category": "organisation"
+  },
+  {
+    "article_category": "military_unit"
+  },
+  {
+    "article_category": "person"
+  },
+  {
+    "article_category": "judge"
+  },
+  {
+    "article_category": "athlete"
+  },
+  {
+    "article_category": "chess_player"
+  },
+  {
+    "article_category": "trade_union"
+  },
+  {
+    "article_category": "musical"
+  },
+  {
+    "article_category": "insect"
+  },
+  {
+    "article_category": "settlement"
+  },
+  {
+    "article_category": "town"
+  },
+  {
+    "article_category": "unit_of_work"
+  },
+  {
+    "article_category": "legal_case"
+  },
+  {
+    "article_category": "supreme_court_of_the_united_states_case"
+  },
+  {
+    "article_category": "tennis_player"
+  },
+  {
+    "article_category": "motorcycle_rider"
+  },
+  {
+    "article_category": "speedway_rider"
+  },
+  {
+    "article_category": "company"
+  },
+  {
+    "article_category": "publisher"
+  },
+  {
+    "article_category": "golf_player"
+  },
+  {
+    "article_category": "horse_rider"
+  },
+  {
+    "article_category": "shopping_mall"
+  },
+  {
+    "article_category": "route_of_transportation"
+  },
+  {
+    "article_category": "road"
+  },
+  {
+    "article_category": "military_person"
+  },
+  {
+    "article_category": "event"
+  },
+  {
+    "article_category": "societal_event"
+  },
+  {
+    "article_category": "election"
+  },
+  {
+    "article_category": "artist_discography"
+  },
+  {
+    "article_category": "office_holder"
+  },
+  {
+    "article_category": "winter_sport_player"
+  },
+  {
+    "article_category": "ice_hockey_player"
+  },
+  {
+    "article_category": "clerical_administrative_region"
+  },
+  {
+    "article_category": "diocese"
+  },
+  {
+    "article_category": "educational_institution"
+  },
+  {
+    "article_category": "library"
+  },
+  {
+    "article_category": "body_of_water"
+  },
+  {
+    "article_category": "lake"
+  },
+  {
+    "article_category": "monarch"
+  },
+  {
+    "article_category": "plant"
+  },
+  {
+    "article_category": "conifer"
+  },
+  {
+    "article_category": "bridge"
+  },
+  {
+    "article_category": "infrastructure"
+  },
+  {
+    "article_category": "dam"
+  },
+  {
+    "article_category": "basketball_player"
+  },
+  {
+    "article_category": "glacier"
+  },
+  {
+    "article_category": "sports_season"
+  },
+  {
+    "article_category": "football_league_season"
+  },
+  {
+    "article_category": "national_football_league_season"
+  },
+  {
+    "article_category": "rugby_player"
+  },
+  {
+    "article_category": "single"
+  },
+  {
+    "article_category": "mayor"
+  },
+  {
+    "article_category": "actor"
+  },
+  {
+    "article_category": "voice_actor"
+  },
+  {
+    "article_category": "sports_manager"
+  },
+  {
+    "article_category": "soccer_manager"
+  },
+  {
+    "article_category": "economist"
+  },
+  {
+    "article_category": "skier"
+  },
+  {
+    "article_category": "handball_player"
+  },
+  {
+    "article_category": "cleric"
+  },
+  {
+    "article_category": "saint"
+  },
+  {
+    "article_category": "record_label"
+  },
+  {
+    "article_category": "boxer"
+  },
+  {
+    "article_category": "amateur_boxer"
+  },
+  {
+    "article_category": "cartoon"
+  },
+  {
+    "article_category": "hollywood_cartoon"
+  },
+  {
+    "article_category": "venue"
+  },
+  {
+    "article_category": "theatre"
+  },
+  {
+    "article_category": "legislature"
+  },
+  {
+    "article_category": "artist"
+  },
+  {
+    "article_category": "comics_creator"
+  },
+  {
+    "article_category": "tournament"
+  },
+  {
+    "article_category": "golf_tournament"
+  },
+  {
+    "article_category": "military_conflict"
+  },
+  {
+    "article_category": "coach"
+  },
+  {
+    "article_category": "college_coach"
+  },
+  {
+    "article_category": "comics_character"
+  },
+  {
+    "article_category": "animanga_character"
+  },
+  {
+    "article_category": "olympics"
+  },
+  {
+    "article_category": "olympic_event"
+  },
+  {
+    "article_category": "convention"
+  },
+  {
+    "article_category": "university"
+  },
+  {
+    "article_category": "badminton_player"
+  },
+  {
+    "article_category": "sports_team_season"
+  },
+  {
+    "article_category": "n_c_a_a_team_season"
+  },
+  {
+    "article_category": "software"
+  },
+  {
+    "article_category": "video_game"
+  },
+  {
+    "article_category": "gymnast"
+  },
+  {
+    "article_category": "amphibian"
+  },
+  {
+    "article_category": "group"
+  },
+  {
+    "article_category": "band"
+  },
+  {
+    "article_category": "public_transit_system"
+  },
+  {
+    "article_category": "bird"
+  },
+  {
+    "article_category": "gaelic_games_player"
+  },
+  {
+    "article_category": "volcano"
+  },
+  {
+    "article_category": "hotel"
+  },
+  {
+    "article_category": "architect"
+  },
+  {
+    "article_category": "martial_artist"
+  },
+  {
+    "article_category": "bus_company"
+  },
+  {
+    "article_category": "broadcaster"
+  },
+  {
+    "article_category": "radio_station"
+  },
+  {
+    "article_category": "crustacean"
+  },
+  {
+    "article_category": "airport"
+  },
+  {
+    "article_category": "tower"
+  },
+  {
+    "article_category": "lighthouse"
+  },
+  {
+    "article_category": "castle"
+  },
+  {
+    "article_category": "soccer_player"
+  },
+  {
+    "article_category": "baseball_player"
+  },
+  {
+    "article_category": "race"
+  },
+  {
+    "article_category": "horse_race"
+  },
+  {
+    "article_category": "swimmer"
+  },
+  {
+    "article_category": "congressman"
+  },
+  {
+    "article_category": "sport_facility"
+  },
+  {
+    "article_category": "stadium"
+  },
+  {
+    "article_category": "painter"
+  },
+  {
+    "article_category": "member_of_parliament"
+  },
+  {
+    "article_category": "christian_bishop"
+  },
+  {
+    "article_category": "cycling_race"
+  },
+  {
+    "article_category": "sports_team"
+  },
+  {
+    "article_category": "rugby_club"
+  },
+  {
+    "article_category": "horse_trainer"
+  },
+  {
+    "article_category": "engineer"
+  },
+  {
+    "article_category": "fish"
+  },
+  {
+    "article_category": "arachnid"
+  },
+  {
+    "article_category": "prison"
+  },
+  {
+    "article_category": "sports_event"
+  },
+  {
+    "article_category": "grand_prix"
+  },
+  {
+    "article_category": "eukaryote"
+  },
+  {
+    "article_category": "fungus"
+  },
+  {
+    "article_category": "mountain_range"
+  },
+  {
+    "article_category": "broadcast_network"
+  },
+  {
+    "article_category": "political_party"
+  },
+  {
+    "article_category": "scientist"
+  },
+  {
+    "article_category": "entomologist"
+  },
+  {
+    "article_category": "celestial_body"
+  },
+  {
+    "article_category": "planet"
+  },
+  {
+    "article_category": "device"
+  },
+  {
+    "article_category": "engine"
+  },
+  {
+    "article_category": "automobile_engine"
+  },
+  {
+    "article_category": "moss"
+  },
+  {
+    "article_category": "baseball_season"
+  },
+  {
+    "article_category": "british_royalty"
+  },
+  {
+    "article_category": "baronet"
+  },
+  {
+    "article_category": "satellite"
+  },
+  {
+    "article_category": "artificial_satellite"
+  },
+  {
+    "article_category": "comic"
+  },
+  {
+    "article_category": "manga"
+  },
+  {
+    "article_category": "written_work"
+  },
+  {
+    "article_category": "play"
+  },
+  {
+    "article_category": "hockey_team"
+  },
+  {
+    "article_category": "soccer_tournament"
+  },
+  {
+    "article_category": "fictional_character"
+  },
+  {
+    "article_category": "soap_character"
+  },
+  {
+    "article_category": "cycad"
+  },
+  {
+    "article_category": "cyclist"
+  },
+  {
+    "article_category": "medician"
+  },
+  {
+    "article_category": "president"
+  },
+  {
+    "article_category": "school"
+  },
+  {
+    "article_category": "television_station"
+  },
+  {
+    "article_category": "basketball_team"
+  },
+  {
+    "article_category": "mollusca"
+  },
+  {
+    "article_category": "beauty_queen"
+  },
+  {
+    "article_category": "noble"
+  },
+  {
+    "article_category": "soccer_club_season"
+  },
+  {
+    "article_category": "cycling_team"
+  },
+  {
+    "article_category": "football_match"
+  },
+  {
+    "article_category": "prime_minister"
+  },
+  {
+    "article_category": "music_festival"
+  },
+  {
+    "article_category": "philosopher"
+  },
+  {
+    "article_category": "presenter"
+  },
+  {
+    "article_category": "radio_host"
+  },
+  {
+    "article_category": "hospital"
+  },
+  {
+    "article_category": "horse"
+  },
+  {
+    "article_category": "race_horse"
+  },
+  {
+    "article_category": "museum"
+  },
+  {
+    "article_category": "natural_event"
+  },
+  {
+    "article_category": "earthquake"
+  },
+  {
+    "article_category": "poem"
+  },
+  {
+    "article_category": "anime"
+  },
+  {
+    "article_category": "amusement_park_attraction"
+  },
+  {
+    "article_category": "roller_coaster"
+  },
+  {
+    "article_category": "adult_actor"
+  },
+  {
+    "article_category": "ambassador"
+  },
+  {
+    "article_category": "bank"
+  },
+  {
+    "article_category": "figure_skater"
+  },
+  {
+    "article_category": "railway_line"
+  },
+  {
+    "article_category": "fashion_designer"
+  },
+  {
+    "article_category": "newspaper"
+  },
+  {
+    "article_category": "airline"
+  },
+  {
+    "article_category": "writer"
+  },
+  {
+    "article_category": "historian"
+  },
+  {
+    "article_category": "mythological_figure"
+  },
+  {
+    "article_category": "song"
+  },
+  {
+    "article_category": "eurovision_song_contest_entry"
+  },
+  {
+    "article_category": "wrestling_event"
+  },
+  {
+    "article_category": "journalist"
+  },
+  {
+    "article_category": "race_track"
+  },
+  {
+    "article_category": "racecourse"
+  },
+  {
+    "article_category": "sports_league"
+  },
+  {
+    "article_category": "basketball_league"
+  },
+  {
+    "article_category": "soccer_league"
+  },
+  {
+    "article_category": "religious"
+  },
+  {
+    "article_category": "village"
+  },
+  {
+    "article_category": "jockey"
+  },
+  {
+    "article_category": "business_person"
+  },
+  {
+    "article_category": "topical_concept"
+  },
+  {
+    "article_category": "genre"
+  },
+  {
+    "article_category": "music_genre"
+  },
+  {
+    "article_category": "handball_team"
+  },
+  {
+    "article_category": "gridiron_football_player"
+  },
+  {
+    "article_category": "american_football_player"
+  },
+  {
+    "article_category": "database"
+  },
+  {
+    "article_category": "biological_database"
+  },
+  {
+    "article_category": "canoeist"
+  },
+  {
+    "article_category": "racing_driver"
+  },
+  {
+    "article_category": "formula_one_racer"
+  },
+  {
+    "article_category": "wrestler"
+  },
+  {
+    "article_category": "sumo_wrestler"
+  },
+  {
+    "article_category": "tennis_tournament"
+  },
+  {
+    "article_category": "stream"
+  },
+  {
+    "article_category": "river"
+  },
+  {
+    "article_category": "flowering_plant"
+  },
+  {
+    "article_category": "grape"
+  },
+  {
+    "article_category": "skater"
+  },
+  {
+    "article_category": "rugby_league"
+  },
+  {
+    "article_category": "classical_music_composition"
+  },
+  {
+    "article_category": "fern"
+  },
+  {
+    "article_category": "nascar_driver"
+  },
+  {
+    "article_category": "restaurant"
+  },
+  {
+    "article_category": "cricketer"
+  },
+  {
+    "article_category": "bodybuilder"
+  },
+  {
+    "article_category": "chef"
+  },
+  {
+    "article_category": "cultivated_variety"
+  },
+  {
+    "article_category": "governor"
+  },
+  {
+    "article_category": "cardinal"
+  },
+  {
+    "article_category": "solar_eclipse"
+  },
+  {
+    "article_category": "table_tennis_player"
+  },
+  {
+    "article_category": "model"
+  },
+  {
+    "article_category": "film_festival"
+  },
+  {
+    "article_category": "screen_writer"
+  },
+  {
+    "article_category": "brewery"
+  },
+  {
+    "article_category": "squash_player"
+  },
+  {
+    "article_category": "australian_rules_football_player"
+  },
+  {
+    "article_category": "magazine"
+  },
+  {
+    "article_category": "golf_course"
+  },
+  {
+    "article_category": "womens_tennis_association_tournament"
+  },
+  {
+    "article_category": "law_firm"
+  },
+  {
+    "article_category": "comedian"
+  },
+  {
+    "article_category": "mountain_pass"
+  },
+  {
+    "article_category": "winery"
+  },
+  {
+    "article_category": "green_alga"
+  },
+  {
+    "article_category": "station"
+  },
+  {
+    "article_category": "railway_station"
+  },
+  {
+    "article_category": "playboy_playmate"
+  },
+  {
+    "article_category": "galaxy"
+  },
+  {
+    "article_category": "road_tunnel"
+  },
+  {
+    "article_category": "rower"
+  },
+  {
+    "article_category": "organisation_member"
+  },
+  {
+    "article_category": "sports_team_member"
+  },
+  {
+    "article_category": "mixed_martial_arts_event"
+  },
+  {
+    "article_category": "photographer"
+  },
+  {
+    "article_category": "canadian_football_team"
+  },
+  {
+    "article_category": "darts_player"
+  },
+  {
+    "article_category": "cricket_team"
+  },
+  {
+    "article_category": "musical_artist"
+  },
+  {
+    "article_category": "classical_music_artist"
+  },
+  {
+    "article_category": "cave"
+  },
+  {
+    "article_category": "cricket_ground"
+  },
+  {
+    "article_category": "australian_football_team"
+  },
+  {
+    "article_category": "poker_player"
+  },
+  {
+    "article_category": "poet"
+  },
+  {
+    "article_category": "curler"
+  },
+  {
+    "article_category": "astronaut"
+  },
+  {
+    "article_category": "baseball_league"
+  },
+  {
+    "article_category": "pope"
+  },
+  {
+    "article_category": "volleyball_player"
+  },
+  {
+    "article_category": "beach_volleyball_player"
+  },
+  {
+    "article_category": "comic_strip"
+  },
+  {
+    "article_category": "netball_player"
+  },
+  {
+    "article_category": "ice_hockey_league"
+  },
+  {
+    "article_category": "canal"
+  },
+  {
+    "article_category": "lacrosse_player"
+  }
+]

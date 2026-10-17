@@ -1,0 +1,11 @@
+You will read representative concept labels from the EuroVoc controlled vocabulary used to describe European Union legal documents.
+
+REPRESENTATIVE EUROVOC CONCEPT LABELS:
+{cluster_example_string}
+
+Produce a concise EUROVOC LABELING GUIDE summarizing:
+1. The lexical form and writing style of the concept labels.
+2. The typical semantic granularity and specificity of the labels.
+3. The kinds of legal-document facets represented, such as regulated subjects, products, sectors, activities, policy actions, institutions, population groups, and geographic entities.
+
+Treat the supplied labels as evidence about the vocabulary's style and granularity, not as a closed list of allowable concepts. Return plain text only.

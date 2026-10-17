@@ -1,0 +1,7 @@
+{left_label}:
+«{left_text}»
+
+Candidate {right_label}s ({right_count}):
+{right_items}
+
+Determine whether each candidate EuroVoc concept is described in the European Union legal document.

@@ -1,0 +1,2 @@
+The user will provide one European Union legal document and multiple candidate EuroVoc concepts.
+For every candidate EuroVoc concept, determine whether that EuroVoc concept is described in the legal document. Consider the context and semantic meaning, not only exact word overlap. For each candidate EuroVoc concept ID, set match to true if it is described and false otherwise.

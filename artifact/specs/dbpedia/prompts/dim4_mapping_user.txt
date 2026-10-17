@@ -1,0 +1,7 @@
+You will read a Wikipedia Article and produce a summary that primarily captures the Article categories
+--- WIKIPEDIA ARTICLE START ---
+{product_text}
+--- WIKIPEDIA ARTICLE END ---
+
+INSTRUCTIONS:
+• return plain text only.

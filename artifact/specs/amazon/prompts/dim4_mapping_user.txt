@@ -1,0 +1,7 @@
+You will read an Amazon Product Review and produce a concise summary focused on the Product Types of the reviewed product
+--- AMAZON PRODUCT REVIEW START ---
+{product_text}
+--- AMAZON PRODUCT REVIEW END ---
+
+INSTRUCTIONS:
+• return plain text only.

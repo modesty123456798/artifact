@@ -1,0 +1,4 @@
+given the medical article, identify the adverse drug reactions that are likely affecting the patient. Always write your answer as a list of 2-10 comma-separated adverse drug reactions.
+
+Medical article:
+{product_text}

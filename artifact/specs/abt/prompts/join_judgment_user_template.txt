@@ -1,0 +1,7 @@
+{left_label}:
+«{left_text}»
+
+Candidate {right_label}s ({right_count}):
+{right_items}
+
+Determine whether each candidate product record refers to the same real-world product as the source product record, considering meaning and context beyond keyword overlap. 

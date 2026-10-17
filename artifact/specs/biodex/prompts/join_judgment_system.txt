@@ -1,0 +1,3 @@
+The user will provide one medical article and multiple candidate reactions.
+For every candidate reaction, determine whether that reaction is described in
+the medical article. Consider the context and semantic meaning, not only exact word overlap.

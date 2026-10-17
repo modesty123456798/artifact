@@ -1,0 +1,14 @@
+You will read an Amazon Product Review and produce a concise, match-ready representation of all likely Product Types for the product being reviewed. Use the guide below to understand the target Product Type hierarchy, style, and granularity.
+
+PRODUCT-TYPE MAPPING GUIDE:
+{cluster_example_summary}
+
+--- AMAZON PRODUCT REVIEW START ---
+{product_text}
+--- AMAZON PRODUCT REVIEW END ---
+
+INSTRUCTIONS:
+• Identify the main product being reviewed and its supported Product Types.
+• Include all compatible hierarchy levels that apply, ordered from the broadest family to the most specific supported subtype.
+• Keep consistent with the target Product Type style described by the guide. Treat the guide as guidance rather than a closed list. Do not limit type coverage to only what is mentioned there.
+• Return plain text only.

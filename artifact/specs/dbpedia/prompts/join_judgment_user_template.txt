@@ -1,0 +1,7 @@
+{left_label}:
+«{left_text}»
+
+Candidate categories ({right_count}):
+{right_items}
+
+Determine if the Wikipedia Article belongs to each candidate category, considering meaning and context beyond keyword overlap.

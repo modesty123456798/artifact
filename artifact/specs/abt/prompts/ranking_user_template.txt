@@ -1,0 +1,9 @@
+Given the following {left_label}, select the top {top_k} most confident Candidate {right_label} that the {left_label} is describing, ordered from most confident to least confident.
+
+{left_label}:
+{left_text}
+
+Candidate {right_label}:
+{candidate_list}
+
+Return JSON with a single field ranked_list (array of strings) that contains only the top {top_k} Candidate IDs, ordered from most confident to least confident. If there are fewer than {top_k} candidates, return all of them. Use ONLY the provided Candidate IDs (e.g., ["1","2"]). Do not invent new IDs.

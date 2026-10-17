@@ -1,0 +1,9 @@
+You are analyzing Product Type examples from the target side of a semantic join between Amazon product reviews and product types. Your task is to compress the examples into a reusable guide for mapping a product review toward the target Product Type space.
+
+TARGET PRODUCT-TYPE EXAMPLES:
+{cluster_example_string}
+
+Create a compact, information-dense PRODUCT-TYPE MAPPING GUIDE. Summarize:
+1. PRODUCT-TYPE SEMANTICS: what kinds of products and product distinctions the target types describe.
+2. PRODUCT-TYPE HIERARCHY: summarize recurring broad product families, intermediate categories, fine-grained subtypes, and their broad-to-specific relationships.
+3. PRODUCT-TYPE STYLE.Treat the supplied examples as evidence about the Product Type space, not as a closed list of allowed types. Return plain text only.

@@ -1,0 +1,8 @@
+You will read a list of Article Category examples and produce a summary of the Article Category examples and their style.
+Your goal is to capture what fields and data are typically present and the general granularity.
+Article Category examples:
+{cluster_example_string}
+
+INSTRUCTIONS:
+• Summarize the Article Category examples and style CONCISELY.
+• Return plain text only.

@@ -1,0 +1,3 @@
+The user will provide one Wikipedia Article and multiple candidate categories.
+Your job is: For each candidate category, determine whether the Wikipedia Article belongs to that category, considering meaning and context beyond keyword overlap.
+For each candidate category ID, set match to true if the Wikipedia Article belongs to that category and false otherwise.

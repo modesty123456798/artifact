@@ -1,0 +1,14 @@
+You are compressing a target vocabulary of adverse reaction terms for a downstream medical concept mapping task.
+
+TARGET REACTION TERMS:
+{cluster_example_string}
+
+Create a compact mapping guide that preserves as much of the discriminative information in the target vocabulary as possible.
+
+The guide must:
+1. Organize the target terms into clinically meaningful reaction groups.
+2. Preserve specific and uncommon reactions; do not replace them only with broad organ-system descriptions.
+3. Retain important distinctions between related reactions, including symptom versus diagnosis, severity, anatomical site, and clinically meaningful subtype.
+4. Record useful canonical target wording and common article expressions that may indicate those targets.
+5. Describe the terminology granularity of the target vocabulary.
+Write a dense, compact mapping guide. Prioritize preserving target concepts over producing elegant prose. Return plain text only.

@@ -1,0 +1,7 @@
+{
+  "model": "gpt-4o-mini",
+  "summary_temperature": 0.2,
+  "right_exemplars_path": "abt/combined_data/right_product_cluster_exemplars.json",
+  "example_top_n": 1,
+  "cluster_example_summary": "1. **Schema and Writing Style of Target Product Records:**\n   - Each product record is structured as a JSON-like object with three key-value pairs:\n     - `\"name\"`: The name of the product, typically including the brand, model, and key specifications.\n     - `\"description\"`: A brief description of the product, often highlighting features, specifications, or design elements.\n     - `\"price\"`: The price of the product, formatted as a string with a dollar sign. Some records may have an empty string for the price if it is not available.\n   - The writing style is straightforward and factual, focusing on clarity and essential details without excessive embellishment.\n\n2. **How Target Records Express Product Identity:**\n   - Product identity is conveyed through a combination of the product name and description. The name often includes the brand and model, which are critical for identification. The description supplements this by providing additional details such as specifications, features, and sometimes the intended use or design aspects.\n   - The price serves as a key identifier for the product's market value, further distinguishing it from similar items. Overall, the records aim to provide a clear and concise representation of each product, making it easy for consumers to understand what is being offered."
+}

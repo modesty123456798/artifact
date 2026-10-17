@@ -1,0 +1,982 @@
+[
+  [
+    "Administration site ulcer",
+    "Administration site pain",
+    "Administration site rash"
+  ],
+  [
+    "Haematoma",
+    "Wound haematoma",
+    "Cerebral haematoma"
+  ],
+  [
+    "Pleural effusion",
+    "Pleural mass",
+    "Pleural disorder"
+  ],
+  [
+    "Hyperpathia",
+    "Hyperaemia",
+    "Hypertransaminasaemia"
+  ],
+  [
+    "Cerebral microinfarction",
+    "Cerebral infarction",
+    "Cerebrovascular disorder"
+  ],
+  [
+    "Arteriogram normal",
+    "Echocardiogram normal",
+    "Angiogram normal"
+  ],
+  [
+    "Enzyme level decreased",
+    "Amino acid level decreased",
+    "Drug level decreased"
+  ],
+  [
+    "Catheter removal",
+    "Medical device removal",
+    "Nephrostomy tube removal"
+  ],
+  [
+    "Oesophageal disorder",
+    "Oesophageal infection",
+    "Oesophageal obstruction"
+  ],
+  [
+    "Respirovirus test positive",
+    "Bacterial test positive",
+    "Lentivirus test positive"
+  ],
+  [
+    "Ventricular arrhythmia",
+    "Cardiac disorder",
+    "Cardiac ventricular disorder"
+  ],
+  [
+    "Respiratory tract inflammation",
+    "Connective tissue inflammation",
+    "Inflammation"
+  ],
+  [
+    "Anti B antibody positive",
+    "Anti-insulin antibody positive",
+    "Anti-platelet antibody positive"
+  ],
+  [
+    "Renal aneurysm",
+    "Renal disorder",
+    "Renal pain"
+  ],
+  [
+    "Dysphotopsia",
+    "Dysmetropsia",
+    "Dysmyelination"
+  ],
+  [
+    "Liver function test",
+    "ACTH stimulation test",
+    "Vascular test"
+  ],
+  [
+    "Neoplasm malignant",
+    "Malignant peritoneal neoplasm",
+    "Malignant mediastinal neoplasm"
+  ],
+  [
+    "Corneal operation",
+    "Eye operation",
+    "Eye muscle operation"
+  ],
+  [
+    "Pulse abnormal",
+    "Respiration abnormal",
+    "Vital functions abnormal"
+  ],
+  [
+    "Angiogram abnormal",
+    "Arteriogram abnormal",
+    "Retinogram abnormal"
+  ],
+  [
+    "Urticarial dermatitis",
+    "Dermatitis",
+    "Granulomatous dermatitis"
+  ],
+  [
+    "Lymphatic disorder",
+    "Lymphadenopathy",
+    "Lymphangitis"
+  ],
+  [
+    "Pharyngeal disorder",
+    "Pharyngitis",
+    "Pharyngeal swelling"
+  ],
+  [
+    "Lymphocyte count increased",
+    "Neutrophil count increased",
+    "Lymphocyte percentage increased"
+  ],
+  [
+    "Skin oedema",
+    "Oedema",
+    "Allergic oedema"
+  ],
+  [
+    "Ovarian disorder",
+    "Ovulation disorder",
+    "Polycystic ovaries"
+  ],
+  [
+    "Skin injury",
+    "Skin abrasion",
+    "Skin discolouration"
+  ],
+  [
+    "Pancreatitis",
+    "Pancreatic disorder",
+    "Pancreas infection"
+  ],
+  [
+    "Skin hypoplasia",
+    "Pituitary hypoplasia",
+    "Breast hypoplasia"
+  ],
+  [
+    "Product packaging issue",
+    "Product quality issue",
+    "Product use issue"
+  ],
+  [
+    "Vascular rupture",
+    "Aortic rupture",
+    "Arterial rupture"
+  ],
+  [
+    "Emotional disorder",
+    "Affective disorder",
+    "Psychotic disorder"
+  ],
+  [
+    "Hodgkin's disease lymphocyte depletion stage I supradiaphragm",
+    "Hodgkin's disease lymphocyte predominance type stage IV",
+    "Hodgkin's disease lymphocyte predominance type stage III"
+  ],
+  [
+    "Liver disorder",
+    "Hepatic cirrhosis",
+    "Hepatitis"
+  ],
+  [
+    "Medical device site inflammation",
+    "Medical device site swelling",
+    "Medical device site ulcer"
+  ],
+  [
+    "Colon neoplasm",
+    "Neoplasm",
+    "Pelvic neoplasm"
+  ],
+  [
+    "Conjunctivitis",
+    "Eyelid infection",
+    "Corneal disorder"
+  ],
+  [
+    "Normetanephrine urine increased",
+    "Aldosterone urine increased",
+    "Metanephrine urine increased"
+  ],
+  [
+    "Arterial angioplasty",
+    "Arterial stent insertion",
+    "Vascular stent insertion"
+  ],
+  [
+    "B-cell lymphoma stage IV",
+    "Ovarian cancer stage IV",
+    "Colorectal cancer stage IV"
+  ],
+  [
+    "Hypertension",
+    "Systolic hypertension",
+    "Diastolic hypertension"
+  ],
+  [
+    "Retinal disorder",
+    "Retinopathy",
+    "Retinal vascular disorder"
+  ],
+  [
+    "Peptic ulcer",
+    "Gastrointestinal ulcer",
+    "Gastric ulcer"
+  ],
+  [
+    "Male reproductive tract disorder",
+    "Testicular disorder",
+    "Scrotal disorder"
+  ],
+  [
+    "Dysplasia",
+    "Connective tissue dysplasia",
+    "Renal cell dysplasia"
+  ],
+  [
+    "Haemorrhage",
+    "Ulcer haemorrhage",
+    "Gastrointestinal haemorrhage"
+  ],
+  [
+    "Vaccination site infection",
+    "Vaccination site rash",
+    "Vaccination site dermatitis"
+  ],
+  [
+    "Traumatic fracture",
+    "Fracture",
+    "Fracture pain"
+  ],
+  [
+    "Spinal disorder",
+    "Spinal cord disorder",
+    "Spinal cord herniation"
+  ],
+  [
+    "Imaging procedure",
+    "Computerised tomogram",
+    "Abdomen scan"
+  ],
+  [
+    "Gastrointestinal viral infection",
+    "Viral infection",
+    "Cytomegalovirus infection"
+  ],
+  [
+    "Venous thrombosis",
+    "Vena cava thrombosis",
+    "Thrombosis"
+  ],
+  [
+    "Application site dermatitis",
+    "Application site ulcer",
+    "Application site rash"
+  ],
+  [
+    "Bladder operation",
+    "Urinary cystectomy",
+    "Urethral operation"
+  ],
+  [
+    "Endocarditis",
+    "Pericarditis",
+    "Myocarditis"
+  ],
+  [
+    "Abdominal hernia",
+    "Hernia",
+    "Incisional hernia"
+  ],
+  [
+    "Bacterial test negative",
+    "Viral test negative",
+    "Antibody test negative"
+  ],
+  [
+    "Urological examination normal",
+    "Laboratory test normal",
+    "Blood smear test normal"
+  ],
+  [
+    "B-cell lymphoma refractory",
+    "T-cell lymphoma refractory",
+    "Diffuse large B-cell lymphoma refractory"
+  ],
+  [
+    "Hyposmia",
+    "Hypozincaemia",
+    "Hyponatraemia"
+  ],
+  [
+    "Intestinal obstruction",
+    "Intestinal stenosis",
+    "Intestinal sepsis"
+  ],
+  [
+    "Hepatitis B antibody positive",
+    "Hepatitis B antigen positive",
+    "Hepatitis A antibody positive"
+  ],
+  [
+    "Radiotherapy to lung",
+    "Radiotherapy to breast",
+    "Gamma radiation therapy to breast"
+  ],
+  [
+    "Injection site infection",
+    "Injection site erythema",
+    "Injection site swelling"
+  ],
+  [
+    "Neutrophil count decreased",
+    "Platelet count decreased",
+    "Lymphocyte count decreased"
+  ],
+  [
+    "Bile duct obstruction",
+    "Cholangitis",
+    "Biliary tract disorder"
+  ],
+  [
+    "Metastases to lung",
+    "Metastases to peritoneum",
+    "Metastases to breast"
+  ],
+  [
+    "Osteochondritis",
+    "Osteodystrophy",
+    "Osteoarthropathy"
+  ],
+  [
+    "Drug therapy",
+    "Interleukin therapy",
+    "Inhalation therapy"
+  ],
+  [
+    "Biopsy",
+    "Biopsy intestine",
+    "Biopsy skin"
+  ],
+  [
+    "Macrostomia",
+    "Polymicrogyria",
+    "Pneumaturia"
+  ],
+  [
+    "Ear disorder",
+    "Ear infection",
+    "Otitis media"
+  ],
+  [
+    "Haemoglobinuria",
+    "Haemolytic anaemia",
+    "Blood bilirubin"
+  ],
+  [
+    "Pulse pressure increased",
+    "Venous pressure increased",
+    "Atrial pressure increased"
+  ],
+  [
+    "Klebsiella infection",
+    "Escherichia infection",
+    "Skin bacterial infection"
+  ],
+  [
+    "Urinary tract infection",
+    "Cystitis",
+    "Urinary tract disorder"
+  ],
+  [
+    "Anti-platelet antibody negative",
+    "Antinuclear antibody negative",
+    "Anti-interferon antibody negative"
+  ],
+  [
+    "Waterhouse-Friderichsen syndrome",
+    "Waardenburg syndrome",
+    "Gitelman's syndrome"
+  ],
+  [
+    "Incorrect dose administered by product",
+    "Drug titration error",
+    "Incorrect dosage administered"
+  ],
+  [
+    "White blood cell analysis abnormal",
+    "White blood cell count abnormal",
+    "White blood cell morphology abnormal"
+  ],
+  [
+    "Fistula repair",
+    "Urogenital fistula repair",
+    "Bladder fistula repair"
+  ],
+  [
+    "Benign neoplasm",
+    "Benign abdominal neoplasm",
+    "Benign neoplasm of skin"
+  ],
+  [
+    "Semen volume abnormal",
+    "Spermatozoa abnormal",
+    "Sperm concentration abnormal"
+  ],
+  [
+    "White blood cell disorder",
+    "Mucopolysaccharidosis",
+    "Mononucleosis syndrome"
+  ],
+  [
+    "Penile operation",
+    "Tracheal operation",
+    "Pelvic operation"
+  ],
+  [
+    "Lesion excision",
+    "Skin cyst excision",
+    "Skin neoplasm excision"
+  ],
+  [
+    "Endoscopy abnormal",
+    "Imaging procedure abnormal",
+    "Colonoscopy abnormal"
+  ],
+  [
+    "Fountain syndrome",
+    "Nelson's syndrome",
+    "CREST syndrome"
+  ],
+  [
+    "Abscess",
+    "Abdominal abscess",
+    "Wound abscess"
+  ],
+  [
+    "Albumin urine",
+    "Urine nitrogen",
+    "Creatinine urine"
+  ],
+  [
+    "Red blood cell microcytes present",
+    "Red blood cell spherocytes present",
+    "Red blood cell macrocytes present"
+  ],
+  [
+    "Blood albumin increased",
+    "Blood creatinine increased",
+    "Blood fibrinogen increased"
+  ],
+  [
+    "Enterovirus test",
+    "Respirovirus test",
+    "Herpes virus test"
+  ],
+  [
+    "Folate deficiency",
+    "Vitamin A deficiency",
+    "Vitamin B1 deficiency"
+  ],
+  [
+    "Creatinine urine decreased",
+    "Urea urine decreased",
+    "Urine glucose/creatinine ratio decreased"
+  ],
+  [
+    "Nerve injury",
+    "Nerve root injury",
+    "Peripheral nerve injury"
+  ],
+  [
+    "Bacterial sepsis",
+    "Enterobacter sepsis",
+    "Streptococcal sepsis"
+  ],
+  [
+    "Herpes simplex meningitis",
+    "Herpes simplex",
+    "Herpes zoster meningitis"
+  ],
+  [
+    "Gastric disorder",
+    "Gastric ileus",
+    "Gastrointestinal disorder"
+  ],
+  [
+    "Bladder cancer stage III",
+    "Colon cancer stage III",
+    "Colorectal cancer stage III"
+  ],
+  [
+    "Fistula",
+    "Urinary fistula",
+    "Gastrointestinal fistula"
+  ],
+  [
+    "Piloerection",
+    "Cerumen impaction",
+    "Splenic induration"
+  ],
+  [
+    "Blood creatine phosphokinase",
+    "C-reactive protein",
+    "Blood creatine phosphokinase BB"
+  ],
+  [
+    "pH urine increased",
+    "Urea urine increased",
+    "Urine chloride increased"
+  ],
+  [
+    "Proctectomy",
+    "Ileectomy",
+    "Colorectostomy"
+  ],
+  [
+    "Ultrasound abdomen abnormal",
+    "Ultrasound abdomen normal",
+    "Ultrasound abdomen"
+  ],
+  [
+    "Vulvovaginal ulceration",
+    "Vulvovaginal disorder",
+    "Vulvovaginitis"
+  ],
+  [
+    "Vessel puncture site haemorrhage",
+    "Vessel puncture site injury",
+    "Vessel puncture site infection"
+  ],
+  [
+    "Exposure to allergen",
+    "Adverse reaction",
+    "Allergy to chemicals"
+  ],
+  [
+    "B-cell lymphoma stage III",
+    "B-cell lymphoma stage II",
+    "B-cell lymphoma stage I"
+  ],
+  [
+    "Infection prophylaxis",
+    "Prophylaxis",
+    "Parasitic infection prophylaxis"
+  ],
+  [
+    "Biopsy skin normal",
+    "Biopsy skin abnormal",
+    "Biopsy intestine abnormal"
+  ],
+  [
+    "Cramp-fasciculation syndrome",
+    "Central cord syndrome",
+    "Auriculotemporal syndrome"
+  ],
+  [
+    "Obstetric procedure complication",
+    "Vascular procedure complication",
+    "Anaesthetic complication"
+  ],
+  [
+    "Gene mutation",
+    "BRCA2 gene mutation",
+    "BRCA1 gene mutation"
+  ],
+  [
+    "Failure to thrive",
+    "Treatment failure",
+    "Surgical failure"
+  ],
+  [
+    "Postural tremor",
+    "Dizziness postural",
+    "Loss of proprioception"
+  ],
+  [
+    "Diabetic gastropathy",
+    "Diabetic ketoacidosis",
+    "Diabetes mellitus"
+  ],
+  [
+    "Substance abuse",
+    "Drug abuse",
+    "Alcoholism"
+  ],
+  [
+    "Myeloid leukaemia",
+    "Acute myeloid leukaemia",
+    "Leukaemia"
+  ],
+  [
+    "Uterine disorder",
+    "Uterine injury",
+    "Uterine obstruction"
+  ],
+  [
+    "Induced abortion infection",
+    "Aborted pregnancy",
+    "Abortion induced"
+  ],
+  [
+    "Bladder adenocarcinoma stage I",
+    "Colon cancer stage I",
+    "Bladder adenocarcinoma stage 0"
+  ],
+  [
+    "Breast disorder",
+    "Breast operation",
+    "Breast pain"
+  ],
+  [
+    "Cardiac valve disease",
+    "Heart valve stenosis",
+    "Heart valve replacement"
+  ],
+  [
+    "Electrocardiogram abnormal",
+    "Electrocardiogram T wave abnormal",
+    "Electrocardiogram P wave abnormal"
+  ],
+  [
+    "Ovarian germ cell tumour",
+    "Ovarian germ cell teratoma",
+    "Ovarian germ cell cancer"
+  ],
+  [
+    "Pituitary tumour",
+    "Glioneuronal tumour",
+    "Neuroendocrine tumour"
+  ],
+  [
+    "Internal injury",
+    "Head injury",
+    "Soft tissue injury"
+  ],
+  [
+    "Pulmonary haemorrhage neonatal",
+    "Haemorrhage neonatal",
+    "Respiratory tract haemorrhage neonatal"
+  ],
+  [
+    "Sarcoma metastatic",
+    "Bone cancer metastatic",
+    "Skin cancer metastatic"
+  ],
+  [
+    "Respiratory disorder",
+    "Bronchial disorder",
+    "Respiratory failure"
+  ],
+  [
+    "Infusion site pain",
+    "Infusion site swelling",
+    "Infusion site thrombosis"
+  ],
+  [
+    "Retinal anomaly congenital",
+    "Lens abnormality congenital",
+    "Congenital eye disorder"
+  ],
+  [
+    "Glomerulonephropathy",
+    "Glomerulonephritis",
+    "Nephropathy"
+  ],
+  [
+    "Panniculitis",
+    "Polyserositis",
+    "Perisplenitis"
+  ],
+  [
+    "Blood test normal",
+    "Blood albumin normal",
+    "Blood count normal"
+  ],
+  [
+    "Stoma site ulcer",
+    "Stoma site infection",
+    "Stoma site pain"
+  ],
+  [
+    "Globulin abnormal",
+    "Urine albumin/creatinine ratio abnormal",
+    "Urine protein/creatinine ratio abnormal"
+  ],
+  [
+    "Post procedural infection",
+    "Post procedural inflammation",
+    "Post procedural haemorrhage"
+  ],
+  [
+    "Bladder cyst",
+    "Genital cyst",
+    "Cyst"
+  ],
+  [
+    "Disorientation",
+    "Restlessness",
+    "Dissociation"
+  ],
+  [
+    "Pulse volume decreased",
+    "Blood electrolytes decreased",
+    "Volume blood decreased"
+  ],
+  [
+    "Anal incontinence",
+    "Anal polyp",
+    "Anal infection"
+  ],
+  [
+    "Pulmonary thrombosis",
+    "Pulmonary arteriopathy",
+    "Pulmonary vascular disorder"
+  ],
+  [
+    "Laboratory test abnormal",
+    "Toxicologic test abnormal",
+    "Endocrine test abnormal"
+  ],
+  [
+    "Congenital anomaly",
+    "Congenital cyst",
+    "Congenital teratoma"
+  ],
+  [
+    "Tooth injury",
+    "Tooth infection",
+    "Gingival disorder"
+  ],
+  [
+    "Genital pain",
+    "Pubic pain",
+    "Pelvic pain"
+  ],
+  [
+    "Sleep disorder",
+    "Dyssomnia",
+    "Parasomnia"
+  ],
+  [
+    "Nasal disorder",
+    "Nasal septum disorder",
+    "Allergic sinusitis"
+  ],
+  [
+    "CSF white blood cell count",
+    "CSF red blood cell count",
+    "CSF white blood cell count positive"
+  ],
+  [
+    "Radiation injury",
+    "Radiation skin injury",
+    "Radiation inflammation"
+  ],
+  [
+    "Foetal disorder",
+    "Foetal malformation",
+    "Foetal dystocia"
+  ],
+  [
+    "Heart valve calcification",
+    "Articular calcification",
+    "Pulmonary calcification"
+  ],
+  [
+    "Vertebroplasty",
+    "Chondroplasty",
+    "Anoplasty"
+  ],
+  [
+    "Vaginitis chlamydial",
+    "Gonococcal infection",
+    "Vulvovaginitis chlamydial"
+  ],
+  [
+    "Delayed menarche",
+    "Developmental delay",
+    "Delayed puberty"
+  ],
+  [
+    "Postoperative thrombosis",
+    "Postoperative analgesia",
+    "Postoperative delirium"
+  ],
+  [
+    "Blood test abnormal",
+    "Blood count abnormal",
+    "Blood albumin abnormal"
+  ],
+  [
+    "Complication associated with device",
+    "Cardiac complication associated with device",
+    "Vascular complication associated with device"
+  ],
+  [
+    "Haemangioma",
+    "Haemangioma of skin",
+    "Cerebral haemangioma"
+  ],
+  [
+    "Oral mucosal discolouration",
+    "Oral mucosal eruption",
+    "Oral mucosal blistering"
+  ],
+  [
+    "Myelocyte count",
+    "Granulocyte count",
+    "Monocyte count"
+  ],
+  [
+    "Tri-iodothyronine free normal",
+    "Tri-iodothyronine free decreased",
+    "Tri-iodothyronine free abnormal"
+  ],
+  [
+    "Encephalitis meningococcal",
+    "Encephalitis",
+    "Encephalomyelitis"
+  ],
+  [
+    "Transplant rejection",
+    "Liver transplant rejection",
+    "Bone marrow transplant rejection"
+  ],
+  [
+    "Leiomyosarcoma",
+    "Liposarcoma",
+    "Soft tissue sarcoma"
+  ],
+  [
+    "Myositis",
+    "Muscle disorder",
+    "Myopathy"
+  ],
+  [
+    "Lipoprotein deficiency",
+    "Hyperlipidaemia",
+    "High density lipoprotein"
+  ],
+  [
+    "Laryngeal disorder",
+    "Laryngeal obstruction",
+    "Laryngitis"
+  ],
+  [
+    "Bladder cancer stage II",
+    "Colorectal cancer stage II",
+    "Ovarian cancer stage II"
+  ],
+  [
+    "Arterial stenosis",
+    "Arterial disorder",
+    "Aortic arteriosclerosis"
+  ],
+  [
+    "Alpha globulin decreased",
+    "Beta globulin decreased",
+    "Globulins decreased"
+  ],
+  [
+    "Drug level above therapeutic",
+    "Drug level below therapeutic",
+    "Drug level therapeutic"
+  ],
+  [
+    "Loss of consciousness",
+    "Suicide attempt",
+    "Sudden death"
+  ],
+  [
+    "Agoraphobia",
+    "Phobia",
+    "Nosophobia"
+  ],
+  [
+    "Polyneuropathy",
+    "Neuronal neuropathy",
+    "Demyelinating polyneuropathy"
+  ],
+  [
+    "Recurrent cancer",
+    "Transitional cell carcinoma recurrent",
+    "Lung squamous cell carcinoma recurrent"
+  ],
+  [
+    "Migraine-triggered seizure",
+    "Myoclonic epilepsy",
+    "Epilepsy"
+  ],
+  [
+    "Enzyme level increased",
+    "Lipoprotein increased",
+    "Hepatic enzyme increased"
+  ],
+  [
+    "Coagulation factor IX level",
+    "Coagulation factor X level normal",
+    "Coagulation factor VIII level"
+  ],
+  [
+    "Prosthesis user",
+    "Dental prosthesis user",
+    "Limb prosthesis user"
+  ],
+  [
+    "Psychiatric symptom",
+    "Mental disorder due to a general medical condition",
+    "Somatic symptom disorder"
+  ],
+  [
+    "Fungal infection",
+    "Fungal skin infection",
+    "Oral fungal infection"
+  ],
+  [
+    "Varicose vein",
+    "Varicose vein operation",
+    "Venous operation"
+  ],
+  [
+    "Neonatal disorder",
+    "Meningitis neonatal",
+    "Neonatal infection"
+  ],
+  [
+    "Hysterical psychosis",
+    "Senile psychosis",
+    "Alcoholic psychosis"
+  ],
+  [
+    "Joint swelling",
+    "Joint contracture",
+    "Joint instability"
+  ],
+  [
+    "Device issue",
+    "Device material issue",
+    "Device computer issue"
+  ],
+  [
+    "Pseudomyopia",
+    "Antimetropia",
+    "Anisometropia"
+  ],
+  [
+    "Typhoid fever",
+    "Lyme disease",
+    "Rheumatic fever"
+  ],
+  [
+    "Thyroid disorder",
+    "Thyroiditis",
+    "Autoimmune thyroid disorder"
+  ],
+  [
+    "Squamous cell carcinoma",
+    "Anal squamous cell carcinoma",
+    "Adenosquamous cell carcinoma"
+  ],
+  [
+    "Removal of foreign body",
+    "Removal of foreign body from throat",
+    "Foreign body in mouth"
+  ],
+  [
+    "Paraesthesia",
+    "Hypoaesthesia",
+    "Anaesthesia procedure"
+  ]
+]

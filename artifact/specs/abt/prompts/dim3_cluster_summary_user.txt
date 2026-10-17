@@ -1,0 +1,10 @@
+You will read representative product records from a target product catalog.
+
+TARGET PRODUCT RECORD EXAMPLES:
+{cluster_example_string}
+
+Produce a concise guide summarizing:
+1. The schema and writing style of the target product records.
+2. How the target records express product identity.
+
+Return plain text only.

@@ -1,0 +1,12 @@
+You will read one source product record and rewrite it into a concise, canonical, match-ready representation aligned with the target catalog.
+
+TARGET PRODUCT-CATALOG GUIDE:
+{cluster_example_summary}
+
+--- SOURCE PRODUCT RECORD START ---
+{product_text}
+--- SOURCE PRODUCT RECORD END ---
+
+INSTRUCTIONS:
+• Preserve exact brand names, model numbers, part numbers, SKUs, and other product identifiers.
+• Follow the target catalog's general style and granularity mentioned in the guide.

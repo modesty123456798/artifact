@@ -1,0 +1,5 @@
+# Runtime outputs may contain costly regenerated API outputs and large caches.
+artifact_runs/
+__pycache__/
+*.pyc
+.env

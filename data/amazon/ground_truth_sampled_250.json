@@ -1,0 +1,1981 @@
+[
+  {
+    "id": "0",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "styling_tools"
+    ]
+  },
+  {
+    "id": "1",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "personal_care",
+      "shaving_hair_removal"
+    ]
+  },
+  {
+    "id": "2",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "candy_chocolate",
+      "gummy_candies"
+    ]
+  },
+  {
+    "id": "3",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering",
+      "diaper_pails_refills"
+    ]
+  },
+  {
+    "id": "4",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "health_supplies"
+    ]
+  },
+  {
+    "id": "5",
+    "ground_truth_product_type": [
+      "beauty",
+      "skin_care"
+    ]
+  },
+  {
+    "id": "6",
+    "ground_truth_product_type": [
+      "baby_products",
+      "car_seats_accessories",
+      "car_seats"
+    ]
+  },
+  {
+    "id": "7",
+    "ground_truth_product_type": [
+      "beauty",
+      "fragrance",
+      "men_s"
+    ]
+  },
+  {
+    "id": "8",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "toys"
+    ]
+  },
+  {
+    "id": "9",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "personal_care",
+      "shaving_hair_removal"
+    ]
+  },
+  {
+    "id": "10",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "beverages",
+      "tea"
+    ]
+  },
+  {
+    "id": "11",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "personal_care",
+      "shaving_hair_removal"
+    ]
+  },
+  {
+    "id": "12",
+    "ground_truth_product_type": [
+      "beauty",
+      "skin_care",
+      "face"
+    ]
+  },
+  {
+    "id": "13",
+    "ground_truth_product_type": [
+      "toys_games",
+      "tricycles",
+      "scooters_wagons"
+    ]
+  },
+  {
+    "id": "14",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "vitamins_supplements"
+    ]
+  },
+  {
+    "id": "15",
+    "ground_truth_product_type": [
+      "toys_games",
+      "building_toys",
+      "stacking_blocks"
+    ]
+  },
+  {
+    "id": "16",
+    "ground_truth_product_type": [
+      "baby_products",
+      "safety",
+      "gates_doorways"
+    ]
+  },
+  {
+    "id": "17",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "educational_repellents"
+    ]
+  },
+  {
+    "id": "18",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "collars"
+    ]
+  },
+  {
+    "id": "19",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "snack_food",
+      "puffed_snacks"
+    ]
+  },
+  {
+    "id": "20",
+    "ground_truth_product_type": [
+      "toys_games",
+      "games",
+      "trading_card_games"
+    ]
+  },
+  {
+    "id": "21",
+    "ground_truth_product_type": [
+      "toys_games",
+      "puzzles",
+      "jigsaw_puzzles"
+    ]
+  },
+  {
+    "id": "22",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "meat_seafood",
+      "seafood"
+    ]
+  },
+  {
+    "id": "23",
+    "ground_truth_product_type": [
+      "toys_games",
+      "dolls_accessories",
+      "doll_accessories"
+    ]
+  },
+  {
+    "id": "24",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "styling_tools"
+    ]
+  },
+  {
+    "id": "25",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering",
+      "diaper_bags"
+    ]
+  },
+  {
+    "id": "26",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "dairy_eggs",
+      "milk"
+    ]
+  },
+  {
+    "id": "27",
+    "ground_truth_product_type": [
+      "beauty",
+      "makeup",
+      "nails"
+    ]
+  },
+  {
+    "id": "28",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "breads_bakery",
+      "cakes"
+    ]
+  },
+  {
+    "id": "29",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "health_supplies"
+    ]
+  },
+  {
+    "id": "30",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "snack_food",
+      "salsas"
+    ]
+  },
+  {
+    "id": "31",
+    "ground_truth_product_type": [
+      "toys_games",
+      "games",
+      "board_games"
+    ]
+  },
+  {
+    "id": "32",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "shampoos"
+    ]
+  },
+  {
+    "id": "33",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "health_care",
+      "cough_cold"
+    ]
+  },
+  {
+    "id": "34",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "candy_chocolate",
+      "chocolate_bars"
+    ]
+  },
+  {
+    "id": "35",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "medical_supplies_equipment",
+      "braces"
+    ]
+  },
+  {
+    "id": "36",
+    "ground_truth_product_type": [
+      "baby_products",
+      "feeding",
+      "highchairs_booster_seats"
+    ]
+  },
+  {
+    "id": "37",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "pantry_staples",
+      "sauces"
+    ]
+  },
+  {
+    "id": "38",
+    "ground_truth_product_type": [
+      "toys_games",
+      "novelty_gag_toys"
+    ]
+  },
+  {
+    "id": "39",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "household_supplies",
+      "laundry"
+    ]
+  },
+  {
+    "id": "40",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "fish_aquatic_pets",
+      "aquarium_hoods"
+    ]
+  },
+  {
+    "id": "41",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "pantry_staples",
+      "canned_jarred_food"
+    ]
+  },
+  {
+    "id": "42",
+    "ground_truth_product_type": [
+      "toys_games",
+      "games",
+      "board_games"
+    ]
+  },
+  {
+    "id": "43",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "toys"
+    ]
+  },
+  {
+    "id": "44",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "cooking_baking_supplies",
+      "sugars_sweeteners"
+    ]
+  },
+  {
+    "id": "45",
+    "ground_truth_product_type": [
+      "baby_products",
+      "nursery",
+      "bedding"
+    ]
+  },
+  {
+    "id": "46",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "health_care",
+      "massage_relaxation"
+    ]
+  },
+  {
+    "id": "47",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering",
+      "wipes_holders"
+    ]
+  },
+  {
+    "id": "48",
+    "ground_truth_product_type": [
+      "beauty",
+      "fragrance",
+      "men_s"
+    ]
+  },
+  {
+    "id": "49",
+    "ground_truth_product_type": [
+      "baby_products",
+      "strollers",
+      "tandem"
+    ]
+  },
+  {
+    "id": "50",
+    "ground_truth_product_type": [
+      "toys_games",
+      "action_toy_figures",
+      "figures"
+    ]
+  },
+  {
+    "id": "51",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "shampoos"
+    ]
+  },
+  {
+    "id": "52",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "educational_repellents"
+    ]
+  },
+  {
+    "id": "53",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "birds",
+      "cages_accessories"
+    ]
+  },
+  {
+    "id": "54",
+    "ground_truth_product_type": [
+      "baby_products",
+      "nursery",
+      "nursery_d_cor"
+    ]
+  },
+  {
+    "id": "55",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "styling_tools"
+    ]
+  },
+  {
+    "id": "56",
+    "ground_truth_product_type": [
+      "toys_games",
+      "sports_outdoor_play",
+      "pools_water_fun"
+    ]
+  },
+  {
+    "id": "57",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "medical_supplies_equipment",
+      "braces"
+    ]
+  },
+  {
+    "id": "58",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "household_supplies",
+      "household_batteries"
+    ]
+  },
+  {
+    "id": "59",
+    "ground_truth_product_type": [
+      "toys_games",
+      "games",
+      "board_games"
+    ]
+  },
+  {
+    "id": "60",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "medical_supplies_equipment",
+      "health_monitors"
+    ]
+  },
+  {
+    "id": "61",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "medical_supplies_equipment",
+      "braces"
+    ]
+  },
+  {
+    "id": "62",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering",
+      "portable_changing_pads"
+    ]
+  },
+  {
+    "id": "63",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "beds_furniture"
+    ]
+  },
+  {
+    "id": "64",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering",
+      "diaper_changing_kits"
+    ]
+  },
+  {
+    "id": "65",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering"
+    ]
+  },
+  {
+    "id": "66",
+    "ground_truth_product_type": [
+      "toys_games",
+      "electronics_for_kids"
+    ]
+  },
+  {
+    "id": "67",
+    "ground_truth_product_type": [
+      "baby_products",
+      "car_seats_accessories",
+      "car_seats"
+    ]
+  },
+  {
+    "id": "68",
+    "ground_truth_product_type": [
+      "beauty",
+      "makeup",
+      "nails"
+    ]
+  },
+  {
+    "id": "69",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "styling_products"
+    ]
+  },
+  {
+    "id": "70",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "pantry_staples"
+    ]
+  },
+  {
+    "id": "71",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "vitamins_supplements"
+    ]
+  },
+  {
+    "id": "72",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "snack_food",
+      "popcorn"
+    ]
+  },
+  {
+    "id": "73",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "health_care",
+      "pain_relievers"
+    ]
+  },
+  {
+    "id": "74",
+    "ground_truth_product_type": [
+      "beauty",
+      "bath_body",
+      "bathing_accessories"
+    ]
+  },
+  {
+    "id": "75",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "vitamins_supplements"
+    ]
+  },
+  {
+    "id": "76",
+    "ground_truth_product_type": [
+      "baby_products",
+      "potty_training",
+      "potties_seats"
+    ]
+  },
+  {
+    "id": "77",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "vitamins_supplements"
+    ]
+  },
+  {
+    "id": "78",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "beds_furniture"
+    ]
+  },
+  {
+    "id": "79",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "styling_tools"
+    ]
+  },
+  {
+    "id": "80",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "sexual_wellness",
+      "adult_toys_games"
+    ]
+  },
+  {
+    "id": "81",
+    "ground_truth_product_type": [
+      "beauty",
+      "skin_care",
+      "eyes"
+    ]
+  },
+  {
+    "id": "82",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "health_supplies"
+    ]
+  },
+  {
+    "id": "83",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering",
+      "diaper_bags"
+    ]
+  },
+  {
+    "id": "84",
+    "ground_truth_product_type": [
+      "beauty",
+      "fragrance",
+      "women_s"
+    ]
+  },
+  {
+    "id": "85",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "household_supplies",
+      "cleaning_tools"
+    ]
+  },
+  {
+    "id": "86",
+    "ground_truth_product_type": [
+      "baby_products",
+      "feeding",
+      "breastfeeding"
+    ]
+  },
+  {
+    "id": "87",
+    "ground_truth_product_type": [
+      "baby_products",
+      "pregnancy_maternity",
+      "maternity_pillows"
+    ]
+  },
+  {
+    "id": "88",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering",
+      "disposable_diapers"
+    ]
+  },
+  {
+    "id": "89",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "medical_supplies_equipment",
+      "braces"
+    ]
+  },
+  {
+    "id": "90",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "vitamins_supplements"
+    ]
+  },
+  {
+    "id": "91",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "medical_supplies_equipment",
+      "daily_living_aids"
+    ]
+  },
+  {
+    "id": "92",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "feeding_watering_supplies"
+    ]
+  },
+  {
+    "id": "93",
+    "ground_truth_product_type": [
+      "baby_products",
+      "safety",
+      "gates_doorways"
+    ]
+  },
+  {
+    "id": "94",
+    "ground_truth_product_type": [
+      "beauty",
+      "bath_body",
+      "cleansers"
+    ]
+  },
+  {
+    "id": "95",
+    "ground_truth_product_type": [
+      "baby_products",
+      "gear",
+      "backpacks_carriers"
+    ]
+  },
+  {
+    "id": "96",
+    "ground_truth_product_type": [
+      "toys_games",
+      "novelty_gag_toys",
+      "gag_toys_practical_jokes"
+    ]
+  },
+  {
+    "id": "97",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "houses"
+    ]
+  },
+  {
+    "id": "98",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "gourmet_gifts",
+      "dessert_gifts"
+    ]
+  },
+  {
+    "id": "99",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering",
+      "disposable_diapers"
+    ]
+  },
+  {
+    "id": "100",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "vitamins_supplements"
+    ]
+  },
+  {
+    "id": "101",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "pantry_staples"
+    ]
+  },
+  {
+    "id": "102",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "health_supplies"
+    ]
+  },
+  {
+    "id": "103",
+    "ground_truth_product_type": [
+      "baby_products",
+      "safety",
+      "edge_corner_guards"
+    ]
+  },
+  {
+    "id": "104",
+    "ground_truth_product_type": [
+      "toys_games",
+      "vehicles_remote_control",
+      "play_vehicles"
+    ]
+  },
+  {
+    "id": "105",
+    "ground_truth_product_type": [
+      "toys_games",
+      "baby_toddler_toys"
+    ]
+  },
+  {
+    "id": "106",
+    "ground_truth_product_type": [
+      "toys_games",
+      "electronics_for_kids",
+      "systems_accessories"
+    ]
+  },
+  {
+    "id": "107",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "fish_aquatic_pets",
+      "cleaners"
+    ]
+  },
+  {
+    "id": "108",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering",
+      "disposable_diapers"
+    ]
+  },
+  {
+    "id": "109",
+    "ground_truth_product_type": [
+      "beauty",
+      "tools_accessories",
+      "mirrors"
+    ]
+  },
+  {
+    "id": "110",
+    "ground_truth_product_type": [
+      "beauty",
+      "skin_care",
+      "face"
+    ]
+  },
+  {
+    "id": "111",
+    "ground_truth_product_type": [
+      "toys_games",
+      "baby_toddler_toys"
+    ]
+  },
+  {
+    "id": "112",
+    "ground_truth_product_type": [
+      "beauty",
+      "tools_accessories",
+      "nail_tools"
+    ]
+  },
+  {
+    "id": "113",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "personal_care",
+      "shaving_hair_removal"
+    ]
+  },
+  {
+    "id": "114",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "medical_supplies_equipment",
+      "beds_accessories"
+    ]
+  },
+  {
+    "id": "115",
+    "ground_truth_product_type": [
+      "toys_games",
+      "stuffed_animals_plush",
+      "plush_puppets"
+    ]
+  },
+  {
+    "id": "116",
+    "ground_truth_product_type": [
+      "beauty",
+      "bath_body",
+      "cleansers"
+    ]
+  },
+  {
+    "id": "117",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "gourmet_gifts",
+      "candy_gifts"
+    ]
+  },
+  {
+    "id": "118",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "beds_furniture"
+    ]
+  },
+  {
+    "id": "119",
+    "ground_truth_product_type": [
+      "toys_games",
+      "puzzles",
+      "d_puzzles"
+    ]
+  },
+  {
+    "id": "120",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "bunny_rabbit_central",
+      "food"
+    ]
+  },
+  {
+    "id": "121",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "personal_care",
+      "oral_hygiene"
+    ]
+  },
+  {
+    "id": "122",
+    "ground_truth_product_type": [
+      "toys_games",
+      "novelty_gag_toys",
+      "gag_toys_practical_jokes"
+    ]
+  },
+  {
+    "id": "123",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "grooming"
+    ]
+  },
+  {
+    "id": "124",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "fish_aquatic_pets",
+      "food"
+    ]
+  },
+  {
+    "id": "125",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "personal_care",
+      "shaving_hair_removal"
+    ]
+  },
+  {
+    "id": "126",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "medical_supplies_equipment",
+      "daily_living_aids"
+    ]
+  },
+  {
+    "id": "127",
+    "ground_truth_product_type": [
+      "beauty",
+      "makeup",
+      "face"
+    ]
+  },
+  {
+    "id": "128",
+    "ground_truth_product_type": [
+      "baby_products",
+      "safety",
+      "monitors"
+    ]
+  },
+  {
+    "id": "129",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "personal_care",
+      "lip_care_products"
+    ]
+  },
+  {
+    "id": "130",
+    "ground_truth_product_type": [
+      "beauty",
+      "makeup",
+      "nails"
+    ]
+  },
+  {
+    "id": "131",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "treats"
+    ]
+  },
+  {
+    "id": "132",
+    "ground_truth_product_type": [
+      "beauty",
+      "makeup",
+      "lips"
+    ]
+  },
+  {
+    "id": "133",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "hair_color"
+    ]
+  },
+  {
+    "id": "134",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "educational_repellents"
+    ]
+  },
+  {
+    "id": "135",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "health_care",
+      "alternative_medicine"
+    ]
+  },
+  {
+    "id": "136",
+    "ground_truth_product_type": [
+      "toys_games",
+      "grown_up_toys"
+    ]
+  },
+  {
+    "id": "137",
+    "ground_truth_product_type": [
+      "toys_games",
+      "electronics_for_kids"
+    ]
+  },
+  {
+    "id": "138",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "vitamins_supplements"
+    ]
+  },
+  {
+    "id": "139",
+    "ground_truth_product_type": [
+      "toys_games",
+      "hobbies",
+      "trains_accessories"
+    ]
+  },
+  {
+    "id": "140",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "herbs",
+      "spices_seasonings"
+    ]
+  },
+  {
+    "id": "141",
+    "ground_truth_product_type": [
+      "baby_products",
+      "feeding",
+      "breastfeeding"
+    ]
+  },
+  {
+    "id": "142",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "household_supplies",
+      "air_fresheners"
+    ]
+  },
+  {
+    "id": "143",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "health_care",
+      "pain_relievers"
+    ]
+  },
+  {
+    "id": "144",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "personal_care",
+      "shaving_hair_removal"
+    ]
+  },
+  {
+    "id": "145",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "personal_care",
+      "shaving_hair_removal"
+    ]
+  },
+  {
+    "id": "146",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "hair_color"
+    ]
+  },
+  {
+    "id": "147",
+    "ground_truth_product_type": [
+      "toys_games",
+      "action_toy_figures",
+      "figures"
+    ]
+  },
+  {
+    "id": "148",
+    "ground_truth_product_type": [
+      "baby_products",
+      "safety",
+      "monitors"
+    ]
+  },
+  {
+    "id": "149",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "candy_chocolate",
+      "gummy_candies"
+    ]
+  },
+  {
+    "id": "150",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "household_supplies",
+      "cleaning_tools"
+    ]
+  },
+  {
+    "id": "151",
+    "ground_truth_product_type": [
+      "beauty",
+      "bath_body"
+    ]
+  },
+  {
+    "id": "152",
+    "ground_truth_product_type": [
+      "toys_games",
+      "sports_outdoor_play",
+      "pools_water_fun"
+    ]
+  },
+  {
+    "id": "153",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "medical_supplies_equipment",
+      "health_monitors"
+    ]
+  },
+  {
+    "id": "154",
+    "ground_truth_product_type": [
+      "toys_games",
+      "arts_crafts",
+      "craft_kits"
+    ]
+  },
+  {
+    "id": "155",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "health_supplies"
+    ]
+  },
+  {
+    "id": "156",
+    "ground_truth_product_type": [
+      "toys_games",
+      "building_toys",
+      "building_sets"
+    ]
+  },
+  {
+    "id": "157",
+    "ground_truth_product_type": [
+      "toys_games",
+      "arts_crafts",
+      "easels"
+    ]
+  },
+  {
+    "id": "158",
+    "ground_truth_product_type": [
+      "toys_games",
+      "building_toys",
+      "building_sets"
+    ]
+  },
+  {
+    "id": "159",
+    "ground_truth_product_type": [
+      "baby_products",
+      "safety",
+      "harnesses_leashes"
+    ]
+  },
+  {
+    "id": "160",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "toys"
+    ]
+  },
+  {
+    "id": "161",
+    "ground_truth_product_type": [
+      "baby_products",
+      "potty_training",
+      "step_stools"
+    ]
+  },
+  {
+    "id": "162",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "medical_supplies_equipment",
+      "braces"
+    ]
+  },
+  {
+    "id": "163",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "shampoos"
+    ]
+  },
+  {
+    "id": "164",
+    "ground_truth_product_type": [
+      "toys_games",
+      "stuffed_animals_plush",
+      "animals_figures"
+    ]
+  },
+  {
+    "id": "165",
+    "ground_truth_product_type": [
+      "baby_products",
+      "health_baby_care",
+      "teethers"
+    ]
+  },
+  {
+    "id": "166",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "nutrition_bars_drinks"
+    ]
+  },
+  {
+    "id": "167",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering",
+      "wipes_holders"
+    ]
+  },
+  {
+    "id": "168",
+    "ground_truth_product_type": [
+      "toys_games",
+      "building_toys",
+      "building_sets"
+    ]
+  },
+  {
+    "id": "169",
+    "ground_truth_product_type": [
+      "beauty",
+      "makeup",
+      "eyes"
+    ]
+  },
+  {
+    "id": "170",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "sexual_wellness",
+      "adult_toys_games"
+    ]
+  },
+  {
+    "id": "171",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "personal_care",
+      "shaving_hair_removal"
+    ]
+  },
+  {
+    "id": "172",
+    "ground_truth_product_type": [
+      "baby_products",
+      "strollers",
+      "tandem"
+    ]
+  },
+  {
+    "id": "173",
+    "ground_truth_product_type": [
+      "toys_games",
+      "dolls_accessories",
+      "dollhouses"
+    ]
+  },
+  {
+    "id": "174",
+    "ground_truth_product_type": [
+      "toys_games",
+      "baby_toddler_toys",
+      "car_seat_stroller_toys"
+    ]
+  },
+  {
+    "id": "175",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "health_care",
+      "pain_relievers"
+    ]
+  },
+  {
+    "id": "176",
+    "ground_truth_product_type": [
+      "beauty",
+      "skin_care",
+      "body"
+    ]
+  },
+  {
+    "id": "177",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "fish_aquatic_pets",
+      "aquarium_d_cor"
+    ]
+  },
+  {
+    "id": "178",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "styling_tools"
+    ]
+  },
+  {
+    "id": "179",
+    "ground_truth_product_type": [
+      "beauty",
+      "fragrance",
+      "women_s"
+    ]
+  },
+  {
+    "id": "180",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "hair_scalp_treatments"
+    ]
+  },
+  {
+    "id": "181",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "vitamins_supplements"
+    ]
+  },
+  {
+    "id": "182",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "health_care",
+      "massage_relaxation"
+    ]
+  },
+  {
+    "id": "183",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "nutrition_bars_drinks"
+    ]
+  },
+  {
+    "id": "184",
+    "ground_truth_product_type": [
+      "baby_products",
+      "nursery"
+    ]
+  },
+  {
+    "id": "185",
+    "ground_truth_product_type": [
+      "toys_games",
+      "grown_up_toys"
+    ]
+  },
+  {
+    "id": "186",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "household_supplies",
+      "lighters"
+    ]
+  },
+  {
+    "id": "187",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "hair_color"
+    ]
+  },
+  {
+    "id": "188",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "hair_color"
+    ]
+  },
+  {
+    "id": "189",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "beverages",
+      "tea"
+    ]
+  },
+  {
+    "id": "190",
+    "ground_truth_product_type": [
+      "toys_games",
+      "electronics_for_kids",
+      "systems_accessories"
+    ]
+  },
+  {
+    "id": "191",
+    "ground_truth_product_type": [
+      "toys_games",
+      "vehicles_remote_control",
+      "vehicle_playsets"
+    ]
+  },
+  {
+    "id": "192",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "pantry_staples",
+      "sauces"
+    ]
+  },
+  {
+    "id": "193",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "feeding_watering_supplies"
+    ]
+  },
+  {
+    "id": "194",
+    "ground_truth_product_type": [
+      "toys_games",
+      "building_toys",
+      "building_sets"
+    ]
+  },
+  {
+    "id": "195",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "household_supplies",
+      "cleaning_tools"
+    ]
+  },
+  {
+    "id": "196",
+    "ground_truth_product_type": [
+      "toys_games",
+      "stuffed_animals_plush",
+      "animals_figures"
+    ]
+  },
+  {
+    "id": "197",
+    "ground_truth_product_type": [
+      "toys_games",
+      "stuffed_animals_plush",
+      "animals_figures"
+    ]
+  },
+  {
+    "id": "198",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "breads_bakery",
+      "cookies"
+    ]
+  },
+  {
+    "id": "199",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "feeding_watering_supplies"
+    ]
+  },
+  {
+    "id": "200",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "houses"
+    ]
+  },
+  {
+    "id": "201",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "vitamins_supplements"
+    ]
+  },
+  {
+    "id": "202",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "collars"
+    ]
+  },
+  {
+    "id": "203",
+    "ground_truth_product_type": [
+      "beauty",
+      "fragrance",
+      "men_s"
+    ]
+  },
+  {
+    "id": "204",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "pantry_staples"
+    ]
+  },
+  {
+    "id": "205",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "nutrition_bars_drinks"
+    ]
+  },
+  {
+    "id": "206",
+    "ground_truth_product_type": [
+      "baby_products",
+      "diapering",
+      "disposable_diapers"
+    ]
+  },
+  {
+    "id": "207",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "collars"
+    ]
+  },
+  {
+    "id": "208",
+    "ground_truth_product_type": [
+      "toys_games",
+      "baby_toddler_toys",
+      "bath_toys"
+    ]
+  },
+  {
+    "id": "209",
+    "ground_truth_product_type": [
+      "baby_products",
+      "nursery"
+    ]
+  },
+  {
+    "id": "210",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "personal_care",
+      "lip_care_products"
+    ]
+  },
+  {
+    "id": "211",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "health_care",
+      "incontinence"
+    ]
+  },
+  {
+    "id": "212",
+    "ground_truth_product_type": [
+      "beauty",
+      "fragrance",
+      "women_s"
+    ]
+  },
+  {
+    "id": "213",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "houses"
+    ]
+  },
+  {
+    "id": "214",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "snack_food",
+      "chips_crisps"
+    ]
+  },
+  {
+    "id": "215",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "food"
+    ]
+  },
+  {
+    "id": "216",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "vitamins_supplements"
+    ]
+  },
+  {
+    "id": "217",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "pantry_staples"
+    ]
+  },
+  {
+    "id": "218",
+    "ground_truth_product_type": [
+      "toys_games",
+      "games",
+      "board_games"
+    ]
+  },
+  {
+    "id": "219",
+    "ground_truth_product_type": [
+      "baby_products",
+      "car_seats_accessories",
+      "accessories"
+    ]
+  },
+  {
+    "id": "220",
+    "ground_truth_product_type": [
+      "toys_games",
+      "novelty_gag_toys",
+      "wind_up_toys"
+    ]
+  },
+  {
+    "id": "221",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "vitamins_supplements"
+    ]
+  },
+  {
+    "id": "222",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "pantry_staples"
+    ]
+  },
+  {
+    "id": "223",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "sexual_wellness",
+      "adult_toys_games"
+    ]
+  },
+  {
+    "id": "224",
+    "ground_truth_product_type": [
+      "beauty",
+      "fragrance",
+      "men_s"
+    ]
+  },
+  {
+    "id": "225",
+    "ground_truth_product_type": [
+      "toys_games",
+      "games",
+      "board_games"
+    ]
+  },
+  {
+    "id": "226",
+    "ground_truth_product_type": [
+      "beauty",
+      "fragrance"
+    ]
+  },
+  {
+    "id": "227",
+    "ground_truth_product_type": [
+      "baby_products",
+      "gear",
+      "swings"
+    ]
+  },
+  {
+    "id": "228",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "litter_housebreaking"
+    ]
+  },
+  {
+    "id": "229",
+    "ground_truth_product_type": [
+      "baby_products",
+      "pregnancy_maternity",
+      "maternity_pillows"
+    ]
+  },
+  {
+    "id": "230",
+    "ground_truth_product_type": [
+      "baby_products",
+      "car_seats_accessories",
+      "car_seats"
+    ]
+  },
+  {
+    "id": "231",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "pantry_staples"
+    ]
+  },
+  {
+    "id": "232",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "dogs",
+      "training_behavior_aids"
+    ]
+  },
+  {
+    "id": "233",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "pantry_staples",
+      "sauces"
+    ]
+  },
+  {
+    "id": "234",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "nutrition_bars_drinks"
+    ]
+  },
+  {
+    "id": "235",
+    "ground_truth_product_type": [
+      "grocery_gourmet_food",
+      "beverages",
+      "hot_cocoa"
+    ]
+  },
+  {
+    "id": "236",
+    "ground_truth_product_type": [
+      "pet_supplies",
+      "cats",
+      "grooming"
+    ]
+  },
+  {
+    "id": "237",
+    "ground_truth_product_type": [
+      "beauty",
+      "skin_care"
+    ]
+  },
+  {
+    "id": "238",
+    "ground_truth_product_type": [
+      "beauty",
+      "hair_care",
+      "styling_tools"
+    ]
+  },
+  {
+    "id": "239",
+    "ground_truth_product_type": [
+      "toys_games",
+      "games"
+    ]
+  },
+  {
+    "id": "240",
+    "ground_truth_product_type": [
+      "beauty",
+      "skin_care",
+      "face"
+    ]
+  },
+  {
+    "id": "241",
+    "ground_truth_product_type": [
+      "toys_games",
+      "dolls_accessories",
+      "dollhouses"
+    ]
+  },
+  {
+    "id": "242",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "nutrition_wellness",
+      "nutrition_bars_drinks"
+    ]
+  },
+  {
+    "id": "243",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "household_supplies",
+      "household_batteries"
+    ]
+  },
+  {
+    "id": "244",
+    "ground_truth_product_type": [
+      "toys_games",
+      "baby_toddler_toys",
+      "stuffed_animals_toys"
+    ]
+  },
+  {
+    "id": "245",
+    "ground_truth_product_type": [
+      "beauty",
+      "bath_body",
+      "cleansers"
+    ]
+  },
+  {
+    "id": "246",
+    "ground_truth_product_type": [
+      "beauty",
+      "tools_accessories",
+      "cotton_swabs"
+    ]
+  },
+  {
+    "id": "247",
+    "ground_truth_product_type": [
+      "health_personal_care",
+      "medical_supplies_equipment",
+      "occupational_physical_therapy_aids"
+    ]
+  },
+  {
+    "id": "248",
+    "ground_truth_product_type": [
+      "toys_games",
+      "action_toy_figures",
+      "figures"
+    ]
+  },
+  {
+    "id": "249",
+    "ground_truth_product_type": [
+      "toys_games",
+      "building_toys",
+      "building_sets"
+    ]
+  }
+]

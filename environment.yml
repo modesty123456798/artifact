@@ -1,0 +1,11 @@
+name: full-isolation-join
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.19
+  - pip
+  - pip:
+      - numpy==2.2.6
+      - openai==2.16.0
+      - pandas==2.3.3
+      - tiktoken==0.13.0

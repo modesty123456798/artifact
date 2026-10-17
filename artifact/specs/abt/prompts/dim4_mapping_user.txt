@@ -1,0 +1,9 @@
+You will read one product record from a source product catalog. Rewrite it as a concise, canonical, match-ready product representation for identifying the same real-world product in another catalog.
+
+--- SOURCE PRODUCT RECORD START ---
+{product_text}
+--- SOURCE PRODUCT RECORD END ---
+
+INSTRUCTIONS:
+• Preserve the exact brand, manufacturer, product line, model number, part number, SKU, and other identifying codes when present.
+• Return one compact plain-text product representation only.
