@@ -90,7 +90,7 @@ def load_jsonl(path: Path) -> list[dict[str, Any]]:
 
 def load_probe_order(source_dir: Path) -> pd.DataFrame:
     judgments = pd.read_csv(
-        source_dir / "pairs_skyband_llm_results.csv",
+        source_dir / "pairs_anti_dominance_llm_results.csv",
         usecols=["_left_id", "_right_id", "rpe_match"],
     )
     pair_columns = ["_left_id", "_right_id"]
@@ -103,7 +103,7 @@ def load_probe_order(source_dir: Path) -> pd.DataFrame:
 
     ordered_pairs: list[tuple[int, int]] = []
     seen: set[tuple[int, int]] = set()
-    response_path = source_dir / "llm_skyband_prompting_responses.jsonl"
+    response_path = source_dir / "llm_anti_dominance_prompting_responses.jsonl"
     for record in load_jsonl(response_path):
         if "left_id" not in record or "right_ids" not in record:
             continue

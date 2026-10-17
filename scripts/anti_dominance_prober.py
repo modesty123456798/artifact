@@ -752,7 +752,7 @@ def interleave_groups(grouped_indices: Sequence[Sequence[int]]) -> List[int]:
     return interleaved
 
 
-def compute_k_skyband_indices(
+def compute_anti_dominance_indices(
     subset: pd.DataFrame,
     dimension_columns: Sequence[str],
     k_value: int,
@@ -918,17 +918,17 @@ def process_group(
     if pending_count == 0:
         return 0, 0, 0, []
 
-    candidates = compute_k_skyband_indices(
+    candidates = compute_anti_dominance_indices(
         group_df,
         args.dimension_columns,
         k_value,
-        args.skyband_dominated_count_cache,
+        args.anti_dominance_dominated_count_cache,
     )
     new_indices = [idx for idx in candidates if pd.isna(df.at[idx, "rpe_match"])]
     if budget_remaining is not None:
         new_indices = new_indices[:budget_remaining]
-    print(f"{k_value}_skyband candidates: {len(candidates)}")
-    print(f"{k_value}_skyband new increased candidates: {len(new_indices)}")
+    print(f"{k_value}_anti_dominance candidates: {len(candidates)}")
+    print(f"{k_value}_anti_dominance new increased candidates: {len(new_indices)}")
     if not new_indices:
         return 0, 0, 0, []
 
@@ -977,7 +977,7 @@ def process_group(
                 batch_indices,
                 candidate_texts,
                 llm_result["candidate_results"],
-                f"[iter {iteration} | skyband] {llm_result['reasoning']}",
+                f"[iter {iteration} | anti_dominance] {llm_result['reasoning']}",
             )
         elif args.batch_mode == "left_anchored_multi_right":
             prompt = build_left_anchored_prompt(
@@ -1003,7 +1003,7 @@ def process_group(
                 batch_indices,
                 candidate_texts,
                 llm_result["candidate_results"],
-                f"[iter {iteration} | skyband] {llm_result['reasoning']}",
+                f"[iter {iteration} | anti_dominance] {llm_result['reasoning']}",
             )
             # import pdb;pdb.set_trace()
         else:
@@ -1028,7 +1028,7 @@ def process_group(
                 batch_indices,
                 candidate_texts,
                 llm_result["matches"],
-                f"[iter {iteration} | skyband] {llm_result['reasoning']}",
+                f"[iter {iteration} | anti_dominance] {llm_result['reasoning']}",
             )
         # import pdb; pdb.set_trace()
         batch_completion_tokens = int(llm_result.get("completion_tokens", 0) or 0)
@@ -1037,7 +1037,7 @@ def process_group(
         prompt_tokens_used += batch_prompt_tokens
 
         record = {
-            "call_type": "skyband_batch",
+            "call_type": "anti_dominance_batch",
             "iteration": iteration,
             "k_value": k_value,
             "row_indices": batch_indices,
@@ -1260,11 +1260,11 @@ def collect_round_robin_indices(
             break
 
         current_k = int(args.round_robin_k_by_left.get(left_id, args.initial_k))
-        candidates = compute_k_skyband_indices(
+        candidates = compute_anti_dominance_indices(
             group_df,
             args.dimension_columns,
             current_k,
-            args.skyband_dominated_count_cache,
+            args.anti_dominance_dominated_count_cache,
         )
         new_indices = [
             idx
@@ -1291,7 +1291,7 @@ def collect_round_robin_indices(
 def main() -> None:
     global DEFAULT_LEFT_ANCHORED_SYSTEM_PROMPT
     parser = argparse.ArgumentParser(
-        description="Iteratively expand k-skyband groups per left item and validate matches via batch prompting."
+        description="Iteratively expand anti-dominance candidate groups per left item and validate matches via batch prompting."
     )
     parser.add_argument(
         "--output-dir",
@@ -1345,7 +1345,7 @@ def main() -> None:
         "--round-robin-state-json",
         type=Path,
         default=None,
-        help="Where to persist round-robin l_r and per-left skyband depth for resume.",
+        help="Where to persist round-robin l_r and per-left anti-dominance depth for resume.",
     )
     parser.add_argument(
         "--ground-truth-path",
@@ -1400,7 +1400,7 @@ def main() -> None:
         "--initial-k",
         type=int,
         default=1,
-        help="Initial k value for the k-skyband per _left_id group.",
+        help="Initial anti-dominance depth per _left_id group.",
     )
     parser.add_argument(
         "--k-increment",
@@ -1456,7 +1456,7 @@ def main() -> None:
         "--dimension-columns",
         nargs="*",
         default=["score_summary", "score_target_aware"],
-        help="Score columns used to compute skybands. Leave empty to process all candidates without skyband filtering.",
+        help="Score columns used to compute anti-dominance candidates. Leave empty to process all candidates without filtering.",
     )
     parser.add_argument(
         "--left-json",
@@ -1638,27 +1638,27 @@ def main() -> None:
     output_csv = (
         resolve_path(base_dir, args.output_csv)
         if args.output_csv
-        else output_dir / "pairs_skyband_llm_results.csv"
+        else output_dir / "pairs_anti_dominance_llm_results.csv"
     )
     output_jsonl = (
         resolve_path(base_dir, args.output_jsonl)
         if args.output_jsonl
-        else output_dir / "llm_skyband_prompting_responses.jsonl"
+        else output_dir / "llm_anti_dominance_prompting_responses.jsonl"
     )
     iteration_output_dir = (
         resolve_path(base_dir, args.iteration_output_dir)
         if args.iteration_output_dir
-        else output_dir / "skyband_iteration_snapshots"
+        else output_dir / "anti_dominance_iteration_snapshots"
     )
     metrics_jsonl = (
         resolve_path(base_dir, args.metrics_jsonl)
         if args.metrics_jsonl
-        else output_dir / "skyband_prompting_metrics.jsonl"
+        else output_dir / "anti_dominance_prompting_metrics.jsonl"
     )
     subproblem_metrics_jsonl = (
         resolve_path(base_dir, args.subproblem_metrics_jsonl)
         if args.subproblem_metrics_jsonl
-        else output_dir / "skyband_subproblem_metrics.jsonl"
+        else output_dir / "anti_dominance_subproblem_metrics.jsonl"
     )
     round_robin_state_json = (
         resolve_path(base_dir, args.round_robin_state_json)
@@ -1740,7 +1740,7 @@ def main() -> None:
 
     iteration = 0
     k_value = args.initial_k
-    args.skyband_dominated_count_cache = {}
+    args.anti_dominance_dominated_count_cache = {}
     left_ids_in_order = [int(left_id) for left_id, _ in df.groupby("_left_id", sort=False)]
     args.round_robin_l_by_left = {
         left_id: int(args.round_robin_initial_l) for left_id in left_ids_in_order
@@ -1859,11 +1859,11 @@ def main() -> None:
                 pending_count = int(pending_mask.sum())
                 if pending_count == 0:
                     continue
-                candidates = compute_k_skyband_indices(
+                candidates = compute_anti_dominance_indices(
                     group_df,
                     args.dimension_columns,
                     k_value,
-                    args.skyband_dominated_count_cache,
+                    args.anti_dominance_dominated_count_cache,
                 )
                 new_indices = [
                     idx for idx in candidates if pd.isna(df.at[idx, "rpe_match"])
@@ -2185,7 +2185,7 @@ def main() -> None:
     final_output_csv = output_csv.with_suffix(output_csv.suffix + ".final.csv")
     write_minimal_results(df, final_output_csv)
     print(
-        f"Completed k-skyband prompting. Incremental checkpoint saved to {output_csv}, "
+        f"Completed anti-dominance prompting. Incremental checkpoint saved to {output_csv}, "
         f"final full results saved to {final_output_csv}, responses in {output_jsonl}."
     )
 
