@@ -26,6 +26,15 @@ Replace `biodex` with `eurlex57k`, `amazon`, `dbpedia`, or `abt`. Use
 `--target-decided N` to set a probing budget and `--run-root PATH` to choose
 an output directory.
 
+## Plot results
+
+After probing, plot true positives against probed pairs. Once ranking and
+metrics have completed, the same command also writes ranking precision curves:
+
+```bash
+python plot_results.py --dataset biodex --run-root artifact_runs/full_isolation_join/biodex
+```
+
 ## External baselines
 
 - [DocETL](https://github.com/ucbepic/docetl)
