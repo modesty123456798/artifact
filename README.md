@@ -18,8 +18,8 @@ Run the three stages separately:
 ```bash
 python run_pipeline.py --dataset biodex --stage dimensions
 python run_pipeline.py --dataset biodex --stage probe
-python run_pipeline.py --dataset biodex --stage rank --decided-points 5000 11260 15100 22500
-python run_pipeline.py --dataset biodex --stage metrics --decided-points 5000 11260 15100 22500
+python run_pipeline.py --dataset biodex --stage rank --decided-points 5000 11260 15100 20000
+python run_pipeline.py --dataset biodex --stage metrics --decided-points 5000 11260 15100 20000
 ```
 
 Replace `biodex` with `eurlex57k`, `amazon`, `dbpedia`, or `abt`. Use
