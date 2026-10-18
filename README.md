@@ -1,7 +1,7 @@
 # Isolation Join reproduction
 
-This artifact reproduces our Isolation Join pipeline on BioDEX, EURLEX57K,
-Amazon-531, DBpedia-298, and ABT.
+This artifact reproduces Isolation Join on BioDEX, EURLEX57K, Amazon-531,
+DBpedia-298, and ABT.
 
 ## Setup
 
@@ -11,21 +11,13 @@ conda activate full-isolation-join
 export OPENAI_API_KEY='...'
 ```
 
-The bundled evaluation inputs are under `data/`. See
-`DATASET_PROVENANCE.md` before redistributing them.
-
 ## Run
 
 Run the three stages separately:
 
 ```bash
-# Generate the two mapped representations and their embedding similarities.
 python run_pipeline.py --dataset biodex --stage dimensions
-
-# Run anti-dominance LLM probing.
 python run_pipeline.py --dataset biodex --stage probe
-
-# Rank LLM-positive candidates and compute RP@k.
 python run_pipeline.py --dataset biodex --stage rank --decided-points 5000 11260 15100 22500
 python run_pipeline.py --dataset biodex --stage metrics --decided-points 5000 11260 15100 22500
 ```
@@ -33,13 +25,6 @@ python run_pipeline.py --dataset biodex --stage metrics --decided-points 5000 11
 Replace `biodex` with `eurlex57k`, `amazon`, `dbpedia`, or `abt`. Use
 `--target-decided N` to set a probing budget and `--run-root PATH` to choose
 an output directory.
-
-## Pipeline
-
-1. `dimensions`: generate embedding similarity dimensions.
-2. `probe`: apply two-dimensional anti-dominance, round-robin LLM probing.
-3. `rank` and `metrics`: rank LLM-positive candidates at selected prefixes and
-   compute ranking precision.
 
 ## External baselines
 
